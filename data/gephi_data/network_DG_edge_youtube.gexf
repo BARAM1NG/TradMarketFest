@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-10-14">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="가면" label="가면" />
+      <node id="가정" label="가정" />
+      <node id="개통" label="개통" />
+      <node id="경비실" label="경비실" />
+      <node id="괜찮다" label="괜찮다" />
+      <node id="국자" label="국자" />
+      <node id="기름" label="기름" />
+      <node id="나무" label="나무" />
+      <node id="냄비" label="냄비" />
+      <node id="당사자" label="당사자" />
+      <node id="대구" label="대구" />
+      <node id="대표" label="대표" />
+      <node id="댓글" label="댓글" />
+      <node id="동안" label="동안" />
+      <node id="동전" label="동전" />
+      <node id="동한" label="동한" />
+      <node id="듣기" label="듣기" />
+      <node id="떡볶이" label="떡볶이" />
+      <node id="뜨겁다" label="뜨겁다" />
+      <node id="라며" label="라며" />
+      <node id="많다" label="많다" />
+      <node id="맛있다" label="맛있다" />
+      <node id="맛집" label="맛집" />
+      <node id="매장" label="매장" />
+      <node id="멜라민" label="멜라민" />
+      <node id="며못" label="며못" />
+      <node id="면서" label="면서" />
+      <node id="모집" label="모집" />
+      <node id="물질" label="물질" />
+      <node id="미리" label="미리" />
+      <node id="민경" label="민경" />
+      <node id="바로" label="바로" />
+      <node id="발암" label="발암" />
+      <node id="배달" label="배달" />
+      <node id="백화점" label="백화점" />
+      <node id="빵가루" label="빵가루" />
+      <node id="사용" label="사용" />
+      <node id="서문시장" label="서문시장" />
+      <node id="소리" label="소리" />
+      <node id="스텐" label="스텐" />
+      <node id="실리콘" label="실리콘" />
+      <node id="아니다" label="아니다" />
+      <node id="안보" label="안보" />
+      <node id="야합" label="야합" />
+      <node id="없다" label="없다" />
+      <node id="여기" label="여기" />
+      <node id="오픈" label="오픈" />
+      <node id="음식" label="음식" />
+      <node id="의심" label="의심" />
+      <node id="이동" label="이동" />
+      <node id="이유" label="이유" />
+      <node id="이준석" label="이준석" />
+      <node id="장군" label="장군" />
+      <node id="전화번호" label="전화번호" />
+      <node id="제외" label="제외" />
+      <node id="좋다" label="좋다" />
+      <node id="주걱" label="주걱" />
+      <node id="주방" label="주방" />
+      <node id="처음" label="처음" />
+      <node id="치킨" label="치킨" />
+      <node id="코팅" label="코팅" />
+      <node id="클로즈" label="클로즈" />
+      <node id="프라스" label="프라스" />
+      <node id="플라스틱" label="플라스틱" />
+      <node id="해도" label="해도" />
+      <node id="환경호르몬" label="환경호르몬" />
+    </nodes>
+    <edges>
+      <edge source="가면" target="서문시장" id="0" weight="10" />
+      <edge source="가정" target="괜찮다" id="1" weight="10" />
+      <edge source="가정" target="당사자" id="2" weight="29" />
+      <edge source="가정" target="며못" id="3" weight="10" />
+      <edge source="가정" target="오픈" id="4" weight="17" />
+      <edge source="가정" target="이동" id="5" weight="31" />
+      <edge source="가정" target="전화번호" id="6" weight="10" />
+      <edge source="가정" target="처음" id="7" weight="12" />
+      <edge source="가정" target="클로즈" id="8" weight="17" />
+      <edge source="개통" target="당사자" id="9" weight="13" />
+      <edge source="개통" target="이동" id="10" weight="15" />
+      <edge source="경비실" target="당사자" id="11" weight="13" />
+      <edge source="경비실" target="이동" id="12" weight="15" />
+      <edge source="괜찮다" target="당사자" id="13" weight="29" />
+      <edge source="괜찮다" target="며못" id="14" weight="10" />
+      <edge source="괜찮다" target="오픈" id="15" weight="17" />
+      <edge source="괜찮다" target="이동" id="16" weight="31" />
+      <edge source="괜찮다" target="전화번호" id="17" weight="10" />
+      <edge source="괜찮다" target="처음" id="18" weight="12" />
+      <edge source="괜찮다" target="클로즈" id="19" weight="17" />
+      <edge source="국자" target="스텐" id="20" weight="12" />
+      <edge source="국자" target="좋다" id="21" weight="12" />
+      <edge source="국자" target="플라스틱" id="22" weight="80" />
+      <edge source="기름" target="빵가루" id="23" weight="10" />
+      <edge source="기름" target="치킨" id="24" weight="15" />
+      <edge source="나무" target="실리콘" id="25" weight="11" />
+      <edge source="나무" target="좋다" id="26" weight="13" />
+      <edge source="나무" target="주걱" id="27" weight="43" />
+      <edge source="나무" target="플라스틱" id="28" weight="14" />
+      <edge source="냄비" target="코팅" id="29" weight="15" />
+      <edge source="당사자" target="댓글" id="30" weight="18" />
+      <edge source="당사자" target="동안" id="31" weight="18" />
+      <edge source="당사자" target="동전" id="32" weight="10" />
+      <edge source="당사자" target="동한" id="33" weight="16" />
+      <edge source="당사자" target="듣기" id="34" weight="10" />
+      <edge source="당사자" target="라며" id="35" weight="21" />
+      <edge source="당사자" target="매장" id="36" weight="16" />
+      <edge source="당사자" target="며못" id="37" weight="29" />
+      <edge source="당사자" target="면서" id="38" weight="21" />
+      <edge source="당사자" target="모집" id="39" weight="10" />
+      <edge source="당사자" target="미리" id="40" weight="16" />
+      <edge source="당사자" target="배달" id="41" weight="31" />
+      <edge source="당사자" target="백화점" id="42" weight="16" />
+      <edge source="당사자" target="소리" id="43" weight="10" />
+      <edge source="당사자" target="안보" id="44" weight="13" />
+      <edge source="당사자" target="야합" id="45" weight="13" />
+      <edge source="당사자" target="오픈" id="46" weight="50" />
+      <edge source="당사자" target="이동" id="47" weight="99" />
+      <edge source="당사자" target="전화번호" id="48" weight="29" />
+      <edge source="당사자" target="제외" id="49" weight="13" />
+      <edge source="당사자" target="처음" id="50" weight="46" />
+      <edge source="당사자" target="클로즈" id="51" weight="50" />
+      <edge source="당사자" target="해도" id="52" weight="21" />
+      <edge source="대구" target="맛집" id="53" weight="11" />
+      <edge source="대구" target="서문시장" id="54" weight="25" />
+      <edge source="대표" target="이준석" id="55" weight="13" />
+      <edge source="댓글" target="이동" id="56" weight="22" />
+      <edge source="댓글" target="처음" id="57" weight="14" />
+      <edge source="동안" target="이동" id="58" weight="22" />
+      <edge source="동안" target="처음" id="59" weight="14" />
+      <edge source="동전" target="이동" id="60" weight="16" />
+      <edge source="동전" target="처음" id="61" weight="12" />
+      <edge source="동한" target="오픈" id="62" weight="10" />
+      <edge source="동한" target="이동" id="63" weight="16" />
+      <edge source="동한" target="클로즈" id="64" weight="10" />
+      <edge source="듣기" target="이동" id="65" weight="14" />
+      <edge source="듣기" target="처음" id="66" weight="12" />
+      <edge source="떡볶이" target="맛있다" id="67" weight="19" />
+      <edge source="떡볶이" target="플라스틱" id="68" weight="20" />
+      <edge source="뜨겁다" target="플라스틱" id="69" weight="19" />
+      <edge source="라며" target="오픈" id="70" weight="12" />
+      <edge source="라며" target="이동" id="71" weight="25" />
+      <edge source="라며" target="처음" id="72" weight="10" />
+      <edge source="라며" target="클로즈" id="73" weight="12" />
+      <edge source="많다" target="플라스틱" id="74" weight="10" />
+      <edge source="맛있다" target="서문시장" id="75" weight="20" />
+      <edge source="맛있다" target="여기" id="76" weight="11" />
+      <edge source="매장" target="오픈" id="77" weight="10" />
+      <edge source="매장" target="이동" id="78" weight="16" />
+      <edge source="매장" target="클로즈" id="79" weight="10" />
+      <edge source="멜라민" target="의심" id="80" weight="29" />
+      <edge source="멜라민" target="이유" id="81" weight="27" />
+      <edge source="멜라민" target="주방" id="82" weight="29" />
+      <edge source="멜라민" target="환경호르몬" id="83" weight="31" />
+      <edge source="며못" target="오픈" id="84" weight="17" />
+      <edge source="며못" target="이동" id="85" weight="31" />
+      <edge source="며못" target="전화번호" id="86" weight="10" />
+      <edge source="며못" target="처음" id="87" weight="12" />
+      <edge source="며못" target="클로즈" id="88" weight="17" />
+      <edge source="면서" target="오픈" id="89" weight="12" />
+      <edge source="면서" target="이동" id="90" weight="23" />
+      <edge source="면서" target="처음" id="91" weight="10" />
+      <edge source="면서" target="클로즈" id="92" weight="12" />
+      <edge source="모집" target="이동" id="93" weight="14" />
+      <edge source="모집" target="처음" id="94" weight="12" />
+      <edge source="물질" target="발암" id="95" weight="19" />
+      <edge source="미리" target="오픈" id="96" weight="10" />
+      <edge source="미리" target="이동" id="97" weight="16" />
+      <edge source="미리" target="클로즈" id="98" weight="10" />
+      <edge source="민경" target="장군" id="99" weight="14" />
+      <edge source="바로" target="이동" id="100" weight="12" />
+      <edge source="배달" target="오픈" id="101" weight="16" />
+      <edge source="배달" target="음식" id="102" weight="12" />
+      <edge source="배달" target="이동" id="103" weight="37" />
+      <edge source="배달" target="처음" id="104" weight="22" />
+      <edge source="배달" target="클로즈" id="105" weight="16" />
+      <edge source="백화점" target="오픈" id="106" weight="10" />
+      <edge source="백화점" target="이동" id="107" weight="16" />
+      <edge source="백화점" target="클로즈" id="108" weight="10" />
+      <edge source="사용" target="플라스틱" id="109" weight="10" />
+      <edge source="소리" target="이동" id="110" weight="14" />
+      <edge source="소리" target="처음" id="111" weight="12" />
+      <edge source="아니다" target="플라스틱" id="112" weight="14" />
+      <edge source="안보" target="이동" id="113" weight="15" />
+      <edge source="야합" target="이동" id="114" weight="15" />
+      <edge source="없다" target="플라스틱" id="115" weight="17" />
+      <edge source="오픈" target="이동" id="116" weight="54" />
+      <edge source="오픈" target="전화번호" id="117" weight="17" />
+      <edge source="오픈" target="처음" id="118" weight="22" />
+      <edge source="오픈" target="클로즈" id="119" weight="29" />
+      <edge source="오픈" target="해도" id="120" weight="12" />
+      <edge source="음식" target="플라스틱" id="121" weight="17" />
+      <edge source="의심" target="이유" id="122" weight="26" />
+      <edge source="의심" target="주방" id="123" weight="28" />
+      <edge source="의심" target="환경호르몬" id="124" weight="27" />
+      <edge source="이동" target="전화번호" id="125" weight="31" />
+      <edge source="이동" target="제외" id="126" weight="15" />
+      <edge source="이동" target="처음" id="127" weight="58" />
+      <edge source="이동" target="클로즈" id="128" weight="54" />
+      <edge source="이동" target="해도" id="129" weight="23" />
+      <edge source="이유" target="주방" id="130" weight="27" />
+      <edge source="이유" target="환경호르몬" id="131" weight="27" />
+      <edge source="전화번호" target="처음" id="132" weight="12" />
+      <edge source="전화번호" target="클로즈" id="133" weight="17" />
+      <edge source="좋다" target="주걱" id="134" weight="13" />
+      <edge source="좋다" target="플라스틱" id="135" weight="11" />
+      <edge source="주걱" target="프라스" id="136" weight="12" />
+      <edge source="주걱" target="플라스틱" id="137" weight="34" />
+      <edge source="주방" target="환경호르몬" id="138" weight="27" />
+      <edge source="처음" target="클로즈" id="139" weight="22" />
+      <edge source="처음" target="해도" id="140" weight="10" />
+      <edge source="클로즈" target="해도" id="141" weight="12" />
+      <edge source="플라스틱" target="환경호르몬" id="142" weight="18" />
+    </edges>
+  </graph>
+</gexf>

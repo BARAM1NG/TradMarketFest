@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-10-14">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="0507" label="0507" />
+      <node id="2023" label="2023" />
+      <node id="3일" label="3일" />
+      <node id="40" label="40" />
+      <node id="50" label="50" />
+      <node id="5일" label="5일" />
+      <node id="60" label="60" />
+      <node id="70" label="70" />
+      <node id="8월" label="8월" />
+      <node id="9월" label="9월" />
+      <node id="가격" label="가격" />
+      <node id="경제" label="경제" />
+      <node id="공원" label="공원" />
+      <node id="관광" label="관광" />
+      <node id="광장" label="광장" />
+      <node id="광장시장" label="광장시장" />
+      <node id="기간" label="기간" />
+      <node id="김기현" label="김기현" />
+      <node id="김밥" label="김밥" />
+      <node id="대구" label="대구" />
+      <node id="대한민국" label="대한민국" />
+      <node id="대회" label="대회" />
+      <node id="동행" label="동행" />
+      <node id="맛있다" label="맛있다" />
+      <node id="맛집" label="맛집" />
+      <node id="맥주" label="맥주" />
+      <node id="민원" label="민원" />
+      <node id="바로가기" label="바로가기" />
+      <node id="복자" label="복자" />
+      <node id="사전예약" label="사전예약" />
+      <node id="서문시장" label="서문시장" />
+      <node id="서울" label="서울" />
+      <node id="센터" label="센터" />
+      <node id="순환로" label="순환로" />
+      <node id="시간" label="시간" />
+      <node id="시민" label="시민" />
+      <node id="시장" label="시장" />
+      <node id="식품" label="식품" />
+      <node id="안전" label="안전" />
+      <node id="야외" label="야외" />
+      <node id="여름" label="여름" />
+      <node id="연휴" label="연휴" />
+      <node id="영업" label="영업" />
+      <node id="예약" label="예약" />
+      <node id="온누리상품권" label="온누리상품권" />
+      <node id="음악당" label="음악당" />
+      <node id="이웃" label="이웃" />
+      <node id="인스타그램" label="인스타그램" />
+      <node id="잔디" label="잔디" />
+      <node id="전통" label="전통" />
+      <node id="전화번호" label="전화번호" />
+      <node id="점검" label="점검" />
+      <node id="정보" label="정보" />
+      <node id="정부" label="정부" />
+      <node id="주차장" label="주차장" />
+      <node id="지역" label="지역" />
+      <node id="청사" label="청사" />
+      <node id="추가" label="추가" />
+      <node id="추석" label="추석" />
+      <node id="추천" label="추천" />
+      <node id="축제" label="축제" />
+      <node id="치맥" label="치맥" />
+      <node id="치킨" label="치킨" />
+      <node id="페스티벌" label="페스티벌" />
+      <node id="평화시장" label="평화시장" />
+      <node id="한국" label="한국" />
+      <node id="할인" label="할인" />
+      <node id="후쿠시마" label="후쿠시마" />
+    </nodes>
+    <edges>
+      <edge source="0507" target="대구" id="0" weight="10" />
+      <edge source="0507" target="맛집" id="1" weight="13" />
+      <edge source="0507" target="서문시장" id="2" weight="12" />
+      <edge source="2023" target="50" id="3" weight="98" />
+      <edge source="2023" target="8월" id="4" weight="10" />
+      <edge source="2023" target="9월" id="5" weight="13" />
+      <edge source="2023" target="가격" id="6" weight="10" />
+      <edge source="2023" target="공원" id="7" weight="43" />
+      <edge source="2023" target="관광" id="8" weight="25" />
+      <edge source="2023" target="광장" id="9" weight="15" />
+      <edge source="2023" target="기간" id="10" weight="14" />
+      <edge source="2023" target="김밥" id="11" weight="16" />
+      <edge source="2023" target="대구" id="12" weight="99" />
+      <edge source="2023" target="대한민국" id="13" weight="15" />
+      <edge source="2023" target="대회" id="14" weight="12" />
+      <edge source="2023" target="맛있다" id="15" weight="17" />
+      <edge source="2023" target="맛집" id="16" weight="45" />
+      <edge source="2023" target="맥주" id="17" weight="10" />
+      <edge source="2023" target="사전예약" id="18" weight="12" />
+      <edge source="2023" target="서문시장" id="19" weight="59" />
+      <edge source="2023" target="서울" id="20" weight="14" />
+      <edge source="2023" target="센터" id="21" weight="18" />
+      <edge source="2023" target="순환로" id="22" weight="13" />
+      <edge source="2023" target="시간" id="23" weight="10" />
+      <edge source="2023" target="시민" id="24" weight="12" />
+      <edge source="2023" target="시장" id="25" weight="14" />
+      <edge source="2023" target="여름" id="26" weight="13" />
+      <edge source="2023" target="예약" id="27" weight="15" />
+      <edge source="2023" target="정보" id="28" weight="17" />
+      <edge source="2023" target="주차장" id="29" weight="11" />
+      <edge source="2023" target="축제" id="30" weight="33" />
+      <edge source="2023" target="치맥" id="31" weight="99" />
+      <edge source="2023" target="치킨" id="32" weight="19" />
+      <edge source="2023" target="페스티벌" id="33" weight="132" />
+      <edge source="3일" target="9월" id="34" weight="17" />
+      <edge source="40" target="60" id="35" weight="19" />
+      <edge source="50" target="70" id="36" weight="21" />
+      <edge source="50" target="가격" id="37" weight="11" />
+      <edge source="50" target="공원" id="38" weight="23" />
+      <edge source="50" target="김밥" id="39" weight="12" />
+      <edge source="50" target="대구" id="40" weight="53" />
+      <edge source="50" target="맛집" id="41" weight="45" />
+      <edge source="50" target="바로가기" id="42" weight="10" />
+      <edge source="50" target="서문시장" id="43" weight="73" />
+      <edge source="50" target="서울" id="44" weight="12" />
+      <edge source="50" target="순환로" id="45" weight="12" />
+      <edge source="50" target="시간" id="46" weight="18" />
+      <edge source="50" target="영업" id="47" weight="15" />
+      <edge source="50" target="예약" id="48" weight="24" />
+      <edge source="50" target="주차장" id="49" weight="13" />
+      <edge source="50" target="치맥" id="50" weight="28" />
+      <edge source="50" target="페스티벌" id="51" weight="38" />
+      <edge source="50" target="할인" id="52" weight="14" />
+      <edge source="5일" target="페스티벌" id="53" weight="13" />
+      <edge source="70" target="바로가기" id="54" weight="10" />
+      <edge source="9월" target="공원" id="55" weight="12" />
+      <edge source="9월" target="대구" id="56" weight="12" />
+      <edge source="9월" target="축제" id="57" weight="13" />
+      <edge source="9월" target="페스티벌" id="58" weight="12" />
+      <edge source="경제" target="민원" id="59" weight="16" />
+      <edge source="경제" target="지역" id="60" weight="13" />
+      <edge source="공원" target="광장" id="61" weight="11" />
+      <edge source="공원" target="대구" id="62" weight="22" />
+      <edge source="공원" target="복자" id="63" weight="10" />
+      <edge source="공원" target="사전예약" id="64" weight="11" />
+      <edge source="공원" target="순환로" id="65" weight="38" />
+      <edge source="공원" target="주차장" id="66" weight="11" />
+      <edge source="공원" target="축제" id="67" weight="10" />
+      <edge source="공원" target="치맥" id="68" weight="20" />
+      <edge source="공원" target="페스티벌" id="69" weight="26" />
+      <edge source="관광" target="대구" id="70" weight="16" />
+      <edge source="관광" target="센터" id="71" weight="29" />
+      <edge source="관광" target="정보" id="72" weight="29" />
+      <edge source="관광" target="페스티벌" id="73" weight="11" />
+      <edge source="관광" target="한국" id="74" weight="13" />
+      <edge source="광장" target="시민" id="75" weight="37" />
+      <edge source="광장" target="잔디" id="76" weight="10" />
+      <edge source="광장" target="치맥" id="77" weight="14" />
+      <edge source="광장" target="페스티벌" id="78" weight="17" />
+      <edge source="광장시장" target="연휴" id="79" weight="10" />
+      <edge source="기간" target="축제" id="80" weight="11" />
+      <edge source="김기현" target="서울" id="81" weight="11" />
+      <edge source="김밥" target="서문시장" id="82" weight="19" />
+      <edge source="대구" target="맛집" id="83" weight="68" />
+      <edge source="대구" target="서문시장" id="84" weight="77" />
+      <edge source="대구" target="센터" id="85" weight="12" />
+      <edge source="대구" target="시간" id="86" weight="20" />
+      <edge source="대구" target="시장" id="87" weight="12" />
+      <edge source="대구" target="식품" id="88" weight="11" />
+      <edge source="대구" target="영업" id="89" weight="10" />
+      <edge source="대구" target="예약" id="90" weight="12" />
+      <edge source="대구" target="인스타그램" id="91" weight="12" />
+      <edge source="대구" target="정보" id="92" weight="12" />
+      <edge source="대구" target="주차장" id="93" weight="14" />
+      <edge source="대구" target="추천" id="94" weight="10" />
+      <edge source="대구" target="축제" id="95" weight="11" />
+      <edge source="대구" target="치맥" id="96" weight="85" />
+      <edge source="대구" target="페스티벌" id="97" weight="88" />
+      <edge source="대구" target="평화시장" id="98" weight="15" />
+      <edge source="대한민국" target="축제" id="99" weight="12" />
+      <edge source="동행" target="축제" id="100" weight="11" />
+      <edge source="맛있다" target="맛집" id="101" weight="18" />
+      <edge source="맛있다" target="서문시장" id="102" weight="12" />
+      <edge source="맛집" target="서문시장" id="103" weight="78" />
+      <edge source="맛집" target="시간" id="104" weight="16" />
+      <edge source="맛집" target="영업" id="105" weight="12" />
+      <edge source="맛집" target="전화번호" id="106" weight="10" />
+      <edge source="맛집" target="추천" id="107" weight="15" />
+      <edge source="맛집" target="치킨" id="108" weight="10" />
+      <edge source="사전예약" target="치맥" id="109" weight="16" />
+      <edge source="사전예약" target="페스티벌" id="110" weight="17" />
+      <edge source="서문시장" target="시간" id="111" weight="17" />
+      <edge source="서문시장" target="추석" id="112" weight="10" />
+      <edge source="서울" target="온누리상품권" id="113" weight="10" />
+      <edge source="서울" target="정부" id="114" weight="11" />
+      <edge source="서울" target="청사" id="115" weight="10" />
+      <edge source="서울" target="후쿠시마" id="116" weight="10" />
+      <edge source="센터" target="정보" id="117" weight="29" />
+      <edge source="센터" target="페스티벌" id="118" weight="11" />
+      <edge source="시간" target="영업" id="119" weight="60" />
+      <edge source="시간" target="예약" id="120" weight="10" />
+      <edge source="시간" target="전화번호" id="121" weight="10" />
+      <edge source="시장" target="전통" id="122" weight="27" />
+      <edge source="안전" target="점검" id="123" weight="10" />
+      <edge source="야외" target="음악당" id="124" weight="18" />
+      <edge source="여름" target="페스티벌" id="125" weight="11" />
+      <edge source="연휴" target="추석" id="126" weight="10" />
+      <edge source="영업" target="전화번호" id="127" weight="10" />
+      <edge source="예약" target="치맥" id="128" weight="12" />
+      <edge source="예약" target="페스티벌" id="129" weight="18" />
+      <edge source="이웃" target="추가" id="130" weight="20" />
+      <edge source="정보" target="주차장" id="131" weight="10" />
+      <edge source="정보" target="치맥" id="132" weight="13" />
+      <edge source="정보" target="페스티벌" id="133" weight="17" />
+      <edge source="주차장" target="페스티벌" id="134" weight="12" />
+      <edge source="축제" target="치맥" id="135" weight="11" />
+      <edge source="치맥" target="치킨" id="136" weight="13" />
+      <edge source="치맥" target="페스티벌" id="137" weight="170" />
+      <edge source="치킨" target="페스티벌" id="138" weight="21" />
+    </edges>
+  </graph>
+</gexf>

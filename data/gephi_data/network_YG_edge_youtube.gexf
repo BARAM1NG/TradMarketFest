@@ -1,0 +1,620 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-10-14">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="1일" label="1일" />
+      <node id="2시간" label="2시간" />
+      <node id="3시간" label="3시간" />
+      <node id="3일" label="3일" />
+      <node id="9월" label="9월" />
+      <node id="가격" label="가격" />
+      <node id="가정" label="가정" />
+      <node id="간식" label="간식" />
+      <node id="감사" label="감사" />
+      <node id="강아지" label="강아지" />
+      <node id="같다" label="같다" />
+      <node id="거리" label="거리" />
+      <node id="거위" label="거위" />
+      <node id="건강하다" label="건강하다" />
+      <node id="건물" label="건물" />
+      <node id="검다" label="검다" />
+      <node id="견생" label="견생" />
+      <node id="경제" label="경제" />
+      <node id="계속" label="계속" />
+      <node id="고기" label="고기" />
+      <node id="고생" label="고생" />
+      <node id="고향" label="고향" />
+      <node id="골목" label="골목" />
+      <node id="곱창" label="곱창" />
+      <node id="과일" label="과일" />
+      <node id="관광" label="관광" />
+      <node id="괜찮다" label="괜찮다" />
+      <node id="구독" label="구독" />
+      <node id="국밥" label="국밥" />
+      <node id="국회" label="국회" />
+      <node id="국회의원" label="국회의원" />
+      <node id="군민" label="군민" />
+      <node id="군수" label="군수" />
+      <node id="귀엽다" label="귀엽다" />
+      <node id="그렇다" label="그렇다" />
+      <node id="기간" label="기간" />
+      <node id="기계" label="기계" />
+      <node id="나라" label="나라" />
+      <node id="날씨" label="날씨" />
+      <node id="내년" label="내년" />
+      <node id="농부" label="농부" />
+      <node id="다음" label="다음" />
+      <node id="당사자" label="당사자" />
+      <node id="대단하다" label="대단하다" />
+      <node id="대박" label="대박" />
+      <node id="대통령" label="대통령" />
+      <node id="대표" label="대표" />
+      <node id="대한민국" label="대한민국" />
+      <node id="댓글" label="댓글" />
+      <node id="덥다" label="덥다" />
+      <node id="도시" label="도시" />
+      <node id="독일" label="독일" />
+      <node id="돼지" label="돼지" />
+      <node id="똑똑하다" label="똑똑하다" />
+      <node id="라며" label="라며" />
+      <node id="만리" label="만리" />
+      <node id="많다" label="많다" />
+      <node id="맛없다" label="맛없다" />
+      <node id="맛있다" label="맛있다" />
+      <node id="맥주" label="맥주" />
+      <node id="머리" label="머리" />
+      <node id="먹거리" label="먹거리" />
+      <node id="멋있다" label="멋있다" />
+      <node id="멋지다" label="멋지다" />
+      <node id="메뉴" label="메뉴" />
+      <node id="며못" label="며못" />
+      <node id="면서" label="면서" />
+      <node id="모두" label="모두" />
+      <node id="모집" label="모집" />
+      <node id="문제" label="문제" />
+      <node id="문화" label="문화" />
+      <node id="바가지" label="바가지" />
+      <node id="바베큐" label="바베큐" />
+      <node id="반점" label="반점" />
+      <node id="발전" label="발전" />
+      <node id="방문" label="방문" />
+      <node id="배달" label="배달" />
+      <node id="백종원" label="백종원" />
+      <node id="버들" label="버들" />
+      <node id="보기" label="보기" />
+      <node id="비싸다" label="비싸다" />
+      <node id="빠르다" label="빠르다" />
+      <node id="삐리뽕" label="삐리뽕" />
+      <node id="사과" label="사과" />
+      <node id="사람" label="사람" />
+      <node id="사랑" label="사랑" />
+      <node id="사료" label="사료" />
+      <node id="사상충" label="사상충" />
+      <node id="사업" label="사업" />
+      <node id="사업가" label="사업가" />
+      <node id="사장" label="사장" />
+      <node id="산시" label="산시" />
+      <node id="삼국" label="삼국" />
+      <node id="상인" label="상인" />
+      <node id="생각" label="생각" />
+      <node id="서울" label="서울" />
+      <node id="선생님" label="선생님" />
+      <node id="선하다" label="선하다" />
+      <node id="숙박" label="숙박" />
+      <node id="스럽다" label="스럽다" />
+      <node id="시간" label="시간" />
+      <node id="시골" label="시골" />
+      <node id="시장" label="시장" />
+      <node id="시청" label="시청" />
+      <node id="식당" label="식당" />
+      <node id="식품" label="식품" />
+      <node id="신분" label="신분" />
+      <node id="심장" label="심장" />
+      <node id="아니다" label="아니다" />
+      <node id="아빠" label="아빠" />
+      <node id="아쉽다" label="아쉽다" />
+      <node id="안녕하다" label="안녕하다" />
+      <node id="안되다" label="안되다" />
+      <node id="안주" label="안주" />
+      <node id="애견" label="애견" />
+      <node id="얼마나" label="얼마나" />
+      <node id="업자" label="업자" />
+      <node id="없다" label="없다" />
+      <node id="역시" label="역시" />
+      <node id="역전" label="역전" />
+      <node id="영상" label="영상" />
+      <node id="영향력" label="영향력" />
+      <node id="예산" label="예산" />
+      <node id="오늘" label="오늘" />
+      <node id="오픈" label="오픈" />
+      <node id="욕심" label="욕심" />
+      <node id="유튜" label="유튜" />
+      <node id="음식" label="음식" />
+      <node id="응원" label="응원" />
+      <node id="이다" label="이다" />
+      <node id="이동" label="이동" />
+      <node id="이제" label="이제" />
+      <node id="이형" label="이형" />
+      <node id="인간" label="인간" />
+      <node id="임대료" label="임대료" />
+      <node id="자본주의" label="자본주의" />
+      <node id="자영" label="자영" />
+      <node id="장관" label="장관" />
+      <node id="장님" label="장님" />
+      <node id="장사" label="장사" />
+      <node id="재밌다" label="재밌다" />
+      <node id="잼버리" label="잼버리" />
+      <node id="저렴하다" label="저렴하다" />
+      <node id="전국" label="전국" />
+      <node id="전용" label="전용" />
+      <node id="전통" label="전통" />
+      <node id="전화번호" label="전화번호" />
+      <node id="정말" label="정말" />
+      <node id="정치" label="정치" />
+      <node id="정치인" label="정치인" />
+      <node id="존경" label="존경" />
+      <node id="존나" label="존나" />
+      <node id="종원" label="종원" />
+      <node id="좋다" label="좋다" />
+      <node id="주가" label="주가" />
+      <node id="주말" label="주말" />
+      <node id="주민" label="주민" />
+      <node id="주차장" label="주차장" />
+      <node id="준비" label="준비" />
+      <node id="즐겁다" label="즐겁다" />
+      <node id="지역" label="지역" />
+      <node id="직원" label="직원" />
+      <node id="진짜" label="진짜" />
+      <node id="착하다" label="착하다" />
+      <node id="처음" label="처음" />
+      <node id="청년" label="청년" />
+      <node id="최고" label="최고" />
+      <node id="축제" label="축제" />
+      <node id="치료" label="치료" />
+      <node id="클로즈" label="클로즈" />
+      <node id="튀김" label="튀김" />
+      <node id="페스티벌" label="페스티벌" />
+      <node id="편의점" label="편의점" />
+      <node id="풍차" label="풍차" />
+      <node id="하루" label="하루" />
+      <node id="한국" label="한국" />
+      <node id="한번" label="한번" />
+      <node id="한잔" label="한잔" />
+      <node id="항상" label="항상" />
+      <node id="해도" label="해도" />
+      <node id="행복하다" label="행복하다" />
+      <node id="홍콩" label="홍콩" />
+      <node id="화이팅" label="화이팅" />
+      <node id="화장실" label="화장실" />
+      <node id="활성화" label="활성화" />
+      <node id="황금알" label="황금알" />
+    </nodes>
+    <edges>
+      <edge source="1일" target="9월" id="0" weight="22" />
+      <edge source="2시간" target="바베큐" id="1" weight="29" />
+      <edge source="3시간" target="바베큐" id="2" weight="23" />
+      <edge source="3시간" target="축제" id="3" weight="24" />
+      <edge source="3일" target="맥주" id="4" weight="22" />
+      <edge source="3일" target="예산" id="5" weight="20" />
+      <edge source="9월" target="맥주" id="6" weight="24" />
+      <edge source="가격" target="건물" id="7" weight="20" />
+      <edge source="가격" target="맥주" id="8" weight="39" />
+      <edge source="가격" target="바베큐" id="9" weight="22" />
+      <edge source="가격" target="시장" id="10" weight="27" />
+      <edge source="가격" target="아니다" id="11" weight="27" />
+      <edge source="가격" target="없다" id="12" weight="40" />
+      <edge source="가격" target="예산" id="13" weight="49" />
+      <edge source="가격" target="음식" id="14" weight="44" />
+      <edge source="가격" target="저렴하다" id="15" weight="32" />
+      <edge source="가격" target="좋다" id="16" weight="29" />
+      <edge source="가격" target="지역" id="17" weight="27" />
+      <edge source="가격" target="착하다" id="18" weight="39" />
+      <edge source="가격" target="축제" id="19" weight="106" />
+      <edge source="가정" target="당사자" id="20" weight="28" />
+      <edge source="가정" target="이동" id="21" weight="32" />
+      <edge source="간식" target="강아지" id="22" weight="36" />
+      <edge source="간식" target="사업" id="23" weight="31" />
+      <edge source="간식" target="애견" id="24" weight="30" />
+      <edge source="감사" target="시청" id="25" weight="23" />
+      <edge source="감사" target="예산" id="26" weight="24" />
+      <edge source="강아지" target="대표" id="27" weight="31" />
+      <edge source="강아지" target="백종원" id="28" weight="33" />
+      <edge source="강아지" target="사료" id="29" weight="24" />
+      <edge source="강아지" target="사업" id="30" weight="41" />
+      <edge source="강아지" target="음식" id="31" weight="30" />
+      <edge source="강아지" target="좋다" id="32" weight="22" />
+      <edge source="같다" target="그렇다" id="33" weight="20" />
+      <edge source="같다" target="대표" id="34" weight="35" />
+      <edge source="같다" target="많다" id="35" weight="21" />
+      <edge source="같다" target="맥주" id="36" weight="24" />
+      <edge source="같다" target="백종원" id="37" weight="51" />
+      <edge source="같다" target="사람" id="38" weight="42" />
+      <edge source="같다" target="아니다" id="39" weight="27" />
+      <edge source="같다" target="없다" id="40" weight="20" />
+      <edge source="같다" target="예산" id="41" weight="35" />
+      <edge source="같다" target="좋다" id="42" weight="55" />
+      <edge source="같다" target="진짜" id="43" weight="25" />
+      <edge source="거리" target="곱창" id="44" weight="24" />
+      <edge source="거리" target="국밥" id="45" weight="44" />
+      <edge source="거리" target="예산" id="46" weight="23" />
+      <edge source="거위" target="황금알" id="47" weight="23" />
+      <edge source="건강하다" target="대표" id="48" weight="42" />
+      <edge source="건강하다" target="방문" id="49" weight="42" />
+      <edge source="건강하다" target="백종원" id="50" weight="25" />
+      <edge source="건강하다" target="사상충" id="51" weight="23" />
+      <edge source="건강하다" target="영상" id="52" weight="21" />
+      <edge source="건강하다" target="좋다" id="53" weight="43" />
+      <edge source="건강하다" target="치료" id="54" weight="28" />
+      <edge source="건강하다" target="행복하다" id="55" weight="103" />
+      <edge source="건물" target="대표" id="56" weight="22" />
+      <edge source="건물" target="문제" id="57" weight="35" />
+      <edge source="건물" target="백종원" id="58" weight="44" />
+      <edge source="건물" target="사람" id="59" weight="24" />
+      <edge source="건물" target="상인" id="60" weight="20" />
+      <edge source="건물" target="시장" id="61" weight="58" />
+      <edge source="건물" target="아니다" id="62" weight="26" />
+      <edge source="건물" target="없다" id="63" weight="45" />
+      <edge source="건물" target="예산" id="64" weight="43" />
+      <edge source="건물" target="임대료" id="65" weight="27" />
+      <edge source="건물" target="자본주의" id="66" weight="23" />
+      <edge source="건물" target="좋다" id="67" weight="39" />
+      <edge source="건물" target="주가" id="68" weight="91" />
+      <edge source="건물" target="지역" id="69" weight="31" />
+      <edge source="검다" target="머리" id="70" weight="23" />
+      <edge source="견생" target="역전" id="71" weight="66" />
+      <edge source="경제" target="지역" id="72" weight="75" />
+      <edge source="계속" target="예산" id="73" weight="20" />
+      <edge source="계속" target="축제" id="74" weight="22" />
+      <edge source="고기" target="맛없다" id="75" weight="34" />
+      <edge source="고기" target="맛있다" id="76" weight="25" />
+      <edge source="고기" target="맥주" id="77" weight="32" />
+      <edge source="고기" target="바베큐" id="78" weight="52" />
+      <edge source="고기" target="튀김" id="79" weight="42" />
+      <edge source="고생" target="덥다" id="80" weight="27" />
+      <edge source="고생" target="많다" id="81" weight="43" />
+      <edge source="고생" target="직원" id="82" weight="46" />
+      <edge source="고향" target="예산" id="83" weight="23" />
+      <edge source="골목" target="시장" id="84" weight="21" />
+      <edge source="골목" target="식당" id="85" weight="71" />
+      <edge source="과일" target="맥주" id="86" weight="35" />
+      <edge source="관광" target="한국" id="87" weight="22" />
+      <edge source="괜찮다" target="당사자" id="88" weight="28" />
+      <edge source="괜찮다" target="이동" id="89" weight="32" />
+      <edge source="구독" target="좋다" id="90" weight="20" />
+      <edge source="국밥" target="예산" id="91" weight="22" />
+      <edge source="국회" target="백종원" id="92" weight="32" />
+      <edge source="국회의원" target="백종원" id="93" weight="32" />
+      <edge source="군민" target="예산" id="94" weight="22" />
+      <edge source="군수" target="예산" id="95" weight="35" />
+      <edge source="귀엽다" target="똑똑하다" id="96" weight="22" />
+      <edge source="그렇다" target="사람" id="97" weight="21" />
+      <edge source="기간" target="축제" id="98" weight="61" />
+      <edge source="기계" target="바베큐" id="99" weight="21" />
+      <edge source="나라" target="백종원" id="100" weight="27" />
+      <edge source="나라" target="사람" id="101" weight="21" />
+      <edge source="나라" target="지역" id="102" weight="20" />
+      <edge source="날씨" target="덥다" id="103" weight="47" />
+      <edge source="내년" target="맥주" id="104" weight="22" />
+      <edge source="내년" target="예산" id="105" weight="32" />
+      <edge source="내년" target="축제" id="106" weight="52" />
+      <edge source="농부" target="청년" id="107" weight="20" />
+      <edge source="다음" target="영상" id="108" weight="23" />
+      <edge source="다음" target="예산" id="109" weight="31" />
+      <edge source="다음" target="축제" id="110" weight="41" />
+      <edge source="당사자" target="라며" id="111" weight="28" />
+      <edge source="당사자" target="며못" id="112" weight="28" />
+      <edge source="당사자" target="면서" id="113" weight="20" />
+      <edge source="당사자" target="배달" id="114" weight="32" />
+      <edge source="당사자" target="오픈" id="115" weight="44" />
+      <edge source="당사자" target="이동" id="116" weight="80" />
+      <edge source="당사자" target="전화번호" id="117" weight="28" />
+      <edge source="당사자" target="처음" id="118" weight="32" />
+      <edge source="당사자" target="클로즈" id="119" weight="44" />
+      <edge source="당사자" target="해도" id="120" weight="20" />
+      <edge source="대단하다" target="대표" id="121" weight="52" />
+      <edge source="대단하다" target="백종원" id="122" weight="74" />
+      <edge source="대단하다" target="사람" id="123" weight="48" />
+      <edge source="대단하다" target="신분" id="124" weight="25" />
+      <edge source="대단하다" target="예산" id="125" weight="23" />
+      <edge source="대단하다" target="정말" id="126" weight="48" />
+      <edge source="대단하다" target="존경" id="127" weight="22" />
+      <edge source="대단하다" target="진짜" id="128" weight="68" />
+      <edge source="대단하다" target="축제" id="129" weight="24" />
+      <edge source="대박" target="예산" id="130" weight="20" />
+      <edge source="대통령" target="백종원" id="131" weight="68" />
+      <edge source="대표" target="대한민국" id="132" weight="28" />
+      <edge source="대표" target="많다" id="133" weight="24" />
+      <edge source="대표" target="멋지다" id="134" weight="31" />
+      <edge source="대표" target="백종원" id="135" weight="171" />
+      <edge source="대표" target="사람" id="136" weight="48" />
+      <edge source="대표" target="사랑" id="137" weight="32" />
+      <edge source="대표" target="사업" id="138" weight="20" />
+      <edge source="대표" target="생각" id="139" weight="28" />
+      <edge source="대표" target="시장" id="140" weight="36" />
+      <edge source="대표" target="아니다" id="141" weight="34" />
+      <edge source="대표" target="없다" id="142" weight="28" />
+      <edge source="대표" target="영상" id="143" weight="26" />
+      <edge source="대표" target="영향력" id="144" weight="23" />
+      <edge source="대표" target="예산" id="145" weight="92" />
+      <edge source="대표" target="응원" id="146" weight="41" />
+      <edge source="대표" target="이다" id="147" weight="24" />
+      <edge source="대표" target="잼버리" id="148" weight="40" />
+      <edge source="대표" target="정말" id="149" weight="32" />
+      <edge source="대표" target="정치" id="150" weight="33" />
+      <edge source="대표" target="정치인" id="151" weight="32" />
+      <edge source="대표" target="존경" id="152" weight="78" />
+      <edge source="대표" target="좋다" id="153" weight="70" />
+      <edge source="대표" target="지역" id="154" weight="40" />
+      <edge source="대표" target="직원" id="155" weight="59" />
+      <edge source="대표" target="진짜" id="156" weight="35" />
+      <edge source="대표" target="최고" id="157" weight="22" />
+      <edge source="대표" target="축제" id="158" weight="36" />
+      <edge source="대표" target="행복하다" id="159" weight="35" />
+      <edge source="대한민국" target="축제" id="160" weight="20" />
+      <edge source="댓글" target="안녕하다" id="161" weight="30" />
+      <edge source="댓글" target="행복하다" id="162" weight="24" />
+      <edge source="덥다" target="맥주" id="163" weight="40" />
+      <edge source="덥다" target="시장" id="164" weight="26" />
+      <edge source="덥다" target="예산" id="165" weight="40" />
+      <edge source="덥다" target="축제" id="166" weight="23" />
+      <edge source="도시" target="축제" id="167" weight="20" />
+      <edge source="독일" target="맥주" id="168" weight="25" />
+      <edge source="돼지" target="바베큐" id="169" weight="70" />
+      <edge source="돼지" target="예산" id="170" weight="24" />
+      <edge source="돼지" target="축제" id="171" weight="21" />
+      <edge source="라며" target="이동" id="172" weight="40" />
+      <edge source="라며" target="처음" id="173" weight="28" />
+      <edge source="만리" target="맥주" id="174" weight="20" />
+      <edge source="많다" target="맥주" id="175" weight="27" />
+      <edge source="많다" target="바베큐" id="176" weight="22" />
+      <edge source="많다" target="백종원" id="177" weight="26" />
+      <edge source="많다" target="사람" id="178" weight="138" />
+      <edge source="많다" target="시장" id="179" weight="26" />
+      <edge source="많다" target="없다" id="180" weight="35" />
+      <edge source="많다" target="예산" id="181" weight="68" />
+      <edge source="많다" target="음식" id="182" weight="20" />
+      <edge source="많다" target="좋다" id="183" weight="35" />
+      <edge source="많다" target="지역" id="184" weight="22" />
+      <edge source="많다" target="축제" id="185" weight="87" />
+      <edge source="맛없다" target="맛있다" id="186" weight="22" />
+      <edge source="맛없다" target="바베큐" id="187" weight="80" />
+      <edge source="맛없다" target="사람" id="188" weight="21" />
+      <edge source="맛없다" target="음식" id="189" weight="22" />
+      <edge source="맛없다" target="존나" id="190" weight="22" />
+      <edge source="맛없다" target="진짜" id="191" weight="22" />
+      <edge source="맛있다" target="맥주" id="192" weight="106" />
+      <edge source="맛있다" target="바베큐" id="193" weight="76" />
+      <edge source="맛있다" target="시장" id="194" weight="27" />
+      <edge source="맛있다" target="예산" id="195" weight="60" />
+      <edge source="맛있다" target="음식" id="196" weight="30" />
+      <edge source="맛있다" target="좋다" id="197" weight="28" />
+      <edge source="맛있다" target="진짜" id="198" weight="25" />
+      <edge source="맛있다" target="축제" id="199" weight="44" />
+      <edge source="맥주" target="바베큐" id="200" weight="137" />
+      <edge source="맥주" target="백종원" id="201" weight="28" />
+      <edge source="맥주" target="비싸다" id="202" weight="30" />
+      <edge source="맥주" target="사과" id="203" weight="22" />
+      <edge source="맥주" target="생각" id="204" weight="22" />
+      <edge source="맥주" target="시간" id="205" weight="25" />
+      <edge source="맥주" target="시장" id="206" weight="59" />
+      <edge source="맥주" target="아니다" id="207" weight="42" />
+      <edge source="맥주" target="안주" id="208" weight="20" />
+      <edge source="맥주" target="없다" id="209" weight="48" />
+      <edge source="맥주" target="영상" id="210" weight="53" />
+      <edge source="맥주" target="예산" id="211" weight="322" />
+      <edge source="맥주" target="오늘" id="212" weight="30" />
+      <edge source="맥주" target="음식" id="213" weight="43" />
+      <edge source="맥주" target="이다" id="214" weight="24" />
+      <edge source="맥주" target="좋다" id="215" weight="46" />
+      <edge source="맥주" target="지역" id="216" weight="45" />
+      <edge source="맥주" target="진짜" id="217" weight="27" />
+      <edge source="맥주" target="축제" id="218" weight="527" />
+      <edge source="맥주" target="페스티벌" id="219" weight="106" />
+      <edge source="맥주" target="편의점" id="220" weight="31" />
+      <edge source="맥주" target="한국" id="221" weight="27" />
+      <edge source="맥주" target="한잔" id="222" weight="31" />
+      <edge source="맥주" target="행복하다" id="223" weight="23" />
+      <edge source="먹거리" target="축제" id="224" weight="27" />
+      <edge source="멋있다" target="진짜" id="225" weight="22" />
+      <edge source="멋지다" target="백종원" id="226" weight="27" />
+      <edge source="멋지다" target="진짜" id="227" weight="26" />
+      <edge source="메뉴" target="예산" id="228" weight="21" />
+      <edge source="며못" target="이동" id="229" weight="32" />
+      <edge source="면서" target="이동" id="230" weight="24" />
+      <edge source="모두" target="축제" id="231" weight="22" />
+      <edge source="모집" target="이동" id="232" weight="24" />
+      <edge source="문제" target="예산" id="233" weight="24" />
+      <edge source="문화" target="장관" id="234" weight="20" />
+      <edge source="문화" target="축제" id="235" weight="25" />
+      <edge source="바가지" target="없다" id="236" weight="49" />
+      <edge source="바가지" target="축제" id="237" weight="54" />
+      <edge source="바베큐" target="시간" id="238" weight="28" />
+      <edge source="바베큐" target="시장" id="239" weight="22" />
+      <edge source="바베큐" target="아니다" id="240" weight="36" />
+      <edge source="바베큐" target="없다" id="241" weight="44" />
+      <edge source="바베큐" target="영상" id="242" weight="20" />
+      <edge source="바베큐" target="예산" id="243" weight="80" />
+      <edge source="바베큐" target="음식" id="244" weight="32" />
+      <edge source="바베큐" target="진짜" id="245" weight="22" />
+      <edge source="바베큐" target="축제" id="246" weight="120" />
+      <edge source="바베큐" target="풍차" id="247" weight="32" />
+      <edge source="반점" target="홍콩" id="248" weight="25" />
+      <edge source="발전" target="예산" id="249" weight="25" />
+      <edge source="발전" target="지역" id="250" weight="45" />
+      <edge source="방문" target="예산" id="251" weight="30" />
+      <edge source="방문" target="행복하다" id="252" weight="70" />
+      <edge source="배달" target="이동" id="253" weight="40" />
+      <edge source="배달" target="처음" id="254" weight="22" />
+      <edge source="백종원" target="사람" id="255" weight="94" />
+      <edge source="백종원" target="사랑" id="256" weight="23" />
+      <edge source="백종원" target="사업가" id="257" weight="30" />
+      <edge source="백종원" target="생각" id="258" weight="26" />
+      <edge source="백종원" target="선생님" id="259" weight="44" />
+      <edge source="백종원" target="시장" id="260" weight="62" />
+      <edge source="백종원" target="식당" id="261" weight="23" />
+      <edge source="백종원" target="아니다" id="262" weight="75" />
+      <edge source="백종원" target="아빠" id="263" weight="49" />
+      <edge source="백종원" target="없다" id="264" weight="72" />
+      <edge source="백종원" target="역시" id="265" weight="29" />
+      <edge source="백종원" target="예산" id="266" weight="148" />
+      <edge source="백종원" target="음식" id="267" weight="24" />
+      <edge source="백종원" target="응원" id="268" weight="21" />
+      <edge source="백종원" target="이다" id="269" weight="37" />
+      <edge source="백종원" target="이제" id="270" weight="20" />
+      <edge source="백종원" target="장관" id="271" weight="22" />
+      <edge source="백종원" target="정말" id="272" weight="45" />
+      <edge source="백종원" target="정치" id="273" weight="41" />
+      <edge source="백종원" target="존경" id="274" weight="54" />
+      <edge source="백종원" target="좋다" id="275" weight="85" />
+      <edge source="백종원" target="지역" id="276" weight="29" />
+      <edge source="백종원" target="직원" id="277" weight="22" />
+      <edge source="백종원" target="진짜" id="278" weight="73" />
+      <edge source="백종원" target="축제" id="279" weight="55" />
+      <edge source="백종원" target="행복하다" id="280" weight="27" />
+      <edge source="버들" target="유튜" id="281" weight="21" />
+      <edge source="보기" target="좋다" id="282" weight="37" />
+      <edge source="비싸다" target="축제" id="283" weight="41" />
+      <edge source="빠르다" target="삐리뽕" id="284" weight="28" />
+      <edge source="사람" target="사업" id="285" weight="21" />
+      <edge source="사람" target="시장" id="286" weight="45" />
+      <edge source="사람" target="아니다" id="287" weight="75" />
+      <edge source="사람" target="안되다" id="288" weight="22" />
+      <edge source="사람" target="없다" id="289" weight="72" />
+      <edge source="사람" target="예산" id="290" weight="91" />
+      <edge source="사람" target="욕심" id="291" weight="22" />
+      <edge source="사람" target="이다" id="292" weight="21" />
+      <edge source="사람" target="장사" id="293" weight="26" />
+      <edge source="사람" target="정말" id="294" weight="21" />
+      <edge source="사람" target="정치" id="295" weight="27" />
+      <edge source="사람" target="좋다" id="296" weight="58" />
+      <edge source="사람" target="지역" id="297" weight="43" />
+      <edge source="사람" target="진짜" id="298" weight="40" />
+      <edge source="사람" target="축제" id="299" weight="74" />
+      <edge source="사람" target="한국" id="300" weight="28" />
+      <edge source="사상충" target="심장" id="301" weight="60" />
+      <edge source="사상충" target="치료" id="302" weight="47" />
+      <edge source="사업" target="애견" id="303" weight="27" />
+      <edge source="사장" target="좋다" id="304" weight="26" />
+      <edge source="산시" target="시장" id="305" weight="30" />
+      <edge source="산시" target="예산" id="306" weight="31" />
+      <edge source="산시" target="축제" id="307" weight="30" />
+      <edge source="삼국" target="축제" id="308" weight="21" />
+      <edge source="상인" target="시장" id="309" weight="29" />
+      <edge source="상인" target="예산" id="310" weight="58" />
+      <edge source="상인" target="지역" id="311" weight="45" />
+      <edge source="상인" target="축제" id="312" weight="68" />
+      <edge source="생각" target="없다" id="313" weight="41" />
+      <edge source="생각" target="예산" id="314" weight="23" />
+      <edge source="생각" target="좋다" id="315" weight="27" />
+      <edge source="생각" target="지역" id="316" weight="20" />
+      <edge source="생각" target="축제" id="317" weight="26" />
+      <edge source="서울" target="예산" id="318" weight="26" />
+      <edge source="선생님" target="존경" id="319" weight="25" />
+      <edge source="선하다" target="영향력" id="320" weight="52" />
+      <edge source="숙박" target="예산" id="321" weight="26" />
+      <edge source="스럽다" target="존경" id="322" weight="55" />
+      <edge source="시간" target="축제" id="323" weight="32" />
+      <edge source="시골" target="예산" id="324" weight="22" />
+      <edge source="시장" target="아니다" id="325" weight="23" />
+      <edge source="시장" target="없다" id="326" weight="62" />
+      <edge source="시장" target="영상" id="327" weight="27" />
+      <edge source="시장" target="예산" id="328" weight="585" />
+      <edge source="시장" target="음식" id="329" weight="39" />
+      <edge source="시장" target="전통" id="330" weight="39" />
+      <edge source="시장" target="좋다" id="331" weight="35" />
+      <edge source="시장" target="지역" id="332" weight="35" />
+      <edge source="시장" target="축제" id="333" weight="57" />
+      <edge source="식당" target="예산" id="334" weight="21" />
+      <edge source="식품" target="애견" id="335" weight="22" />
+      <edge source="심장" target="치료" id="336" weight="24" />
+      <edge source="아니다" target="없다" id="337" weight="27" />
+      <edge source="아니다" target="예산" id="338" weight="47" />
+      <edge source="아니다" target="음식" id="339" weight="26" />
+      <edge source="아니다" target="좋다" id="340" weight="34" />
+      <edge source="아니다" target="지역" id="341" weight="31" />
+      <edge source="아니다" target="진짜" id="342" weight="24" />
+      <edge source="아니다" target="축제" id="343" weight="68" />
+      <edge source="아빠" target="행복하다" id="344" weight="22" />
+      <edge source="아쉽다" target="축제" id="345" weight="21" />
+      <edge source="안녕하다" target="영상" id="346" weight="21" />
+      <edge source="안녕하다" target="행복하다" id="347" weight="28" />
+      <edge source="얼마나" target="예산" id="348" weight="25" />
+      <edge source="업자" target="자영" id="349" weight="67" />
+      <edge source="없다" target="예산" id="350" weight="102" />
+      <edge source="없다" target="욕심" id="351" weight="28" />
+      <edge source="없다" target="음식" id="352" weight="23" />
+      <edge source="없다" target="인간" id="353" weight="20" />
+      <edge source="없다" target="좋다" id="354" weight="36" />
+      <edge source="없다" target="지역" id="355" weight="40" />
+      <edge source="없다" target="진짜" id="356" weight="20" />
+      <edge source="없다" target="축제" id="357" weight="92" />
+      <edge source="영상" target="예산" id="358" weight="74" />
+      <edge source="영상" target="오늘" id="359" weight="28" />
+      <edge source="영상" target="이다" id="360" weight="27" />
+      <edge source="영상" target="재밌다" id="361" weight="24" />
+      <edge source="영상" target="좋다" id="362" weight="55" />
+      <edge source="영상" target="축제" id="363" weight="40" />
+      <edge source="영상" target="행복하다" id="364" weight="30" />
+      <edge source="예산" target="음식" id="365" weight="68" />
+      <edge source="예산" target="응원" id="366" weight="20" />
+      <edge source="예산" target="이다" id="367" weight="45" />
+      <edge source="예산" target="장님" id="368" weight="29" />
+      <edge source="예산" target="좋다" id="369" weight="96" />
+      <edge source="예산" target="주말" id="370" weight="25" />
+      <edge source="예산" target="주차장" id="371" weight="21" />
+      <edge source="예산" target="지역" id="372" weight="98" />
+      <edge source="예산" target="최고" id="373" weight="23" />
+      <edge source="예산" target="축제" id="374" weight="395" />
+      <edge source="예산" target="페스티벌" id="375" weight="66" />
+      <edge source="예산" target="한번" id="376" weight="21" />
+      <edge source="예산" target="행복하다" id="377" weight="28" />
+      <edge source="오픈" target="이동" id="378" weight="48" />
+      <edge source="오픈" target="클로즈" id="379" weight="27" />
+      <edge source="욕심" target="인간" id="380" weight="27" />
+      <edge source="음식" target="좋다" id="381" weight="26" />
+      <edge source="음식" target="지역" id="382" weight="27" />
+      <edge source="음식" target="축제" id="383" weight="56" />
+      <edge source="응원" target="좋다" id="384" weight="26" />
+      <edge source="응원" target="축제" id="385" weight="22" />
+      <edge source="응원" target="항상" id="386" weight="47" />
+      <edge source="이다" target="최고" id="387" weight="27" />
+      <edge source="이다" target="축제" id="388" weight="20" />
+      <edge source="이다" target="화이팅" id="389" weight="23" />
+      <edge source="이동" target="전화번호" id="390" weight="32" />
+      <edge source="이동" target="처음" id="391" weight="48" />
+      <edge source="이동" target="클로즈" id="392" weight="48" />
+      <edge source="이동" target="해도" id="393" weight="24" />
+      <edge source="이형" target="종원" id="394" weight="27" />
+      <edge source="잼버리" target="준비" id="395" weight="20" />
+      <edge source="잼버리" target="축제" id="396" weight="26" />
+      <edge source="저렴하다" target="축제" id="397" weight="41" />
+      <edge source="전국" target="축제" id="398" weight="32" />
+      <edge source="전용" target="화장실" id="399" weight="28" />
+      <edge source="정말" target="존경" id="400" weight="20" />
+      <edge source="정말" target="좋다" id="401" weight="42" />
+      <edge source="정치" target="정치인" id="402" weight="34" />
+      <edge source="좋다" target="지역" id="403" weight="38" />
+      <edge source="좋다" target="진짜" id="404" weight="45" />
+      <edge source="좋다" target="축제" id="405" weight="112" />
+      <edge source="좋다" target="하루" id="406" weight="30" />
+      <edge source="좋다" target="항상" id="407" weight="26" />
+      <edge source="좋다" target="행복하다" id="408" weight="38" />
+      <edge source="주말" target="즐겁다" id="409" weight="22" />
+      <edge source="주말" target="축제" id="410" weight="25" />
+      <edge source="주말" target="행복하다" id="411" weight="29" />
+      <edge source="주민" target="지역" id="412" weight="33" />
+      <edge source="준비" target="축제" id="413" weight="23" />
+      <edge source="지역" target="축제" id="414" weight="338" />
+      <edge source="지역" target="활성화" id="415" weight="30" />
+      <edge source="직원" target="행복하다" id="416" weight="22" />
+      <edge source="진짜" target="축제" id="417" weight="24" />
+      <edge source="최고" target="축제" id="418" weight="27" />
+      <edge source="축제" target="한국" id="419" weight="29" />
+      <edge source="축제" target="한번" id="420" weight="20" />
+      <edge source="항상" target="행복하다" id="421" weight="21" />
+    </edges>
+  </graph>
+</gexf>
