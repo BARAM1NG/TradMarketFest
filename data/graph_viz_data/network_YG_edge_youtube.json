@@ -1,0 +1,6788 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.10.1"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "undirected"
+  },
+  "nodes": [
+    {
+      "key": "1일",
+      "attributes": {
+        "label": "1일",
+        "x": -225.71118,
+        "y": -498.68652,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.2555746140651801,
+        "harmonicclosnesscentrality": 0.26784915308405255,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "2시간",
+      "attributes": {
+        "label": "2시간",
+        "x": -555.4674,
+        "y": -171.75104,
+        "size": 1.0,
+        "color": "#4c463e",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3091286307053942,
+        "harmonicclosnesscentrality": 0.32919463087248346,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "3시간",
+      "attributes": {
+        "label": "3시간",
+        "x": -586.43665,
+        "y": -4.3413186,
+        "size": 2.9038463,
+        "color": "#4c463e",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.36341463414634145,
+        "harmonicclosnesscentrality": 0.38970917225950835,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "3일",
+      "attributes": {
+        "label": "3일",
+        "x": -567.3215,
+        "y": 55.974113,
+        "size": 2.9038463,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.382051282051282,
+        "harmonicclosnesscentrality": 0.4087248322147657,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "9월",
+      "attributes": {
+        "label": "9월",
+        "x": -275.25598,
+        "y": -252.98996,
+        "size": 2.9038463,
+        "color": "#c0c0c0",
+        "Degree": 2,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3425287356321839,
+        "harmonicclosnesscentrality": 0.36756152125279684,
+        "betweenesscentrality": 148.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "가격",
+      "attributes": {
+        "label": "가격",
+        "x": -407.84183,
+        "y": 173.04749,
+        "size": 23.846153,
+        "color": "#df89ff",
+        "Degree": 13,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.44477611940298506,
+        "harmonicclosnesscentrality": 0.4912751677852351,
+        "betweenesscentrality": 202.81572723801827,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "가정",
+      "attributes": {
+        "label": "가정",
+        "x": 2175.8054,
+        "y": -979.9719,
+        "size": 2.9038463,
+        "color": "#00c4ff",
+        "Degree": 2,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.5416666666666666,
+        "harmonicclosnesscentrality": 0.5769230769230769,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "간식",
+      "attributes": {
+        "label": "간식",
+        "x": -37.92203,
+        "y": 785.4815,
+        "size": 4.8076925,
+        "color": "#ff5584",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.2832699619771863,
+        "harmonicclosnesscentrality": 0.30469798657718145,
+        "betweenesscentrality": 13.842483660130716,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "감사",
+      "attributes": {
+        "label": "감사",
+        "x": -907.12317,
+        "y": 497.4669,
+        "size": 2.9038463,
+        "color": "#c0c0c0",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.36609336609336607,
+        "harmonicclosnesscentrality": 0.3919463087248327,
+        "betweenesscentrality": 148.0,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "강아지",
+      "attributes": {
+        "label": "강아지",
+        "x": -182.12408,
+        "y": 559.4391,
+        "size": 12.423077,
+        "color": "#ff5584",
+        "Degree": 7,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.382051282051282,
+        "harmonicclosnesscentrality": 0.4172259507829983,
+        "betweenesscentrality": 281.9435864875962,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "같다",
+      "attributes": {
+        "label": "같다",
+        "x": -326.0178,
+        "y": 344.1919,
+        "size": 20.038462,
+        "color": "#73c000",
+        "Degree": 11,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.44610778443113774,
+        "harmonicclosnesscentrality": 0.48545861297539156,
+        "betweenesscentrality": 65.15658516486569,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "거리",
+      "attributes": {
+        "label": "거리",
+        "x": -943.0897,
+        "y": 349.7807,
+        "size": 4.8076925,
+        "color": "#c0c0c0",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3669950738916256,
+        "harmonicclosnesscentrality": 0.39530201342281934,
+        "betweenesscentrality": 148.0,
+        "modularity_class": 3
+      }
+    },
+    {
+      "key": "거위",
+      "attributes": {
+        "label": "거위",
+        "x": -2864.5908,
+        "y": -778.1267,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 4
+      }
+    },
+    {
+      "key": "건강하다",
+      "attributes": {
+        "label": "건강하다",
+        "x": -107.68579,
+        "y": 474.36887,
+        "size": 14.326923,
+        "color": "#ff8805",
+        "Degree": 8,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.38903394255874674,
+        "harmonicclosnesscentrality": 0.4272930648769579,
+        "betweenesscentrality": 451.3655008733957,
+        "modularity_class": 13
+      }
+    },
+    {
+      "key": "건물",
+      "attributes": {
+        "label": "건물",
+        "x": -238.9063,
+        "y": 165.86516,
+        "size": 27.653847,
+        "color": "#00bd94",
+        "Degree": 15,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.44345238095238093,
+        "harmonicclosnesscentrality": 0.49328859060402686,
+        "betweenesscentrality": 484.5092766378611,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "검다",
+      "attributes": {
+        "label": "검다",
+        "x": 389.09174,
+        "y": -3015.6497,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "견생",
+      "attributes": {
+        "label": "견생",
+        "x": 925.9491,
+        "y": 2612.8713,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 14
+      }
+    },
+    {
+      "key": "경제",
+      "attributes": {
+        "label": "경제",
+        "x": -74.377464,
+        "y": 125.35831,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.32891832229580575,
+        "harmonicclosnesscentrality": 0.3449664429530206,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "계속",
+      "attributes": {
+        "label": "계속",
+        "x": -699.1282,
+        "y": 211.92131,
+        "size": 2.9038463,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.38402061855670105,
+        "harmonicclosnesscentrality": 0.4120805369127522,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "고기",
+      "attributes": {
+        "label": "고기",
+        "x": -336.17505,
+        "y": -55.2798,
+        "size": 8.615385,
+        "color": "#4c463e",
+        "Degree": 5,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35645933014354064,
+        "harmonicclosnesscentrality": 0.38937360178970964,
+        "betweenesscentrality": 153.61708581799326,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "고생",
+      "attributes": {
+        "label": "고생",
+        "x": -488.8405,
+        "y": 495.43454,
+        "size": 4.8076925,
+        "color": "#d3b3b0",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.32964601769911506,
+        "harmonicclosnesscentrality": 0.3494407158836693,
+        "betweenesscentrality": 2.9238095238095236,
+        "modularity_class": 11
+      }
+    },
+    {
+      "key": "고향",
+      "attributes": {
+        "label": "고향",
+        "x": -821.6389,
+        "y": 398.92352,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3643031784841076,
+        "harmonicclosnesscentrality": 0.387472035794184,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "골목",
+      "attributes": {
+        "label": "골목",
+        "x": -640.05273,
+        "y": 466.0627,
+        "size": 2.9038463,
+        "color": "#c0c0c0",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3355855855855856,
+        "harmonicclosnesscentrality": 0.35391498881431827,
+        "betweenesscentrality": 0.6666666666666666,
+        "modularity_class": 12
+      }
+    },
+    {
+      "key": "곱창",
+      "attributes": {
+        "label": "곱창",
+        "x": -1196.6437,
+        "y": 362.40353,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.26895306859205775,
+        "harmonicclosnesscentrality": 0.2817673378076063,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 3
+      }
+    },
+    {
+      "key": "과일",
+      "attributes": {
+        "label": "과일",
+        "x": -246.49995,
+        "y": -105.2954,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.34096109839816935,
+        "harmonicclosnesscentrality": 0.36308724832214806,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "관광",
+      "attributes": {
+        "label": "관광",
+        "x": -14.857573,
+        "y": -85.22453,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2821969696969697,
+        "harmonicclosnesscentrality": 0.2954138702460852,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "괜찮다",
+      "attributes": {
+        "label": "괜찮다",
+        "x": 2437.3052,
+        "y": -1147.0106,
+        "size": 2.9038463,
+        "color": "#00c4ff",
+        "Degree": 2,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.5416666666666666,
+        "harmonicclosnesscentrality": 0.5769230769230769,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "구독",
+      "attributes": {
+        "label": "구독",
+        "x": 44.92775,
+        "y": 369.56332,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.34174311926605505,
+        "harmonicclosnesscentrality": 0.3587248322147655,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "국밥",
+      "attributes": {
+        "label": "국밥",
+        "x": -866.43,
+        "y": 361.57184,
+        "size": 2.9038463,
+        "color": "#c0c0c0",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.36609336609336607,
+        "harmonicclosnesscentrality": 0.3919463087248328,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 3
+      }
+    },
+    {
+      "key": "국회",
+      "attributes": {
+        "label": "국회",
+        "x": -336.3323,
+        "y": 754.6851,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35058823529411764,
+        "harmonicclosnesscentrality": 0.3704697986577185,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "국회의원",
+      "attributes": {
+        "label": "국회의원",
+        "x": -420.38477,
+        "y": 769.64557,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35058823529411764,
+        "harmonicclosnesscentrality": 0.3704697986577185,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "군민",
+      "attributes": {
+        "label": "군민",
+        "x": -812.3355,
+        "y": 351.25128,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3643031784841076,
+        "harmonicclosnesscentrality": 0.38747203579418404,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "군수",
+      "attributes": {
+        "label": "군수",
+        "x": -853.7832,
+        "y": 302.71356,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3643031784841076,
+        "harmonicclosnesscentrality": 0.38747203579418404,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "귀엽다",
+      "attributes": {
+        "label": "귀엽다",
+        "x": -1420.6526,
+        "y": 2709.1243,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 7
+      }
+    },
+    {
+      "key": "그렇다",
+      "attributes": {
+        "label": "그렇다",
+        "x": -102.00059,
+        "y": 299.7868,
+        "size": 2.9038463,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3386363636363636,
+        "harmonicclosnesscentrality": 0.3576062639821034,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "기간",
+      "attributes": {
+        "label": "기간",
+        "x": -779.20105,
+        "y": 131.64378,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35645933014354064,
+        "harmonicclosnesscentrality": 0.3796420581655486,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "기계",
+      "attributes": {
+        "label": "기계",
+        "x": -600.7104,
+        "y": -150.93257,
+        "size": 1.0,
+        "color": "#4c463e",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3091286307053942,
+        "harmonicclosnesscentrality": 0.32919463087248346,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "나라",
+      "attributes": {
+        "label": "나라",
+        "x": -183.21921,
+        "y": 420.08804,
+        "size": 4.8076925,
+        "color": "#73c000",
+        "Degree": 3,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.36790123456790125,
+        "harmonicclosnesscentrality": 0.3942953020134232,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "날씨",
+      "attributes": {
+        "label": "날씨",
+        "x": -776.22144,
+        "y": 564.81964,
+        "size": 1.0,
+        "color": "#d3b3b0",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.28932038834951457,
+        "harmonicclosnesscentrality": 0.30436241610738274,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 11
+      }
+    },
+    {
+      "key": "내년",
+      "attributes": {
+        "label": "내년",
+        "x": -619.1976,
+        "y": 90.49614,
+        "size": 4.8076925,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3973333333333333,
+        "harmonicclosnesscentrality": 0.42774049217002286,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "농부",
+      "attributes": {
+        "label": "농부",
+        "x": 1899.3071,
+        "y": -2084.7588,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 21
+      }
+    },
+    {
+      "key": "다음",
+      "attributes": {
+        "label": "다음",
+        "x": -499.48648,
+        "y": 276.10028,
+        "size": 4.8076925,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.39210526315789473,
+        "harmonicclosnesscentrality": 0.42136465324384836,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "당사자",
+      "attributes": {
+        "label": "당사자",
+        "x": 2349.0737,
+        "y": -1038.6708,
+        "size": 21.942308,
+        "color": "#00c4ff",
+        "Degree": 12,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.9285714285714286,
+        "harmonicclosnesscentrality": 0.9615384615384616,
+        "betweenesscentrality": 25.833333333333332,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "대단하다",
+      "attributes": {
+        "label": "대단하다",
+        "x": -366.15875,
+        "y": 429.67603,
+        "size": 16.23077,
+        "color": "#73c000",
+        "Degree": 9,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.43567251461988304,
+        "harmonicclosnesscentrality": 0.4731543624161073,
+        "betweenesscentrality": 196.07691650454808,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "대박",
+      "attributes": {
+        "label": "대박",
+        "x": -762.44617,
+        "y": 487.1489,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3643031784841076,
+        "harmonicclosnesscentrality": 0.38747203579418404,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "대통령",
+      "attributes": {
+        "label": "대통령",
+        "x": -295.3782,
+        "y": 776.655,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35058823529411764,
+        "harmonicclosnesscentrality": 0.3704697986577185,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "대표",
+      "attributes": {
+        "label": "대표",
+        "x": -245.83598,
+        "y": 472.7652,
+        "size": 61.92308,
+        "color": "#73c000",
+        "Degree": 33,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.5137931034482759,
+        "harmonicclosnesscentrality": 0.5838926174496643,
+        "betweenesscentrality": 1310.3089563424003,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "대한민국",
+      "attributes": {
+        "label": "대한민국",
+        "x": -282.04553,
+        "y": 180.25844,
+        "size": 2.9038463,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.382051282051282,
+        "harmonicclosnesscentrality": 0.4054809843400452,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "댓글",
+      "attributes": {
+        "label": "댓글",
+        "x": -41.269535,
+        "y": 445.33762,
+        "size": 2.9038463,
+        "color": "#ff8805",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3104166666666667,
+        "harmonicclosnesscentrality": 0.3287472035794186,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 13
+      }
+    },
+    {
+      "key": "덥다",
+      "attributes": {
+        "label": "덥다",
+        "x": -628.1766,
+        "y": 475.55917,
+        "size": 10.519231,
+        "color": "#d3b3b0",
+        "Degree": 6,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.40599455040871935,
+        "harmonicclosnesscentrality": 0.4434004474272934,
+        "betweenesscentrality": 183.6340860893492,
+        "modularity_class": 11
+      }
+    },
+    {
+      "key": "도시",
+      "attributes": {
+        "label": "도시",
+        "x": -672.06,
+        "y": -32.367283,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35645933014354064,
+        "harmonicclosnesscentrality": 0.3796420581655486,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "독일",
+      "attributes": {
+        "label": "독일",
+        "x": -413.73773,
+        "y": -166.27814,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.34096109839816935,
+        "harmonicclosnesscentrality": 0.36308724832214806,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "돼지",
+      "attributes": {
+        "label": "돼지",
+        "x": -640.3252,
+        "y": 158.31532,
+        "size": 4.8076925,
+        "color": "#4c463e",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.39210526315789473,
+        "harmonicclosnesscentrality": 0.4221476510067119,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "똑똑하다",
+      "attributes": {
+        "label": "똑똑하다",
+        "x": -1360.4996,
+        "y": 2571.3884,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 7
+      }
+    },
+    {
+      "key": "라며",
+      "attributes": {
+        "label": "라며",
+        "x": 2230.339,
+        "y": -1046.9601,
+        "size": 4.8076925,
+        "color": "#00c4ff",
+        "Degree": 3,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.5652173913043478,
+        "harmonicclosnesscentrality": 0.6153846153846154,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "만리",
+      "attributes": {
+        "label": "만리",
+        "x": -196.76013,
+        "y": -101.83349,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.34096109839816935,
+        "harmonicclosnesscentrality": 0.36308724832214806,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "많다",
+      "attributes": {
+        "label": "많다",
+        "x": -395.75485,
+        "y": 320.12637,
+        "size": 25.75,
+        "color": "#73c000",
+        "Degree": 14,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.476038338658147,
+        "harmonicclosnesscentrality": 0.5156599552572707,
+        "betweenesscentrality": 115.06389818981793,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "맛없다",
+      "attributes": {
+        "label": "맛없다",
+        "x": -250.67752,
+        "y": 105.31573,
+        "size": 12.423077,
+        "color": "#4c463e",
+        "Degree": 7,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.36341463414634145,
+        "harmonicclosnesscentrality": 0.39787472035794236,
+        "betweenesscentrality": 172.97973367619653,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "맛있다",
+      "attributes": {
+        "label": "맛있다",
+        "x": -357.78592,
+        "y": 180.49362,
+        "size": 18.134615,
+        "color": "#4c463e",
+        "Degree": 10,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4331395348837209,
+        "harmonicclosnesscentrality": 0.4744966442953024,
+        "betweenesscentrality": 82.41451270711305,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "맥주",
+      "attributes": {
+        "label": "맥주",
+        "x": -337.1382,
+        "y": 88.40479,
+        "size": 67.63461,
+        "color": "#df89ff",
+        "Degree": 36,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.5155709342560554,
+        "harmonicclosnesscentrality": 0.5936241610738254,
+        "betweenesscentrality": 1880.3742375106474,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "머리",
+      "attributes": {
+        "label": "머리",
+        "x": 384.7951,
+        "y": -2937.1812,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "먹거리",
+      "attributes": {
+        "label": "먹거리",
+        "x": -689.7771,
+        "y": 17.970093,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35645933014354064,
+        "harmonicclosnesscentrality": 0.3796420581655486,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "멋있다",
+      "attributes": {
+        "label": "멋있다",
+        "x": -26.850183,
+        "y": 315.95798,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3091286307053942,
+        "harmonicclosnesscentrality": 0.325838926174497,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "멋지다",
+      "attributes": {
+        "label": "멋지다",
+        "x": -172.3826,
+        "y": 473.8964,
+        "size": 4.8076925,
+        "color": "#73c000",
+        "Degree": 3,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.3688118811881188,
+        "harmonicclosnesscentrality": 0.39373601789709206,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "메뉴",
+      "attributes": {
+        "label": "메뉴",
+        "x": -805.3827,
+        "y": 484.2623,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3643031784841076,
+        "harmonicclosnesscentrality": 0.38747203579418404,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "며못",
+      "attributes": {
+        "label": "며못",
+        "x": 2217.233,
+        "y": -950.40424,
+        "size": 2.9038463,
+        "color": "#00c4ff",
+        "Degree": 2,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.5416666666666666,
+        "harmonicclosnesscentrality": 0.5769230769230769,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "면서",
+      "attributes": {
+        "label": "면서",
+        "x": 2488.9348,
+        "y": -1016.2097,
+        "size": 2.9038463,
+        "color": "#00c4ff",
+        "Degree": 2,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.5416666666666666,
+        "harmonicclosnesscentrality": 0.5769230769230769,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "모두",
+      "attributes": {
+        "label": "모두",
+        "x": -728.56305,
+        "y": -1.4706905,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35645933014354064,
+        "harmonicclosnesscentrality": 0.3796420581655486,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "모집",
+      "attributes": {
+        "label": "모집",
+        "x": 2558.725,
+        "y": -1092.149,
+        "size": 1.0,
+        "color": "#00c4ff",
+        "Degree": 1,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.52,
+        "harmonicclosnesscentrality": 0.5384615384615384,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "문제",
+      "attributes": {
+        "label": "문제",
+        "x": -430.51596,
+        "y": 136.99586,
+        "size": 2.9038463,
+        "color": "#00bd94",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.36790123456790125,
+        "harmonicclosnesscentrality": 0.39418344519015713,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "문화",
+      "attributes": {
+        "label": "문화",
+        "x": -622.06757,
+        "y": 490.46893,
+        "size": 2.9038463,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3581730769230769,
+        "harmonicclosnesscentrality": 0.38411633109619736,
+        "betweenesscentrality": 11.673484848484847,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "바가지",
+      "attributes": {
+        "label": "바가지",
+        "x": -655.77875,
+        "y": 275.83072,
+        "size": 2.9038463,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.36341463414634145,
+        "harmonicclosnesscentrality": 0.38914988814317725,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "바베큐",
+      "attributes": {
+        "label": "바베큐",
+        "x": -444.63318,
+        "y": 46.614857,
+        "size": 37.173077,
+        "color": "#4c463e",
+        "Degree": 20,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.44610778443113774,
+        "harmonicclosnesscentrality": 0.5080536912751679,
+        "betweenesscentrality": 609.185312963788,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "반점",
+      "attributes": {
+        "label": "반점",
+        "x": 1707.7039,
+        "y": -2736.619,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 23
+      }
+    },
+    {
+      "key": "발전",
+      "attributes": {
+        "label": "발전",
+        "x": -468.1076,
+        "y": 443.32053,
+        "size": 2.9038463,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3688118811881188,
+        "harmonicclosnesscentrality": 0.3953020134228193,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "방문",
+      "attributes": {
+        "label": "방문",
+        "x": -276.93463,
+        "y": 539.3443,
+        "size": 4.8076925,
+        "color": "#ff8805",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.37721518987341773,
+        "harmonicclosnesscentrality": 0.4051454138702466,
+        "betweenesscentrality": 15.401731601731603,
+        "modularity_class": 13
+      }
+    },
+    {
+      "key": "배달",
+      "attributes": {
+        "label": "배달",
+        "x": 2376.025,
+        "y": -1155.154,
+        "size": 4.8076925,
+        "color": "#00c4ff",
+        "Degree": 3,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.5652173913043478,
+        "harmonicclosnesscentrality": 0.6153846153846154,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "백종원",
+      "attributes": {
+        "label": "백종원",
+        "x": -384.62518,
+        "y": 526.4874,
+        "size": 73.34615,
+        "color": "#73c000",
+        "Degree": 39,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.5379061371841155,
+        "harmonicclosnesscentrality": 0.611297539149888,
+        "betweenesscentrality": 1967.2219952312375,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "버들",
+      "attributes": {
+        "label": "버들",
+        "x": -2451.9897,
+        "y": 254.98343,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 16
+      }
+    },
+    {
+      "key": "보기",
+      "attributes": {
+        "label": "보기",
+        "x": 44.054256,
+        "y": 276.10635,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.34174311926605505,
+        "harmonicclosnesscentrality": 0.35872483221476553,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "비싸다",
+      "attributes": {
+        "label": "비싸다",
+        "x": -446.62427,
+        "y": -14.685157,
+        "size": 2.9038463,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3725,
+        "harmonicclosnesscentrality": 0.4003355704697991,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "빠르다",
+      "attributes": {
+        "label": "빠르다",
+        "x": -2907.7424,
+        "y": 851.07324,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 10
+      }
+    },
+    {
+      "key": "삐리뽕",
+      "attributes": {
+        "label": "삐리뽕",
+        "x": -2762.8247,
+        "y": 817.9456,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 10
+      }
+    },
+    {
+      "key": "사과",
+      "attributes": {
+        "label": "사과",
+        "x": -332.482,
+        "y": -170.99947,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.34096109839816935,
+        "harmonicclosnesscentrality": 0.36308724832214806,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "사람",
+      "attributes": {
+        "label": "사람",
+        "x": -232.59612,
+        "y": 354.01813,
+        "size": 46.692307,
+        "color": "#73c000",
+        "Degree": 25,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.4901315789473684,
+        "harmonicclosnesscentrality": 0.5503355704697985,
+        "betweenesscentrality": 881.1770024083431,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "사랑",
+      "attributes": {
+        "label": "사랑",
+        "x": -296.67352,
+        "y": 625.96423,
+        "size": 2.9038463,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.36077481840193704,
+        "harmonicclosnesscentrality": 0.3836689038031323,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "사료",
+      "attributes": {
+        "label": "사료",
+        "x": -84.619385,
+        "y": 804.61395,
+        "size": 1.0,
+        "color": "#ff5584",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.27695167286245354,
+        "harmonicclosnesscentrality": 0.2909395973154364,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "사상충",
+      "attributes": {
+        "label": "사상충",
+        "x": 186.95236,
+        "y": 600.3773,
+        "size": 4.8076925,
+        "color": "#ff8805",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.2821969696969697,
+        "harmonicclosnesscentrality": 0.3032438478747205,
+        "betweenesscentrality": 73.5,
+        "modularity_class": 13
+      }
+    },
+    {
+      "key": "사업",
+      "attributes": {
+        "label": "사업",
+        "x": -126.30123,
+        "y": 656.7455,
+        "size": 8.615385,
+        "color": "#ff5584",
+        "Degree": 5,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35731414868105515,
+        "harmonicclosnesscentrality": 0.3894854586129757,
+        "betweenesscentrality": 322.5015946753271,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "사업가",
+      "attributes": {
+        "label": "사업가",
+        "x": -457.76254,
+        "y": 739.989,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35058823529411764,
+        "harmonicclosnesscentrality": 0.37046979865771845,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "사장",
+      "attributes": {
+        "label": "사장",
+        "x": 39.64759,
+        "y": 233.10518,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.34174311926605505,
+        "harmonicclosnesscentrality": 0.35872483221476553,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "산시",
+      "attributes": {
+        "label": "산시",
+        "x": -619.9791,
+        "y": 234.25848,
+        "size": 4.8076925,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.38701298701298703,
+        "harmonicclosnesscentrality": 0.4176733780760632,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "삼국",
+      "attributes": {
+        "label": "삼국",
+        "x": -739.8535,
+        "y": 100.30524,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35645933014354064,
+        "harmonicclosnesscentrality": 0.3796420581655486,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "상인",
+      "attributes": {
+        "label": "상인",
+        "x": -421.81644,
+        "y": 209.60588,
+        "size": 8.615385,
+        "color": "#df89ff",
+        "Degree": 5,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3962765957446808,
+        "harmonicclosnesscentrality": 0.4322147651006716,
+        "betweenesscentrality": 4.202950558213716,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "생각",
+      "attributes": {
+        "label": "생각",
+        "x": -363.31464,
+        "y": 350.44116,
+        "size": 14.326923,
+        "color": "#df89ff",
+        "Degree": 8,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.45151515151515154,
+        "harmonicclosnesscentrality": 0.4837807606263983,
+        "betweenesscentrality": 3.798315939278937,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "서울",
+      "attributes": {
+        "label": "서울",
+        "x": -850.8434,
+        "y": 251.96349,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3643031784841076,
+        "harmonicclosnesscentrality": 0.38747203579418404,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "선생님",
+      "attributes": {
+        "label": "선생님",
+        "x": -264.72345,
+        "y": 735.5223,
+        "size": 2.9038463,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35224586288416077,
+        "harmonicclosnesscentrality": 0.3749440715883673,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "선하다",
+      "attributes": {
+        "label": "선하다",
+        "x": 269.45316,
+        "y": 709.0314,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2551369863013699,
+        "harmonicclosnesscentrality": 0.2664429530201344,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 15
+      }
+    },
+    {
+      "key": "숙박",
+      "attributes": {
+        "label": "숙박",
+        "x": -775.4736,
+        "y": 426.5529,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3643031784841076,
+        "harmonicclosnesscentrality": 0.38747203579418404,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "스럽다",
+      "attributes": {
+        "label": "스럽다",
+        "x": -97.53552,
+        "y": 878.6856,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.26846846846846845,
+        "harmonicclosnesscentrality": 0.2822147651006712,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "시간",
+      "attributes": {
+        "label": "시간",
+        "x": -472.73657,
+        "y": 9.862941,
+        "size": 4.8076925,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.37817258883248733,
+        "harmonicclosnesscentrality": 0.4087248322147657,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "시골",
+      "attributes": {
+        "label": "시골",
+        "x": -831.953,
+        "y": 444.98148,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3643031784841076,
+        "harmonicclosnesscentrality": 0.38747203579418404,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "시장",
+      "attributes": {
+        "label": "시장",
+        "x": -449.47427,
+        "y": 269.99948,
+        "size": 40.98077,
+        "color": "#df89ff",
+        "Degree": 22,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.5,
+        "harmonicclosnesscentrality": 0.5503355704697985,
+        "betweenesscentrality": 418.65026019782647,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "시청",
+      "attributes": {
+        "label": "시청",
+        "x": -1135.1654,
+        "y": 607.75366,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.26846846846846845,
+        "harmonicclosnesscentrality": 0.2806487695749441,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "식당",
+      "attributes": {
+        "label": "식당",
+        "x": -558.6465,
+        "y": 535.3346,
+        "size": 4.8076925,
+        "color": "#c0c0c0",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.39210526315789473,
+        "harmonicclosnesscentrality": 0.42024608501118615,
+        "betweenesscentrality": 23.713636363636386,
+        "modularity_class": 12
+      }
+    },
+    {
+      "key": "식품",
+      "attributes": {
+        "label": "식품",
+        "x": 42.753105,
+        "y": 1171.2714,
+        "size": 1.0,
+        "color": "#ff5584",
+        "Degree": 1,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.20985915492957746,
+        "harmonicclosnesscentrality": 0.22075743048897398,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "신분",
+      "attributes": {
+        "label": "신분",
+        "x": -213.527,
+        "y": 712.874,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3040816326530612,
+        "harmonicclosnesscentrality": 0.3180089485458614,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "심장",
+      "attributes": {
+        "label": "심장",
+        "x": 342.73056,
+        "y": 699.1669,
+        "size": 2.9038463,
+        "color": "#ff8805",
+        "Degree": 2,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.22074074074074074,
+        "harmonicclosnesscentrality": 0.2347874720357942,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 13
+      }
+    },
+    {
+      "key": "아니다",
+      "attributes": {
+        "label": "아니다",
+        "x": -383.26556,
+        "y": 226.42657,
+        "size": 29.557692,
+        "color": "#73c000",
+        "Degree": 16,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.48534201954397393,
+        "harmonicclosnesscentrality": 0.5268456375838926,
+        "betweenesscentrality": 56.4432449696292,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "아빠",
+      "attributes": {
+        "label": "아빠",
+        "x": -203.28372,
+        "y": 597.54425,
+        "size": 2.9038463,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3581730769230769,
+        "harmonicclosnesscentrality": 0.3816554809843404,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "아쉽다",
+      "attributes": {
+        "label": "아쉽다",
+        "x": -737.8634,
+        "y": 45.142136,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35645933014354064,
+        "harmonicclosnesscentrality": 0.3796420581655486,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "안녕하다",
+      "attributes": {
+        "label": "안녕하다",
+        "x": -111.81565,
+        "y": 350.57126,
+        "size": 4.8076925,
+        "color": "#ff8805",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.32964601769911506,
+        "harmonicclosnesscentrality": 0.35089485458613007,
+        "betweenesscentrality": 5.053546453546453,
+        "modularity_class": 13
+      }
+    },
+    {
+      "key": "안되다",
+      "attributes": {
+        "label": "안되다",
+        "x": -16.898357,
+        "y": 503.45404,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.32964601769911506,
+        "harmonicclosnesscentrality": 0.34776286353467595,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "안주",
+      "attributes": {
+        "label": "안주",
+        "x": -298.71838,
+        "y": -140.09163,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.34096109839816935,
+        "harmonicclosnesscentrality": 0.36308724832214806,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "애견",
+      "attributes": {
+        "label": "애견",
+        "x": -4.5042586,
+        "y": 942.9861,
+        "size": 4.8076925,
+        "color": "#ff5584",
+        "Degree": 3,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.26512455516014233,
+        "harmonicclosnesscentrality": 0.28534675615212546,
+        "betweenesscentrality": 148.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "얼마나",
+      "attributes": {
+        "label": "얼마나",
+        "x": -735.6852,
+        "y": 528.6126,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3643031784841076,
+        "harmonicclosnesscentrality": 0.38747203579418404,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "업자",
+      "attributes": {
+        "label": "업자",
+        "x": 1006.9064,
+        "y": -2842.5847,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 19
+      }
+    },
+    {
+      "key": "없다",
+      "attributes": {
+        "label": "없다",
+        "x": -411.96954,
+        "y": 389.57034,
+        "size": 39.076923,
+        "color": "#df89ff",
+        "Degree": 21,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.4950166112956811,
+        "harmonicclosnesscentrality": 0.5447427293064877,
+        "betweenesscentrality": 334.29729084309434,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "역시",
+      "attributes": {
+        "label": "역시",
+        "x": -390.7003,
+        "y": 735.5046,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35058823529411764,
+        "harmonicclosnesscentrality": 0.3704697986577185,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "역전",
+      "attributes": {
+        "label": "역전",
+        "x": 990.85236,
+        "y": 2739.8293,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 14
+      }
+    },
+    {
+      "key": "영상",
+      "attributes": {
+        "label": "영상",
+        "x": -311.04282,
+        "y": 192.74147,
+        "size": 25.75,
+        "color": "#df89ff",
+        "Degree": 14,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.45987654320987653,
+        "harmonicclosnesscentrality": 0.5027964205816557,
+        "betweenesscentrality": 395.53645259880085,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "영향력",
+      "attributes": {
+        "label": "영향력",
+        "x": 40.291145,
+        "y": 597.5393,
+        "size": 2.9038463,
+        "color": "#c0c0c0",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.34174311926605505,
+        "harmonicclosnesscentrality": 0.36454138702460887,
+        "betweenesscentrality": 148.0,
+        "modularity_class": 15
+      }
+    },
+    {
+      "key": "예산",
+      "attributes": {
+        "label": "예산",
+        "x": -577.00964,
+        "y": 365.22473,
+        "size": 100.0,
+        "color": "#df89ff",
+        "Degree": 53,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.5708812260536399,
+        "harmonicclosnesscentrality": 0.6610738255033557,
+        "betweenesscentrality": 3327.39843294545,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "오늘",
+      "attributes": {
+        "label": "오늘",
+        "x": -240.3638,
+        "y": 37.609222,
+        "size": 2.9038463,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35308056872037913,
+        "harmonicclosnesscentrality": 0.3760626398210295,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "오픈",
+      "attributes": {
+        "label": "오픈",
+        "x": 2456.0852,
+        "y": -1098.0746,
+        "size": 4.8076925,
+        "color": "#00c4ff",
+        "Degree": 3,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.5652173913043478,
+        "harmonicclosnesscentrality": 0.6153846153846154,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "욕심",
+      "attributes": {
+        "label": "욕심",
+        "x": -470.5192,
+        "y": 531.0532,
+        "size": 4.8076925,
+        "color": "#c0c0c0",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3473193473193473,
+        "harmonicclosnesscentrality": 0.3699105145413875,
+        "betweenesscentrality": 5.147619047619046,
+        "modularity_class": 18
+      }
+    },
+    {
+      "key": "유튜",
+      "attributes": {
+        "label": "유튜",
+        "x": -2285.1816,
+        "y": 258.52176,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 16
+      }
+    },
+    {
+      "key": "음식",
+      "attributes": {
+        "label": "음식",
+        "x": -351.8719,
+        "y": 281.0114,
+        "size": 27.653847,
+        "color": "#df89ff",
+        "Degree": 15,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.4745222929936306,
+        "harmonicclosnesscentrality": 0.5173378076062639,
+        "betweenesscentrality": 146.8297846356716,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "응원",
+      "attributes": {
+        "label": "응원",
+        "x": -358.0796,
+        "y": 398.42685,
+        "size": 10.519231,
+        "color": "#73c000",
+        "Degree": 6,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.4269340974212034,
+        "harmonicclosnesscentrality": 0.4591722595078301,
+        "betweenesscentrality": 26.081302521008396,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "이다",
+      "attributes": {
+        "label": "이다",
+        "x": -462.8772,
+        "y": 422.89307,
+        "size": 16.23077,
+        "color": "#df89ff",
+        "Degree": 9,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.45151515151515154,
+        "harmonicclosnesscentrality": 0.48545861297539156,
+        "betweenesscentrality": 167.52668158031813,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "이동",
+      "attributes": {
+        "label": "이동",
+        "x": 2372.6797,
+        "y": -1041.5266,
+        "size": 23.846153,
+        "color": "#00c4ff",
+        "Degree": 13,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 37.83333333333333,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "이제",
+      "attributes": {
+        "label": "이제",
+        "x": -369.8844,
+        "y": 785.851,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35058823529411764,
+        "harmonicclosnesscentrality": 0.3704697986577185,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "이형",
+      "attributes": {
+        "label": "이형",
+        "x": 1352.0844,
+        "y": -2133.8137,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 20
+      }
+    },
+    {
+      "key": "인간",
+      "attributes": {
+        "label": "인간",
+        "x": -463.30536,
+        "y": 571.83966,
+        "size": 2.9038463,
+        "color": "#c0c0c0",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3325892857142857,
+        "harmonicclosnesscentrality": 0.3505592841163315,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 18
+      }
+    },
+    {
+      "key": "임대료",
+      "attributes": {
+        "label": "임대료",
+        "x": -29.207842,
+        "y": 53.37322,
+        "size": 1.0,
+        "color": "#00bd94",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.30785123966942146,
+        "harmonicclosnesscentrality": 0.3247203579418349,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "자본주의",
+      "attributes": {
+        "label": "자본주의",
+        "x": -68.05278,
+        "y": 23.544392,
+        "size": 1.0,
+        "color": "#00bd94",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.30785123966942146,
+        "harmonicclosnesscentrality": 0.3247203579418349,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "자영",
+      "attributes": {
+        "label": "자영",
+        "x": 1073.2166,
+        "y": -2866.1885,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 19
+      }
+    },
+    {
+      "key": "장관",
+      "attributes": {
+        "label": "장관",
+        "x": -535.2974,
+        "y": 656.4193,
+        "size": 2.9038463,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35224586288416077,
+        "harmonicclosnesscentrality": 0.37494407158836734,
+        "betweenesscentrality": 8.919877344877342,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "장님",
+      "attributes": {
+        "label": "장님",
+        "x": -815.2407,
+        "y": 229.45976,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3643031784841076,
+        "harmonicclosnesscentrality": 0.38747203579418404,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "장사",
+      "attributes": {
+        "label": "장사",
+        "x": 10.111838,
+        "y": 441.3113,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.32964601769911506,
+        "harmonicclosnesscentrality": 0.34776286353467595,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "재밌다",
+      "attributes": {
+        "label": "재밌다",
+        "x": -129.0514,
+        "y": 67.968834,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3156779661016949,
+        "harmonicclosnesscentrality": 0.3302013422818795,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "잼버리",
+      "attributes": {
+        "label": "잼버리",
+        "x": -416.2099,
+        "y": 142.60556,
+        "size": 4.8076925,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.38303341902313626,
+        "harmonicclosnesscentrality": 0.40883668903803183,
+        "betweenesscentrality": 6.943686868686869,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "저렴하다",
+      "attributes": {
+        "label": "저렴하다",
+        "x": -585.44305,
+        "y": 56.133896,
+        "size": 2.9038463,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3616504854368932,
+        "harmonicclosnesscentrality": 0.3869127516778529,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "전국",
+      "attributes": {
+        "label": "전국",
+        "x": -775.6848,
+        "y": 72.1438,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35645933014354064,
+        "harmonicclosnesscentrality": 0.3796420581655486,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "전용",
+      "attributes": {
+        "label": "전용",
+        "x": 2548.3696,
+        "y": -77.47046,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 24
+      }
+    },
+    {
+      "key": "전통",
+      "attributes": {
+        "label": "전통",
+        "x": -532.29315,
+        "y": 49.884907,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.33408071748878926,
+        "harmonicclosnesscentrality": 0.34944071588366943,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "전화번호",
+      "attributes": {
+        "label": "전화번호",
+        "x": 2338.8357,
+        "y": -942.0714,
+        "size": 2.9038463,
+        "color": "#00c4ff",
+        "Degree": 2,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.5416666666666666,
+        "harmonicclosnesscentrality": 0.5769230769230769,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "정말",
+      "attributes": {
+        "label": "정말",
+        "x": -230.12567,
+        "y": 550.9055,
+        "size": 10.519231,
+        "color": "#73c000",
+        "Degree": 6,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.38107416879795397,
+        "harmonicclosnesscentrality": 0.4155480984340048,
+        "betweenesscentrality": 8.672619047619047,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "정치",
+      "attributes": {
+        "label": "정치",
+        "x": -180.80574,
+        "y": 520.6134,
+        "size": 6.7115383,
+        "color": "#73c000",
+        "Degree": 4,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.369727047146402,
+        "harmonicclosnesscentrality": 0.3982102908277408,
+        "betweenesscentrality": 9.740909090909089,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "정치인",
+      "attributes": {
+        "label": "정치인",
+        "x": -90.55587,
+        "y": 587.4957,
+        "size": 2.9038463,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.34096109839816935,
+        "harmonicclosnesscentrality": 0.36342281879194666,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "존경",
+      "attributes": {
+        "label": "존경",
+        "x": -233.8065,
+        "y": 641.7425,
+        "size": 10.519231,
+        "color": "#73c000",
+        "Degree": 6,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.36609336609336607,
+        "harmonicclosnesscentrality": 0.399328859060403,
+        "betweenesscentrality": 153.04999999999998,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "존나",
+      "attributes": {
+        "label": "존나",
+        "x": -95.33428,
+        "y": -120.1928,
+        "size": 1.0,
+        "color": "#4c463e",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2670250896057348,
+        "harmonicclosnesscentrality": 0.2809843400447428,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "종원",
+      "attributes": {
+        "label": "종원",
+        "x": 1384.1632,
+        "y": -2070.7405,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 20
+      }
+    },
+    {
+      "key": "좋다",
+      "attributes": {
+        "label": "좋다",
+        "x": -158.22139,
+        "y": 271.44382,
+        "size": 54.307693,
+        "color": "#73c000",
+        "Degree": 29,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.5173611111111112,
+        "harmonicclosnesscentrality": 0.5766219239373601,
+        "betweenesscentrality": 974.3722355091493,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "주가",
+      "attributes": {
+        "label": "주가",
+        "x": 1.1433021,
+        "y": 96.40929,
+        "size": 1.0,
+        "color": "#00bd94",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.30785123966942146,
+        "harmonicclosnesscentrality": 0.3247203579418349,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "주말",
+      "attributes": {
+        "label": "주말",
+        "x": -551.1303,
+        "y": 481.18298,
+        "size": 6.7115383,
+        "color": "#ff8805",
+        "Degree": 4,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3962765957446808,
+        "harmonicclosnesscentrality": 0.4280760626398215,
+        "betweenesscentrality": 151.1495781995782,
+        "modularity_class": 13
+      }
+    },
+    {
+      "key": "주민",
+      "attributes": {
+        "label": "주민",
+        "x": -33.07425,
+        "y": 201.19693,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.32891832229580575,
+        "harmonicclosnesscentrality": 0.3449664429530206,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "주차장",
+      "attributes": {
+        "label": "주차장",
+        "x": -806.7297,
+        "y": 301.68918,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3643031784841076,
+        "harmonicclosnesscentrality": 0.38747203579418404,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "준비",
+      "attributes": {
+        "label": "준비",
+        "x": -524.9349,
+        "y": 3.909212,
+        "size": 2.9038463,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35731414868105515,
+        "harmonicclosnesscentrality": 0.38299776286353515,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "즐겁다",
+      "attributes": {
+        "label": "즐겁다",
+        "x": -723.9647,
+        "y": 698.3994,
+        "size": 1.0,
+        "color": "#ff8805",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.28435114503816794,
+        "harmonicclosnesscentrality": 0.29787472035794194,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 13
+      }
+    },
+    {
+      "key": "지역",
+      "attributes": {
+        "label": "지역",
+        "x": -255.43501,
+        "y": 237.43774,
+        "size": 39.076923,
+        "color": "#df89ff",
+        "Degree": 21,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.4885245901639344,
+        "harmonicclosnesscentrality": 0.540268456375839,
+        "betweenesscentrality": 563.1103226406331,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "직원",
+      "attributes": {
+        "label": "직원",
+        "x": -345.07925,
+        "y": 605.2387,
+        "size": 6.7115383,
+        "color": "#d3b3b0",
+        "Degree": 4,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.3706467661691542,
+        "harmonicclosnesscentrality": 0.399328859060403,
+        "betweenesscentrality": 21.8714636240952,
+        "modularity_class": 11
+      }
+    },
+    {
+      "key": "진짜",
+      "attributes": {
+        "label": "진짜",
+        "x": -294.04904,
+        "y": 299.93948,
+        "size": 27.653847,
+        "color": "#73c000",
+        "Degree": 15,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.44610778443113774,
+        "harmonicclosnesscentrality": 0.4955257270693512,
+        "betweenesscentrality": 257.8655610860121,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "착하다",
+      "attributes": {
+        "label": "착하다",
+        "x": -471.77744,
+        "y": -93.7282,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3084886128364389,
+        "harmonicclosnesscentrality": 0.3247203579418348,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "처음",
+      "attributes": {
+        "label": "처음",
+        "x": 2319.4775,
+        "y": -1117.9974,
+        "size": 6.7115383,
+        "color": "#00c4ff",
+        "Degree": 4,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.5909090909090909,
+        "harmonicclosnesscentrality": 0.6538461538461539,
+        "betweenesscentrality": 0.3333333333333333,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "청년",
+      "attributes": {
+        "label": "청년",
+        "x": 1806.6058,
+        "y": -1974.9841,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 21
+      }
+    },
+    {
+      "key": "최고",
+      "attributes": {
+        "label": "최고",
+        "x": -483.9732,
+        "y": 436.9069,
+        "size": 6.7115383,
+        "color": "#df89ff",
+        "Degree": 4,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.40821917808219177,
+        "harmonicclosnesscentrality": 0.43680089485458645,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "축제",
+      "attributes": {
+        "label": "축제",
+        "x": -535.5315,
+        "y": 153.75143,
+        "size": 90.48077,
+        "color": "#df89ff",
+        "Degree": 48,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.5518518518518518,
+        "harmonicclosnesscentrality": 0.6398210290827739,
+        "betweenesscentrality": 2423.3001884023697,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "치료",
+      "attributes": {
+        "label": "치료",
+        "x": 168.45609,
+        "y": 634.67303,
+        "size": 4.8076925,
+        "color": "#ff8805",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.2821969696969697,
+        "harmonicclosnesscentrality": 0.3032438478747206,
+        "betweenesscentrality": 73.5,
+        "modularity_class": 13
+      }
+    },
+    {
+      "key": "클로즈",
+      "attributes": {
+        "label": "클로즈",
+        "x": 2485.8782,
+        "y": -1068.3207,
+        "size": 4.8076925,
+        "color": "#00c4ff",
+        "Degree": 3,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.5652173913043478,
+        "harmonicclosnesscentrality": 0.6153846153846154,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "튀김",
+      "attributes": {
+        "label": "튀김",
+        "x": -303.40143,
+        "y": -333.94894,
+        "size": 1.0,
+        "color": "#4c463e",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.26325088339222613,
+        "harmonicclosnesscentrality": 0.27740492170022385,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "페스티벌",
+      "attributes": {
+        "label": "페스티벌",
+        "x": -625.9266,
+        "y": 83.82824,
+        "size": 2.9038463,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.382051282051282,
+        "harmonicclosnesscentrality": 0.4087248322147657,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "편의점",
+      "attributes": {
+        "label": "편의점",
+        "x": -245.40126,
+        "y": -150.31848,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.34096109839816935,
+        "harmonicclosnesscentrality": 0.36308724832214806,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "풍차",
+      "attributes": {
+        "label": "풍차",
+        "x": -507.5758,
+        "y": -184.1363,
+        "size": 1.0,
+        "color": "#4c463e",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3091286307053942,
+        "harmonicclosnesscentrality": 0.32919463087248346,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "하루",
+      "attributes": {
+        "label": "하루",
+        "x": 51.797325,
+        "y": 321.9425,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.34174311926605505,
+        "harmonicclosnesscentrality": 0.3587248322147656,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "한국",
+      "attributes": {
+        "label": "한국",
+        "x": -225.12737,
+        "y": 104.322754,
+        "size": 6.7115383,
+        "color": "#df89ff",
+        "Degree": 4,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.39210526315789473,
+        "harmonicclosnesscentrality": 0.4230425055928417,
+        "betweenesscentrality": 151.37640298381334,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "한번",
+      "attributes": {
+        "label": "한번",
+        "x": -699.4437,
+        "y": 261.6024,
+        "size": 2.9038463,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.38402061855670105,
+        "harmonicclosnesscentrality": 0.4120805369127522,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "한잔",
+      "attributes": {
+        "label": "한잔",
+        "x": -368.97687,
+        "y": -151.7237,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.34096109839816935,
+        "harmonicclosnesscentrality": 0.36308724832214806,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "항상",
+      "attributes": {
+        "label": "항상",
+        "x": -167.26038,
+        "y": 386.6047,
+        "size": 4.8076925,
+        "color": "#73c000",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.34894613583138173,
+        "harmonicclosnesscentrality": 0.372706935123043,
+        "betweenesscentrality": 0.5111111111111111,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "해도",
+      "attributes": {
+        "label": "해도",
+        "x": 2458.7502,
+        "y": -975.2177,
+        "size": 2.9038463,
+        "color": "#00c4ff",
+        "Degree": 2,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.5416666666666666,
+        "harmonicclosnesscentrality": 0.5769230769230769,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 17
+      }
+    },
+    {
+      "key": "행복하다",
+      "attributes": {
+        "label": "행복하다",
+        "x": -318.41534,
+        "y": 394.036,
+        "size": 25.75,
+        "color": "#ff8805",
+        "Degree": 14,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.44744744744744747,
+        "harmonicclosnesscentrality": 0.49328859060402697,
+        "betweenesscentrality": 392.5823406177307,
+        "modularity_class": 13
+      }
+    },
+    {
+      "key": "홍콩",
+      "attributes": {
+        "label": "홍콩",
+        "x": 1662.7046,
+        "y": -2660.4248,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 23
+      }
+    },
+    {
+      "key": "화이팅",
+      "attributes": {
+        "label": "화이팅",
+        "x": -593.017,
+        "y": 612.47394,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3117154811715481,
+        "harmonicclosnesscentrality": 0.32427293064876983,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "화장실",
+      "attributes": {
+        "label": "화장실",
+        "x": 2639.3213,
+        "y": -63.289566,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 24
+      }
+    },
+    {
+      "key": "활성화",
+      "attributes": {
+        "label": "활성화",
+        "x": -32.06978,
+        "y": 156.71135,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.32891832229580575,
+        "harmonicclosnesscentrality": 0.3449664429530206,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 22
+      }
+    },
+    {
+      "key": "황금알",
+      "attributes": {
+        "label": "황금알",
+        "x": -2858.9106,
+        "y": -706.8285,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 4
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "0",
+      "source": "1일",
+      "target": "9월",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "1",
+      "source": "2시간",
+      "target": "바베큐",
+      "attributes": {
+        "color": "#cb0524",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "2",
+      "source": "3시간",
+      "target": "바베큐",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "3",
+      "source": "3시간",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "4",
+      "source": "3일",
+      "target": "맥주",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "5",
+      "source": "3일",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "6",
+      "source": "9월",
+      "target": "맥주",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "7",
+      "source": "가격",
+      "target": "건물",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "8",
+      "source": "가격",
+      "target": "맥주",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 39.0
+      }
+    },
+    {
+      "key": "9",
+      "source": "가격",
+      "target": "바베큐",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "10",
+      "source": "가격",
+      "target": "시장",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "11",
+      "source": "가격",
+      "target": "아니다",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "12",
+      "source": "가격",
+      "target": "없다",
+      "attributes": {
+        "color": "#cc0c2afe",
+        "weight": 40.0
+      }
+    },
+    {
+      "key": "13",
+      "source": "가격",
+      "target": "예산",
+      "attributes": {
+        "color": "#cd122f",
+        "weight": 49.0
+      }
+    },
+    {
+      "key": "14",
+      "source": "가격",
+      "target": "음식",
+      "attributes": {
+        "color": "#cd0e2d",
+        "weight": 44.0
+      }
+    },
+    {
+      "key": "15",
+      "source": "가격",
+      "target": "저렴하다",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "16",
+      "source": "가격",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cb0524",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "17",
+      "source": "가격",
+      "target": "지역",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "18",
+      "source": "가격",
+      "target": "착하다",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 39.0
+      }
+    },
+    {
+      "key": "19",
+      "source": "가격",
+      "target": "축제",
+      "attributes": {
+        "color": "#d5354e",
+        "weight": 106.0
+      }
+    },
+    {
+      "key": "20",
+      "source": "가정",
+      "target": "당사자",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "21",
+      "source": "가정",
+      "target": "이동",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "22",
+      "source": "간식",
+      "target": "강아지",
+      "attributes": {
+        "color": "#cc0928",
+        "weight": 36.0
+      }
+    },
+    {
+      "key": "23",
+      "source": "간식",
+      "target": "사업",
+      "attributes": {
+        "color": "#cb0626",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "24",
+      "source": "간식",
+      "target": "애견",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "25",
+      "source": "감사",
+      "target": "시청",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "26",
+      "source": "감사",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "27",
+      "source": "강아지",
+      "target": "대표",
+      "attributes": {
+        "color": "#cb0626",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "28",
+      "source": "강아지",
+      "target": "백종원",
+      "attributes": {
+        "color": "#cb0827",
+        "weight": 33.0
+      }
+    },
+    {
+      "key": "29",
+      "source": "강아지",
+      "target": "사료",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "30",
+      "source": "강아지",
+      "target": "사업",
+      "attributes": {
+        "color": "#cc0d2b",
+        "weight": 41.0
+      }
+    },
+    {
+      "key": "31",
+      "source": "강아지",
+      "target": "음식",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "32",
+      "source": "강아지",
+      "target": "좋다",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "33",
+      "source": "같다",
+      "target": "그렇다",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "34",
+      "source": "같다",
+      "target": "대표",
+      "attributes": {
+        "color": "#cb0928",
+        "weight": 35.0
+      }
+    },
+    {
+      "key": "35",
+      "source": "같다",
+      "target": "많다",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "36",
+      "source": "같다",
+      "target": "맥주",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "37",
+      "source": "같다",
+      "target": "백종원",
+      "attributes": {
+        "color": "#ce1330",
+        "weight": 51.0
+      }
+    },
+    {
+      "key": "38",
+      "source": "같다",
+      "target": "사람",
+      "attributes": {
+        "color": "#cc0d2cfe",
+        "weight": 42.0
+      }
+    },
+    {
+      "key": "39",
+      "source": "같다",
+      "target": "아니다",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "40",
+      "source": "같다",
+      "target": "없다",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "41",
+      "source": "같다",
+      "target": "예산",
+      "attributes": {
+        "color": "#cb0928",
+        "weight": 35.0
+      }
+    },
+    {
+      "key": "42",
+      "source": "같다",
+      "target": "좋다",
+      "attributes": {
+        "color": "#ce1533",
+        "weight": 55.0
+      }
+    },
+    {
+      "key": "43",
+      "source": "같다",
+      "target": "진짜",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "44",
+      "source": "거리",
+      "target": "곱창",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "45",
+      "source": "거리",
+      "target": "국밥",
+      "attributes": {
+        "color": "#cd0e2d",
+        "weight": 44.0
+      }
+    },
+    {
+      "key": "46",
+      "source": "거리",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "47",
+      "source": "거위",
+      "target": "황금알",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "48",
+      "source": "건강하다",
+      "target": "대표",
+      "attributes": {
+        "color": "#cc0d2cfe",
+        "weight": 42.0
+      }
+    },
+    {
+      "key": "49",
+      "source": "건강하다",
+      "target": "방문",
+      "attributes": {
+        "color": "#cc0d2cfe",
+        "weight": 42.0
+      }
+    },
+    {
+      "key": "50",
+      "source": "건강하다",
+      "target": "백종원",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "51",
+      "source": "건강하다",
+      "target": "사상충",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "52",
+      "source": "건강하다",
+      "target": "영상",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "53",
+      "source": "건강하다",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cc0e2c",
+        "weight": 43.0
+      }
+    },
+    {
+      "key": "54",
+      "source": "건강하다",
+      "target": "치료",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "55",
+      "source": "건강하다",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#d4334d",
+        "weight": 103.0
+      }
+    },
+    {
+      "key": "56",
+      "source": "건물",
+      "target": "대표",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "57",
+      "source": "건물",
+      "target": "문제",
+      "attributes": {
+        "color": "#cb0928",
+        "weight": 35.0
+      }
+    },
+    {
+      "key": "58",
+      "source": "건물",
+      "target": "백종원",
+      "attributes": {
+        "color": "#cd0e2d",
+        "weight": 44.0
+      }
+    },
+    {
+      "key": "59",
+      "source": "건물",
+      "target": "사람",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "60",
+      "source": "건물",
+      "target": "상인",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "61",
+      "source": "건물",
+      "target": "시장",
+      "attributes": {
+        "color": "#ce1734",
+        "weight": 58.0
+      }
+    },
+    {
+      "key": "62",
+      "source": "건물",
+      "target": "아니다",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "63",
+      "source": "건물",
+      "target": "없다",
+      "attributes": {
+        "color": "#cd0f2d",
+        "weight": 45.0
+      }
+    },
+    {
+      "key": "64",
+      "source": "건물",
+      "target": "예산",
+      "attributes": {
+        "color": "#cc0e2c",
+        "weight": 43.0
+      }
+    },
+    {
+      "key": "65",
+      "source": "건물",
+      "target": "임대료",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "66",
+      "source": "건물",
+      "target": "자본주의",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "67",
+      "source": "건물",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 39.0
+      }
+    },
+    {
+      "key": "68",
+      "source": "건물",
+      "target": "주가",
+      "attributes": {
+        "color": "#d32c46",
+        "weight": 91.0
+      }
+    },
+    {
+      "key": "69",
+      "source": "건물",
+      "target": "지역",
+      "attributes": {
+        "color": "#cb0626",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "70",
+      "source": "검다",
+      "target": "머리",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "71",
+      "source": "견생",
+      "target": "역전",
+      "attributes": {
+        "color": "#cf1c39",
+        "weight": 66.0
+      }
+    },
+    {
+      "key": "72",
+      "source": "경제",
+      "target": "지역",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 75.0
+      }
+    },
+    {
+      "key": "73",
+      "source": "계속",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "74",
+      "source": "계속",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "75",
+      "source": "고기",
+      "target": "맛없다",
+      "attributes": {
+        "color": "#cb0827",
+        "weight": 34.0
+      }
+    },
+    {
+      "key": "76",
+      "source": "고기",
+      "target": "맛있다",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "77",
+      "source": "고기",
+      "target": "맥주",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "78",
+      "source": "고기",
+      "target": "바베큐",
+      "attributes": {
+        "color": "#ce1331",
+        "weight": 52.0
+      }
+    },
+    {
+      "key": "79",
+      "source": "고기",
+      "target": "튀김",
+      "attributes": {
+        "color": "#cc0d2cfe",
+        "weight": 42.0
+      }
+    },
+    {
+      "key": "80",
+      "source": "고생",
+      "target": "덥다",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "81",
+      "source": "고생",
+      "target": "많다",
+      "attributes": {
+        "color": "#cc0e2c",
+        "weight": 43.0
+      }
+    },
+    {
+      "key": "82",
+      "source": "고생",
+      "target": "직원",
+      "attributes": {
+        "color": "#cd102e",
+        "weight": 46.0
+      }
+    },
+    {
+      "key": "83",
+      "source": "고향",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "84",
+      "source": "골목",
+      "target": "시장",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "85",
+      "source": "골목",
+      "target": "식당",
+      "attributes": {
+        "color": "#d01f3b",
+        "weight": 71.0
+      }
+    },
+    {
+      "key": "86",
+      "source": "과일",
+      "target": "맥주",
+      "attributes": {
+        "color": "#cb0928",
+        "weight": 35.0
+      }
+    },
+    {
+      "key": "87",
+      "source": "관광",
+      "target": "한국",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "88",
+      "source": "괜찮다",
+      "target": "당사자",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "89",
+      "source": "괜찮다",
+      "target": "이동",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "90",
+      "source": "구독",
+      "target": "좋다",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "91",
+      "source": "국밥",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "92",
+      "source": "국회",
+      "target": "백종원",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "93",
+      "source": "국회의원",
+      "target": "백종원",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "94",
+      "source": "군민",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "95",
+      "source": "군수",
+      "target": "예산",
+      "attributes": {
+        "color": "#cb0928",
+        "weight": 35.0
+      }
+    },
+    {
+      "key": "96",
+      "source": "귀엽다",
+      "target": "똑똑하다",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "97",
+      "source": "그렇다",
+      "target": "사람",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "98",
+      "source": "기간",
+      "target": "축제",
+      "attributes": {
+        "color": "#cf1936",
+        "weight": 61.0
+      }
+    },
+    {
+      "key": "99",
+      "source": "기계",
+      "target": "바베큐",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "100",
+      "source": "나라",
+      "target": "백종원",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "101",
+      "source": "나라",
+      "target": "사람",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "102",
+      "source": "나라",
+      "target": "지역",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "103",
+      "source": "날씨",
+      "target": "덥다",
+      "attributes": {
+        "color": "#cd102efe",
+        "weight": 47.0
+      }
+    },
+    {
+      "key": "104",
+      "source": "내년",
+      "target": "맥주",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "105",
+      "source": "내년",
+      "target": "예산",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "106",
+      "source": "내년",
+      "target": "축제",
+      "attributes": {
+        "color": "#ce1331",
+        "weight": 52.0
+      }
+    },
+    {
+      "key": "107",
+      "source": "농부",
+      "target": "청년",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "108",
+      "source": "다음",
+      "target": "영상",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "109",
+      "source": "다음",
+      "target": "예산",
+      "attributes": {
+        "color": "#cb0626",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "110",
+      "source": "다음",
+      "target": "축제",
+      "attributes": {
+        "color": "#cc0d2b",
+        "weight": 41.0
+      }
+    },
+    {
+      "key": "111",
+      "source": "당사자",
+      "target": "라며",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "112",
+      "source": "당사자",
+      "target": "며못",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "113",
+      "source": "당사자",
+      "target": "면서",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "114",
+      "source": "당사자",
+      "target": "배달",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "115",
+      "source": "당사자",
+      "target": "오픈",
+      "attributes": {
+        "color": "#cd0e2d",
+        "weight": 44.0
+      }
+    },
+    {
+      "key": "116",
+      "source": "당사자",
+      "target": "이동",
+      "attributes": {
+        "color": "#d12540",
+        "weight": 80.0
+      }
+    },
+    {
+      "key": "117",
+      "source": "당사자",
+      "target": "전화번호",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "118",
+      "source": "당사자",
+      "target": "처음",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "119",
+      "source": "당사자",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#cd0e2d",
+        "weight": 44.0
+      }
+    },
+    {
+      "key": "120",
+      "source": "당사자",
+      "target": "해도",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "121",
+      "source": "대단하다",
+      "target": "대표",
+      "attributes": {
+        "color": "#ce1331",
+        "weight": 52.0
+      }
+    },
+    {
+      "key": "122",
+      "source": "대단하다",
+      "target": "백종원",
+      "attributes": {
+        "color": "#d1213d",
+        "weight": 74.0
+      }
+    },
+    {
+      "key": "123",
+      "source": "대단하다",
+      "target": "사람",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 48.0
+      }
+    },
+    {
+      "key": "124",
+      "source": "대단하다",
+      "target": "신분",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "125",
+      "source": "대단하다",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "126",
+      "source": "대단하다",
+      "target": "정말",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 48.0
+      }
+    },
+    {
+      "key": "127",
+      "source": "대단하다",
+      "target": "존경",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "128",
+      "source": "대단하다",
+      "target": "진짜",
+      "attributes": {
+        "color": "#d01d3a",
+        "weight": 68.0
+      }
+    },
+    {
+      "key": "129",
+      "source": "대단하다",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "130",
+      "source": "대박",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "131",
+      "source": "대통령",
+      "target": "백종원",
+      "attributes": {
+        "color": "#d01d3a",
+        "weight": 68.0
+      }
+    },
+    {
+      "key": "132",
+      "source": "대표",
+      "target": "대한민국",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "133",
+      "source": "대표",
+      "target": "많다",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "134",
+      "source": "대표",
+      "target": "멋지다",
+      "attributes": {
+        "color": "#cb0626",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "135",
+      "source": "대표",
+      "target": "백종원",
+      "attributes": {
+        "color": "#dd5e72fe",
+        "weight": 171.0
+      }
+    },
+    {
+      "key": "136",
+      "source": "대표",
+      "target": "사람",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 48.0
+      }
+    },
+    {
+      "key": "137",
+      "source": "대표",
+      "target": "사랑",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "138",
+      "source": "대표",
+      "target": "사업",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "139",
+      "source": "대표",
+      "target": "생각",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "140",
+      "source": "대표",
+      "target": "시장",
+      "attributes": {
+        "color": "#cc0928",
+        "weight": 36.0
+      }
+    },
+    {
+      "key": "141",
+      "source": "대표",
+      "target": "아니다",
+      "attributes": {
+        "color": "#cb0827",
+        "weight": 34.0
+      }
+    },
+    {
+      "key": "142",
+      "source": "대표",
+      "target": "없다",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "143",
+      "source": "대표",
+      "target": "영상",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "144",
+      "source": "대표",
+      "target": "영향력",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "145",
+      "source": "대표",
+      "target": "예산",
+      "attributes": {
+        "color": "#d32c47",
+        "weight": 92.0
+      }
+    },
+    {
+      "key": "146",
+      "source": "대표",
+      "target": "응원",
+      "attributes": {
+        "color": "#cc0d2b",
+        "weight": 41.0
+      }
+    },
+    {
+      "key": "147",
+      "source": "대표",
+      "target": "이다",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "148",
+      "source": "대표",
+      "target": "잼버리",
+      "attributes": {
+        "color": "#cc0c2afe",
+        "weight": 40.0
+      }
+    },
+    {
+      "key": "149",
+      "source": "대표",
+      "target": "정말",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "150",
+      "source": "대표",
+      "target": "정치",
+      "attributes": {
+        "color": "#cb0827",
+        "weight": 33.0
+      }
+    },
+    {
+      "key": "151",
+      "source": "대표",
+      "target": "정치인",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "152",
+      "source": "대표",
+      "target": "존경",
+      "attributes": {
+        "color": "#d1243f",
+        "weight": 78.0
+      }
+    },
+    {
+      "key": "153",
+      "source": "대표",
+      "target": "좋다",
+      "attributes": {
+        "color": "#d01f3bfe",
+        "weight": 70.0
+      }
+    },
+    {
+      "key": "154",
+      "source": "대표",
+      "target": "지역",
+      "attributes": {
+        "color": "#cc0c2afe",
+        "weight": 40.0
+      }
+    },
+    {
+      "key": "155",
+      "source": "대표",
+      "target": "직원",
+      "attributes": {
+        "color": "#cf1835",
+        "weight": 59.0
+      }
+    },
+    {
+      "key": "156",
+      "source": "대표",
+      "target": "진짜",
+      "attributes": {
+        "color": "#cb0928",
+        "weight": 35.0
+      }
+    },
+    {
+      "key": "157",
+      "source": "대표",
+      "target": "최고",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "158",
+      "source": "대표",
+      "target": "축제",
+      "attributes": {
+        "color": "#cc0928",
+        "weight": 36.0
+      }
+    },
+    {
+      "key": "159",
+      "source": "대표",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#cb0928",
+        "weight": 35.0
+      }
+    },
+    {
+      "key": "160",
+      "source": "대한민국",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "161",
+      "source": "댓글",
+      "target": "안녕하다",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "162",
+      "source": "댓글",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "163",
+      "source": "덥다",
+      "target": "맥주",
+      "attributes": {
+        "color": "#cc0c2afe",
+        "weight": 40.0
+      }
+    },
+    {
+      "key": "164",
+      "source": "덥다",
+      "target": "시장",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "165",
+      "source": "덥다",
+      "target": "예산",
+      "attributes": {
+        "color": "#cc0c2afe",
+        "weight": 40.0
+      }
+    },
+    {
+      "key": "166",
+      "source": "덥다",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "167",
+      "source": "도시",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "168",
+      "source": "독일",
+      "target": "맥주",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "169",
+      "source": "돼지",
+      "target": "바베큐",
+      "attributes": {
+        "color": "#d01f3bfe",
+        "weight": 70.0
+      }
+    },
+    {
+      "key": "170",
+      "source": "돼지",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "171",
+      "source": "돼지",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "172",
+      "source": "라며",
+      "target": "이동",
+      "attributes": {
+        "color": "#cc0c2afe",
+        "weight": 40.0
+      }
+    },
+    {
+      "key": "173",
+      "source": "라며",
+      "target": "처음",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "174",
+      "source": "만리",
+      "target": "맥주",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "175",
+      "source": "많다",
+      "target": "맥주",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "176",
+      "source": "많다",
+      "target": "바베큐",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "177",
+      "source": "많다",
+      "target": "백종원",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "178",
+      "source": "많다",
+      "target": "사람",
+      "attributes": {
+        "color": "#d94960fe",
+        "weight": 138.0
+      }
+    },
+    {
+      "key": "179",
+      "source": "많다",
+      "target": "시장",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "180",
+      "source": "많다",
+      "target": "없다",
+      "attributes": {
+        "color": "#cb0928",
+        "weight": 35.0
+      }
+    },
+    {
+      "key": "181",
+      "source": "많다",
+      "target": "예산",
+      "attributes": {
+        "color": "#d01d3a",
+        "weight": 68.0
+      }
+    },
+    {
+      "key": "182",
+      "source": "많다",
+      "target": "음식",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "183",
+      "source": "많다",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cb0928",
+        "weight": 35.0
+      }
+    },
+    {
+      "key": "184",
+      "source": "많다",
+      "target": "지역",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "185",
+      "source": "많다",
+      "target": "축제",
+      "attributes": {
+        "color": "#d22944",
+        "weight": 87.0
+      }
+    },
+    {
+      "key": "186",
+      "source": "맛없다",
+      "target": "맛있다",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "187",
+      "source": "맛없다",
+      "target": "바베큐",
+      "attributes": {
+        "color": "#d12540",
+        "weight": 80.0
+      }
+    },
+    {
+      "key": "188",
+      "source": "맛없다",
+      "target": "사람",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "189",
+      "source": "맛없다",
+      "target": "음식",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "190",
+      "source": "맛없다",
+      "target": "존나",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "191",
+      "source": "맛없다",
+      "target": "진짜",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "192",
+      "source": "맛있다",
+      "target": "맥주",
+      "attributes": {
+        "color": "#d5354e",
+        "weight": 106.0
+      }
+    },
+    {
+      "key": "193",
+      "source": "맛있다",
+      "target": "바베큐",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 76.0
+      }
+    },
+    {
+      "key": "194",
+      "source": "맛있다",
+      "target": "시장",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "195",
+      "source": "맛있다",
+      "target": "예산",
+      "attributes": {
+        "color": "#cf1835",
+        "weight": 60.0
+      }
+    },
+    {
+      "key": "196",
+      "source": "맛있다",
+      "target": "음식",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "197",
+      "source": "맛있다",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "198",
+      "source": "맛있다",
+      "target": "진짜",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "199",
+      "source": "맛있다",
+      "target": "축제",
+      "attributes": {
+        "color": "#cd0e2d",
+        "weight": 44.0
+      }
+    },
+    {
+      "key": "200",
+      "source": "맥주",
+      "target": "바베큐",
+      "attributes": {
+        "color": "#d9495f",
+        "weight": 137.0
+      }
+    },
+    {
+      "key": "201",
+      "source": "맥주",
+      "target": "백종원",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "202",
+      "source": "맥주",
+      "target": "비싸다",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "203",
+      "source": "맥주",
+      "target": "사과",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "204",
+      "source": "맥주",
+      "target": "생각",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "205",
+      "source": "맥주",
+      "target": "시간",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "206",
+      "source": "맥주",
+      "target": "시장",
+      "attributes": {
+        "color": "#cf1835",
+        "weight": 59.0
+      }
+    },
+    {
+      "key": "207",
+      "source": "맥주",
+      "target": "아니다",
+      "attributes": {
+        "color": "#cc0d2cfe",
+        "weight": 42.0
+      }
+    },
+    {
+      "key": "208",
+      "source": "맥주",
+      "target": "안주",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "209",
+      "source": "맥주",
+      "target": "없다",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 48.0
+      }
+    },
+    {
+      "key": "210",
+      "source": "맥주",
+      "target": "영상",
+      "attributes": {
+        "color": "#ce1432",
+        "weight": 53.0
+      }
+    },
+    {
+      "key": "211",
+      "source": "맥주",
+      "target": "예산",
+      "attributes": {
+        "color": "#f1bcc5",
+        "weight": 322.0
+      }
+    },
+    {
+      "key": "212",
+      "source": "맥주",
+      "target": "오늘",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "213",
+      "source": "맥주",
+      "target": "음식",
+      "attributes": {
+        "color": "#cc0e2c",
+        "weight": 43.0
+      }
+    },
+    {
+      "key": "214",
+      "source": "맥주",
+      "target": "이다",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "215",
+      "source": "맥주",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cd102e",
+        "weight": 46.0
+      }
+    },
+    {
+      "key": "216",
+      "source": "맥주",
+      "target": "지역",
+      "attributes": {
+        "color": "#cd0f2d",
+        "weight": 45.0
+      }
+    },
+    {
+      "key": "217",
+      "source": "맥주",
+      "target": "진짜",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "218",
+      "source": "맥주",
+      "target": "축제",
+      "attributes": {
+        "color": "#868686",
+        "weight": 527.0
+      }
+    },
+    {
+      "key": "219",
+      "source": "맥주",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#d5354e",
+        "weight": 106.0
+      }
+    },
+    {
+      "key": "220",
+      "source": "맥주",
+      "target": "편의점",
+      "attributes": {
+        "color": "#cb0626",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "221",
+      "source": "맥주",
+      "target": "한국",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "222",
+      "source": "맥주",
+      "target": "한잔",
+      "attributes": {
+        "color": "#cb0626",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "223",
+      "source": "맥주",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "224",
+      "source": "먹거리",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "225",
+      "source": "멋있다",
+      "target": "진짜",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "226",
+      "source": "멋지다",
+      "target": "백종원",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "227",
+      "source": "멋지다",
+      "target": "진짜",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "228",
+      "source": "메뉴",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "229",
+      "source": "며못",
+      "target": "이동",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "230",
+      "source": "면서",
+      "target": "이동",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "231",
+      "source": "모두",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "232",
+      "source": "모집",
+      "target": "이동",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "233",
+      "source": "문제",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "234",
+      "source": "문화",
+      "target": "장관",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "235",
+      "source": "문화",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "236",
+      "source": "바가지",
+      "target": "없다",
+      "attributes": {
+        "color": "#cd122f",
+        "weight": 49.0
+      }
+    },
+    {
+      "key": "237",
+      "source": "바가지",
+      "target": "축제",
+      "attributes": {
+        "color": "#ce1532",
+        "weight": 54.0
+      }
+    },
+    {
+      "key": "238",
+      "source": "바베큐",
+      "target": "시간",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "239",
+      "source": "바베큐",
+      "target": "시장",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "240",
+      "source": "바베큐",
+      "target": "아니다",
+      "attributes": {
+        "color": "#cc0928",
+        "weight": 36.0
+      }
+    },
+    {
+      "key": "241",
+      "source": "바베큐",
+      "target": "없다",
+      "attributes": {
+        "color": "#cd0e2d",
+        "weight": 44.0
+      }
+    },
+    {
+      "key": "242",
+      "source": "바베큐",
+      "target": "영상",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "243",
+      "source": "바베큐",
+      "target": "예산",
+      "attributes": {
+        "color": "#d12540",
+        "weight": 80.0
+      }
+    },
+    {
+      "key": "244",
+      "source": "바베큐",
+      "target": "음식",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "245",
+      "source": "바베큐",
+      "target": "진짜",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "246",
+      "source": "바베큐",
+      "target": "축제",
+      "attributes": {
+        "color": "#d63e56",
+        "weight": 120.0
+      }
+    },
+    {
+      "key": "247",
+      "source": "바베큐",
+      "target": "풍차",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "248",
+      "source": "반점",
+      "target": "홍콩",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "249",
+      "source": "발전",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "250",
+      "source": "발전",
+      "target": "지역",
+      "attributes": {
+        "color": "#cd0f2d",
+        "weight": 45.0
+      }
+    },
+    {
+      "key": "251",
+      "source": "방문",
+      "target": "예산",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "252",
+      "source": "방문",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#d01f3bfe",
+        "weight": 70.0
+      }
+    },
+    {
+      "key": "253",
+      "source": "배달",
+      "target": "이동",
+      "attributes": {
+        "color": "#cc0c2afe",
+        "weight": 40.0
+      }
+    },
+    {
+      "key": "254",
+      "source": "배달",
+      "target": "처음",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "255",
+      "source": "백종원",
+      "target": "사람",
+      "attributes": {
+        "color": "#d32e48",
+        "weight": 94.0
+      }
+    },
+    {
+      "key": "256",
+      "source": "백종원",
+      "target": "사랑",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "257",
+      "source": "백종원",
+      "target": "사업가",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "258",
+      "source": "백종원",
+      "target": "생각",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "259",
+      "source": "백종원",
+      "target": "선생님",
+      "attributes": {
+        "color": "#cd0e2d",
+        "weight": 44.0
+      }
+    },
+    {
+      "key": "260",
+      "source": "백종원",
+      "target": "시장",
+      "attributes": {
+        "color": "#cf1a36",
+        "weight": 62.0
+      }
+    },
+    {
+      "key": "261",
+      "source": "백종원",
+      "target": "식당",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "262",
+      "source": "백종원",
+      "target": "아니다",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 75.0
+      }
+    },
+    {
+      "key": "263",
+      "source": "백종원",
+      "target": "아빠",
+      "attributes": {
+        "color": "#cd122f",
+        "weight": 49.0
+      }
+    },
+    {
+      "key": "264",
+      "source": "백종원",
+      "target": "없다",
+      "attributes": {
+        "color": "#d0203cfe",
+        "weight": 72.0
+      }
+    },
+    {
+      "key": "265",
+      "source": "백종원",
+      "target": "역시",
+      "attributes": {
+        "color": "#cb0524",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "266",
+      "source": "백종원",
+      "target": "예산",
+      "attributes": {
+        "color": "#da4f65",
+        "weight": 148.0
+      }
+    },
+    {
+      "key": "267",
+      "source": "백종원",
+      "target": "음식",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "268",
+      "source": "백종원",
+      "target": "응원",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "269",
+      "source": "백종원",
+      "target": "이다",
+      "attributes": {
+        "color": "#cc0a29fe",
+        "weight": 37.0
+      }
+    },
+    {
+      "key": "270",
+      "source": "백종원",
+      "target": "이제",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "271",
+      "source": "백종원",
+      "target": "장관",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "272",
+      "source": "백종원",
+      "target": "정말",
+      "attributes": {
+        "color": "#cd0f2d",
+        "weight": 45.0
+      }
+    },
+    {
+      "key": "273",
+      "source": "백종원",
+      "target": "정치",
+      "attributes": {
+        "color": "#cc0d2b",
+        "weight": 41.0
+      }
+    },
+    {
+      "key": "274",
+      "source": "백종원",
+      "target": "존경",
+      "attributes": {
+        "color": "#ce1532",
+        "weight": 54.0
+      }
+    },
+    {
+      "key": "275",
+      "source": "백종원",
+      "target": "좋다",
+      "attributes": {
+        "color": "#d22843",
+        "weight": 85.0
+      }
+    },
+    {
+      "key": "276",
+      "source": "백종원",
+      "target": "지역",
+      "attributes": {
+        "color": "#cb0524",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "277",
+      "source": "백종원",
+      "target": "직원",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "278",
+      "source": "백종원",
+      "target": "진짜",
+      "attributes": {
+        "color": "#d0213c",
+        "weight": 73.0
+      }
+    },
+    {
+      "key": "279",
+      "source": "백종원",
+      "target": "축제",
+      "attributes": {
+        "color": "#ce1533",
+        "weight": 55.0
+      }
+    },
+    {
+      "key": "280",
+      "source": "백종원",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "281",
+      "source": "버들",
+      "target": "유튜",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "282",
+      "source": "보기",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cc0a29fe",
+        "weight": 37.0
+      }
+    },
+    {
+      "key": "283",
+      "source": "비싸다",
+      "target": "축제",
+      "attributes": {
+        "color": "#cc0d2b",
+        "weight": 41.0
+      }
+    },
+    {
+      "key": "284",
+      "source": "빠르다",
+      "target": "삐리뽕",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "285",
+      "source": "사람",
+      "target": "사업",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "286",
+      "source": "사람",
+      "target": "시장",
+      "attributes": {
+        "color": "#cd0f2d",
+        "weight": 45.0
+      }
+    },
+    {
+      "key": "287",
+      "source": "사람",
+      "target": "아니다",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 75.0
+      }
+    },
+    {
+      "key": "288",
+      "source": "사람",
+      "target": "안되다",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "289",
+      "source": "사람",
+      "target": "없다",
+      "attributes": {
+        "color": "#d0203cfe",
+        "weight": 72.0
+      }
+    },
+    {
+      "key": "290",
+      "source": "사람",
+      "target": "예산",
+      "attributes": {
+        "color": "#d32c46",
+        "weight": 91.0
+      }
+    },
+    {
+      "key": "291",
+      "source": "사람",
+      "target": "욕심",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "292",
+      "source": "사람",
+      "target": "이다",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "293",
+      "source": "사람",
+      "target": "장사",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "294",
+      "source": "사람",
+      "target": "정말",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "295",
+      "source": "사람",
+      "target": "정치",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "296",
+      "source": "사람",
+      "target": "좋다",
+      "attributes": {
+        "color": "#ce1734",
+        "weight": 58.0
+      }
+    },
+    {
+      "key": "297",
+      "source": "사람",
+      "target": "지역",
+      "attributes": {
+        "color": "#cc0e2c",
+        "weight": 43.0
+      }
+    },
+    {
+      "key": "298",
+      "source": "사람",
+      "target": "진짜",
+      "attributes": {
+        "color": "#cc0c2afe",
+        "weight": 40.0
+      }
+    },
+    {
+      "key": "299",
+      "source": "사람",
+      "target": "축제",
+      "attributes": {
+        "color": "#d1213d",
+        "weight": 74.0
+      }
+    },
+    {
+      "key": "300",
+      "source": "사람",
+      "target": "한국",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "301",
+      "source": "사상충",
+      "target": "심장",
+      "attributes": {
+        "color": "#cf1835",
+        "weight": 60.0
+      }
+    },
+    {
+      "key": "302",
+      "source": "사상충",
+      "target": "치료",
+      "attributes": {
+        "color": "#cd102efe",
+        "weight": 47.0
+      }
+    },
+    {
+      "key": "303",
+      "source": "사업",
+      "target": "애견",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "304",
+      "source": "사장",
+      "target": "좋다",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "305",
+      "source": "산시",
+      "target": "시장",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "306",
+      "source": "산시",
+      "target": "예산",
+      "attributes": {
+        "color": "#cb0626",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "307",
+      "source": "산시",
+      "target": "축제",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "308",
+      "source": "삼국",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "309",
+      "source": "상인",
+      "target": "시장",
+      "attributes": {
+        "color": "#cb0524",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "310",
+      "source": "상인",
+      "target": "예산",
+      "attributes": {
+        "color": "#ce1734",
+        "weight": 58.0
+      }
+    },
+    {
+      "key": "311",
+      "source": "상인",
+      "target": "지역",
+      "attributes": {
+        "color": "#cd0f2d",
+        "weight": 45.0
+      }
+    },
+    {
+      "key": "312",
+      "source": "상인",
+      "target": "축제",
+      "attributes": {
+        "color": "#d01d3a",
+        "weight": 68.0
+      }
+    },
+    {
+      "key": "313",
+      "source": "생각",
+      "target": "없다",
+      "attributes": {
+        "color": "#cc0d2b",
+        "weight": 41.0
+      }
+    },
+    {
+      "key": "314",
+      "source": "생각",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "315",
+      "source": "생각",
+      "target": "좋다",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "316",
+      "source": "생각",
+      "target": "지역",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "317",
+      "source": "생각",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "318",
+      "source": "서울",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "319",
+      "source": "선생님",
+      "target": "존경",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "320",
+      "source": "선하다",
+      "target": "영향력",
+      "attributes": {
+        "color": "#ce1331",
+        "weight": 52.0
+      }
+    },
+    {
+      "key": "321",
+      "source": "숙박",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "322",
+      "source": "스럽다",
+      "target": "존경",
+      "attributes": {
+        "color": "#ce1533",
+        "weight": 55.0
+      }
+    },
+    {
+      "key": "323",
+      "source": "시간",
+      "target": "축제",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "324",
+      "source": "시골",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "325",
+      "source": "시장",
+      "target": "아니다",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "326",
+      "source": "시장",
+      "target": "없다",
+      "attributes": {
+        "color": "#cf1a36",
+        "weight": 62.0
+      }
+    },
+    {
+      "key": "327",
+      "source": "시장",
+      "target": "영상",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "328",
+      "source": "시장",
+      "target": "예산",
+      "attributes": {
+        "color": "#404040",
+        "weight": 585.0
+      }
+    },
+    {
+      "key": "329",
+      "source": "시장",
+      "target": "음식",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 39.0
+      }
+    },
+    {
+      "key": "330",
+      "source": "시장",
+      "target": "전통",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 39.0
+      }
+    },
+    {
+      "key": "331",
+      "source": "시장",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cb0928",
+        "weight": 35.0
+      }
+    },
+    {
+      "key": "332",
+      "source": "시장",
+      "target": "지역",
+      "attributes": {
+        "color": "#cb0928",
+        "weight": 35.0
+      }
+    },
+    {
+      "key": "333",
+      "source": "시장",
+      "target": "축제",
+      "attributes": {
+        "color": "#ce1734",
+        "weight": 57.0
+      }
+    },
+    {
+      "key": "334",
+      "source": "식당",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "335",
+      "source": "식품",
+      "target": "애견",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "336",
+      "source": "심장",
+      "target": "치료",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "337",
+      "source": "아니다",
+      "target": "없다",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "338",
+      "source": "아니다",
+      "target": "예산",
+      "attributes": {
+        "color": "#cd102efe",
+        "weight": 47.0
+      }
+    },
+    {
+      "key": "339",
+      "source": "아니다",
+      "target": "음식",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "340",
+      "source": "아니다",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cb0827",
+        "weight": 34.0
+      }
+    },
+    {
+      "key": "341",
+      "source": "아니다",
+      "target": "지역",
+      "attributes": {
+        "color": "#cb0626",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "342",
+      "source": "아니다",
+      "target": "진짜",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "343",
+      "source": "아니다",
+      "target": "축제",
+      "attributes": {
+        "color": "#d01d3a",
+        "weight": 68.0
+      }
+    },
+    {
+      "key": "344",
+      "source": "아빠",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "345",
+      "source": "아쉽다",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "346",
+      "source": "안녕하다",
+      "target": "영상",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "347",
+      "source": "안녕하다",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "348",
+      "source": "얼마나",
+      "target": "예산",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "349",
+      "source": "업자",
+      "target": "자영",
+      "attributes": {
+        "color": "#d01d39",
+        "weight": 67.0
+      }
+    },
+    {
+      "key": "350",
+      "source": "없다",
+      "target": "예산",
+      "attributes": {
+        "color": "#d4334c",
+        "weight": 102.0
+      }
+    },
+    {
+      "key": "351",
+      "source": "없다",
+      "target": "욕심",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "352",
+      "source": "없다",
+      "target": "음식",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "353",
+      "source": "없다",
+      "target": "인간",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "354",
+      "source": "없다",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cc0928",
+        "weight": 36.0
+      }
+    },
+    {
+      "key": "355",
+      "source": "없다",
+      "target": "지역",
+      "attributes": {
+        "color": "#cc0c2afe",
+        "weight": 40.0
+      }
+    },
+    {
+      "key": "356",
+      "source": "없다",
+      "target": "진짜",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "357",
+      "source": "없다",
+      "target": "축제",
+      "attributes": {
+        "color": "#d32c47",
+        "weight": 92.0
+      }
+    },
+    {
+      "key": "358",
+      "source": "영상",
+      "target": "예산",
+      "attributes": {
+        "color": "#d1213d",
+        "weight": 74.0
+      }
+    },
+    {
+      "key": "359",
+      "source": "영상",
+      "target": "오늘",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "360",
+      "source": "영상",
+      "target": "이다",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "361",
+      "source": "영상",
+      "target": "재밌다",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "362",
+      "source": "영상",
+      "target": "좋다",
+      "attributes": {
+        "color": "#ce1533",
+        "weight": 55.0
+      }
+    },
+    {
+      "key": "363",
+      "source": "영상",
+      "target": "축제",
+      "attributes": {
+        "color": "#cc0c2afe",
+        "weight": 40.0
+      }
+    },
+    {
+      "key": "364",
+      "source": "영상",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "365",
+      "source": "예산",
+      "target": "음식",
+      "attributes": {
+        "color": "#d01d3a",
+        "weight": 68.0
+      }
+    },
+    {
+      "key": "366",
+      "source": "예산",
+      "target": "응원",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "367",
+      "source": "예산",
+      "target": "이다",
+      "attributes": {
+        "color": "#cd0f2d",
+        "weight": 45.0
+      }
+    },
+    {
+      "key": "368",
+      "source": "예산",
+      "target": "장님",
+      "attributes": {
+        "color": "#cb0524",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "369",
+      "source": "예산",
+      "target": "좋다",
+      "attributes": {
+        "color": "#d32f49",
+        "weight": 96.0
+      }
+    },
+    {
+      "key": "370",
+      "source": "예산",
+      "target": "주말",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "371",
+      "source": "예산",
+      "target": "주차장",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "372",
+      "source": "예산",
+      "target": "지역",
+      "attributes": {
+        "color": "#d4304a",
+        "weight": 98.0
+      }
+    },
+    {
+      "key": "373",
+      "source": "예산",
+      "target": "최고",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "374",
+      "source": "예산",
+      "target": "축제",
+      "attributes": {
+        "color": "#faeaec",
+        "weight": 395.0
+      }
+    },
+    {
+      "key": "375",
+      "source": "예산",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#cf1c39",
+        "weight": 66.0
+      }
+    },
+    {
+      "key": "376",
+      "source": "예산",
+      "target": "한번",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "377",
+      "source": "예산",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "378",
+      "source": "오픈",
+      "target": "이동",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 48.0
+      }
+    },
+    {
+      "key": "379",
+      "source": "오픈",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "380",
+      "source": "욕심",
+      "target": "인간",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "381",
+      "source": "음식",
+      "target": "좋다",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "382",
+      "source": "음식",
+      "target": "지역",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "383",
+      "source": "음식",
+      "target": "축제",
+      "attributes": {
+        "color": "#ce1633",
+        "weight": 56.0
+      }
+    },
+    {
+      "key": "384",
+      "source": "응원",
+      "target": "좋다",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "385",
+      "source": "응원",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "386",
+      "source": "응원",
+      "target": "항상",
+      "attributes": {
+        "color": "#cd102efe",
+        "weight": 47.0
+      }
+    },
+    {
+      "key": "387",
+      "source": "이다",
+      "target": "최고",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "388",
+      "source": "이다",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "389",
+      "source": "이다",
+      "target": "화이팅",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "390",
+      "source": "이동",
+      "target": "전화번호",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "391",
+      "source": "이동",
+      "target": "처음",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 48.0
+      }
+    },
+    {
+      "key": "392",
+      "source": "이동",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 48.0
+      }
+    },
+    {
+      "key": "393",
+      "source": "이동",
+      "target": "해도",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "394",
+      "source": "이형",
+      "target": "종원",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "395",
+      "source": "잼버리",
+      "target": "준비",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "396",
+      "source": "잼버리",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "397",
+      "source": "저렴하다",
+      "target": "축제",
+      "attributes": {
+        "color": "#cc0d2b",
+        "weight": 41.0
+      }
+    },
+    {
+      "key": "398",
+      "source": "전국",
+      "target": "축제",
+      "attributes": {
+        "color": "#cb0726",
+        "weight": 32.0
+      }
+    },
+    {
+      "key": "399",
+      "source": "전용",
+      "target": "화장실",
+      "attributes": {
+        "color": "#cb0424",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "400",
+      "source": "정말",
+      "target": "존경",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "401",
+      "source": "정말",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cc0d2cfe",
+        "weight": 42.0
+      }
+    },
+    {
+      "key": "402",
+      "source": "정치",
+      "target": "정치인",
+      "attributes": {
+        "color": "#cb0827",
+        "weight": 34.0
+      }
+    },
+    {
+      "key": "403",
+      "source": "좋다",
+      "target": "지역",
+      "attributes": {
+        "color": "#cc0b29",
+        "weight": 38.0
+      }
+    },
+    {
+      "key": "404",
+      "source": "좋다",
+      "target": "진짜",
+      "attributes": {
+        "color": "#cd0f2d",
+        "weight": 45.0
+      }
+    },
+    {
+      "key": "405",
+      "source": "좋다",
+      "target": "축제",
+      "attributes": {
+        "color": "#d53952",
+        "weight": 112.0
+      }
+    },
+    {
+      "key": "406",
+      "source": "좋다",
+      "target": "하루",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "407",
+      "source": "좋다",
+      "target": "항상",
+      "attributes": {
+        "color": "#ca0323",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "408",
+      "source": "좋다",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#cc0b29",
+        "weight": 38.0
+      }
+    },
+    {
+      "key": "409",
+      "source": "주말",
+      "target": "즐겁다",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "410",
+      "source": "주말",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0322",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "411",
+      "source": "주말",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#cb0524",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "412",
+      "source": "주민",
+      "target": "지역",
+      "attributes": {
+        "color": "#cb0827",
+        "weight": 33.0
+      }
+    },
+    {
+      "key": "413",
+      "source": "준비",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "414",
+      "source": "지역",
+      "target": "축제",
+      "attributes": {
+        "color": "#f3c6cd",
+        "weight": 338.0
+      }
+    },
+    {
+      "key": "415",
+      "source": "지역",
+      "target": "활성화",
+      "attributes": {
+        "color": "#cb0625",
+        "weight": 30.0
+      }
+    },
+    {
+      "key": "416",
+      "source": "직원",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#ca0121",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "417",
+      "source": "진짜",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0222",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "418",
+      "source": "최고",
+      "target": "축제",
+      "attributes": {
+        "color": "#ca0423",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "419",
+      "source": "축제",
+      "target": "한국",
+      "attributes": {
+        "color": "#cb0524",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "420",
+      "source": "축제",
+      "target": "한번",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "421",
+      "source": "항상",
+      "target": "행복하다",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 21.0
+      }
+    }
+  ]
+}

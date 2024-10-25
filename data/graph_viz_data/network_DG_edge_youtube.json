@@ -1,0 +1,2357 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.10.1"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "undirected"
+  },
+  "nodes": [
+    {
+      "key": "가면",
+      "attributes": {
+        "label": "가면",
+        "x": -197.13927,
+        "y": 2565.5808,
+        "size": 1.0,
+        "color": "#00c4ff",
+        "Degree": 1,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.1588235294117647,
+        "harmonicclosnesscentrality": 0.19208553791887117,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "가정",
+      "attributes": {
+        "label": "가정",
+        "x": -235.32092,
+        "y": 250.82112,
+        "size": 26.666666,
+        "color": "#df89ff",
+        "Degree": 8,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.27411167512690354,
+        "harmonicclosnesscentrality": 0.4215461493239271,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "개통",
+      "attributes": {
+        "label": "개통",
+        "x": -503.12253,
+        "y": 65.636055,
+        "size": 4.666667,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.2660098522167488,
+        "harmonicclosnesscentrality": 0.3659905937683715,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "경비실",
+      "attributes": {
+        "label": "경비실",
+        "x": -450.07782,
+        "y": -132.59929,
+        "size": 4.666667,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.2660098522167488,
+        "harmonicclosnesscentrality": 0.3659905937683715,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "괜찮다",
+      "attributes": {
+        "label": "괜찮다",
+        "x": -222.97127,
+        "y": 308.17957,
+        "size": 26.666666,
+        "color": "#df89ff",
+        "Degree": 8,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.27411167512690354,
+        "harmonicclosnesscentrality": 0.4215461493239271,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "국자",
+      "attributes": {
+        "label": "국자",
+        "x": -181.13046,
+        "y": 1546.5269,
+        "size": 8.333334,
+        "color": "#73c000",
+        "Degree": 3,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2621359223300971,
+        "harmonicclosnesscentrality": 0.3256172839506173,
+        "betweenesscentrality": 53.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "기름",
+      "attributes": {
+        "label": "기름",
+        "x": 22318.178,
+        "y": 25781.25,
+        "size": 4.666667,
+        "color": "#ff8805",
+        "Degree": 2,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 1.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "나무",
+      "attributes": {
+        "label": "나무",
+        "x": -90.56166,
+        "y": 1644.7478,
+        "size": 12.0,
+        "color": "#73c000",
+        "Degree": 4,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2647058823529412,
+        "harmonicclosnesscentrality": 0.33796296296296297,
+        "betweenesscentrality": 53.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "냄비",
+      "attributes": {
+        "label": "냄비",
+        "x": -24218.75,
+        "y": 25781.25,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 7
+      }
+    },
+    {
+      "key": "당사자",
+      "attributes": {
+        "label": "당사자",
+        "x": -259.50674,
+        "y": 117.67117,
+        "size": 96.333336,
+        "color": "#df89ff",
+        "Degree": 27,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.35526315789473684,
+        "harmonicclosnesscentrality": 0.6190255731922398,
+        "betweenesscentrality": 288.7999999999998,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "대구",
+      "attributes": {
+        "label": "대구",
+        "x": -148.76099,
+        "y": 2654.875,
+        "size": 4.666667,
+        "color": "#00c4ff",
+        "Degree": 2,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.15976331360946747,
+        "harmonicclosnesscentrality": 0.20443121693121682,
+        "betweenesscentrality": 53.0,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "대표",
+      "attributes": {
+        "label": "대표",
+        "x": 25533.791,
+        "y": 1091.2445,
+        "size": 1.0,
+        "color": "#00bd94",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 3
+      }
+    },
+    {
+      "key": "댓글",
+      "attributes": {
+        "label": "댓글",
+        "x": -68.836365,
+        "y": 137.1179,
+        "size": 8.333334,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26732673267326734,
+        "harmonicclosnesscentrality": 0.3752498530276308,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "동안",
+      "attributes": {
+        "label": "동안",
+        "x": -186.39261,
+        "y": 28.557423,
+        "size": 8.333334,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26732673267326734,
+        "harmonicclosnesscentrality": 0.3752498530276308,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "동전",
+      "attributes": {
+        "label": "동전",
+        "x": -216.7705,
+        "y": 6.764361,
+        "size": 8.333334,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26732673267326734,
+        "harmonicclosnesscentrality": 0.3752498530276308,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "동한",
+      "attributes": {
+        "label": "동한",
+        "x": -479.3756,
+        "y": 191.95882,
+        "size": 12.0,
+        "color": "#df89ff",
+        "Degree": 4,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26865671641791045,
+        "harmonicclosnesscentrality": 0.38450911228689005,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "듣기",
+      "attributes": {
+        "label": "듣기",
+        "x": -152.14442,
+        "y": 75.79819,
+        "size": 8.333334,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26732673267326734,
+        "harmonicclosnesscentrality": 0.3752498530276308,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "떡볶이",
+      "attributes": {
+        "label": "떡볶이",
+        "x": -43.02005,
+        "y": 1818.2515,
+        "size": 4.666667,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.27411167512690354,
+        "harmonicclosnesscentrality": 0.33209876543209876,
+        "betweenesscentrality": 288.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "뜨겁다",
+      "attributes": {
+        "label": "뜨겁다",
+        "x": 115.079506,
+        "y": 1353.9941,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2583732057416268,
+        "harmonicclosnesscentrality": 0.30401234567901236,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "라며",
+      "attributes": {
+        "label": "라며",
+        "x": -189.01135,
+        "y": 256.27628,
+        "size": 15.666667,
+        "color": "#df89ff",
+        "Degree": 5,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.27,
+        "harmonicclosnesscentrality": 0.3937683715461493,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "많다",
+      "attributes": {
+        "label": "많다",
+        "x": -13.535181,
+        "y": 1327.926,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2583732057416268,
+        "harmonicclosnesscentrality": 0.30401234567901236,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "맛있다",
+      "attributes": {
+        "label": "맛있다",
+        "x": -85.984375,
+        "y": 2165.6814,
+        "size": 8.333334,
+        "color": "#00c4ff",
+        "Degree": 3,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.225,
+        "harmonicclosnesscentrality": 0.28395061728395055,
+        "betweenesscentrality": 249.0,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "맛집",
+      "attributes": {
+        "label": "맛집",
+        "x": -159.29294,
+        "y": 2791.3242,
+        "size": 1.0,
+        "color": "#00c4ff",
+        "Degree": 1,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.13810741687979539,
+        "harmonicclosnesscentrality": 0.16710023515579064,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "매장",
+      "attributes": {
+        "label": "매장",
+        "x": -460.21902,
+        "y": 147.84674,
+        "size": 12.0,
+        "color": "#df89ff",
+        "Degree": 4,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26865671641791045,
+        "harmonicclosnesscentrality": 0.38450911228689005,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "멜라민",
+      "attributes": {
+        "label": "멜라민",
+        "x": 462.58136,
+        "y": 1680.4541,
+        "size": 12.0,
+        "color": "#4c463e",
+        "Degree": 4,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.2151394422310757,
+        "harmonicclosnesscentrality": 0.28011463844797174,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "며못",
+      "attributes": {
+        "label": "며못",
+        "x": -293.87766,
+        "y": 255.48862,
+        "size": 26.666666,
+        "color": "#df89ff",
+        "Degree": 8,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.27411167512690354,
+        "harmonicclosnesscentrality": 0.42154614932392703,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "면서",
+      "attributes": {
+        "label": "면서",
+        "x": -430.68246,
+        "y": 140.33046,
+        "size": 15.666667,
+        "color": "#df89ff",
+        "Degree": 5,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.27,
+        "harmonicclosnesscentrality": 0.39376837154614924,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "모집",
+      "attributes": {
+        "label": "모집",
+        "x": -255.95323,
+        "y": -13.0355625,
+        "size": 8.333334,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26732673267326734,
+        "harmonicclosnesscentrality": 0.3752498530276307,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "물질",
+      "attributes": {
+        "label": "물질",
+        "x": -24218.75,
+        "y": 25781.25,
+        "size": 1.0,
+        "color": "#ff5584",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "미리",
+      "attributes": {
+        "label": "미리",
+        "x": -444.8921,
+        "y": 276.14847,
+        "size": 12.0,
+        "color": "#df89ff",
+        "Degree": 4,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26865671641791045,
+        "harmonicclosnesscentrality": 0.38450911228689,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "민경",
+      "attributes": {
+        "label": "민경",
+        "x": 25781.25,
+        "y": -24218.75,
+        "size": 1.0,
+        "color": "#d3b3b0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 4
+      }
+    },
+    {
+      "key": "바로",
+      "attributes": {
+        "label": "바로",
+        "x": -432.89294,
+        "y": -130.89062,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.2647058823529412,
+        "harmonicclosnesscentrality": 0.35673133450911226,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "발암",
+      "attributes": {
+        "label": "발암",
+        "x": -24218.75,
+        "y": 25781.25,
+        "size": 1.0,
+        "color": "#ff5584",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "배달",
+      "attributes": {
+        "label": "배달",
+        "x": -250.03772,
+        "y": 437.82834,
+        "size": 19.333332,
+        "color": "#df89ff",
+        "Degree": 6,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.36486486486486486,
+        "harmonicclosnesscentrality": 0.45449735449735446,
+        "betweenesscentrality": 728.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "백화점",
+      "attributes": {
+        "label": "백화점",
+        "x": -463.87585,
+        "y": 213.36215,
+        "size": 12.0,
+        "color": "#df89ff",
+        "Degree": 4,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26865671641791045,
+        "harmonicclosnesscentrality": 0.38450911228689,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "빵가루",
+      "attributes": {
+        "label": "빵가루",
+        "x": 22258.938,
+        "y": 25781.25,
+        "size": 1.0,
+        "color": "#ff8805",
+        "Degree": 1,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.6666666666666666,
+        "harmonicclosnesscentrality": 0.75,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "사용",
+      "attributes": {
+        "label": "사용",
+        "x": 159.39185,
+        "y": 1433.8271,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2583732057416268,
+        "harmonicclosnesscentrality": 0.30401234567901236,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "서문시장",
+      "attributes": {
+        "label": "서문시장",
+        "x": -131.36615,
+        "y": 2422.4932,
+        "size": 8.333334,
+        "color": "#00c4ff",
+        "Degree": 3,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.18815331010452963,
+        "harmonicclosnesscentrality": 0.24634038800705454,
+        "betweenesscentrality": 155.0,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "소리",
+      "attributes": {
+        "label": "소리",
+        "x": -158.77783,
+        "y": 46.715813,
+        "size": 8.333334,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.26732673267326734,
+        "harmonicclosnesscentrality": 0.3752498530276307,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "스텐",
+      "attributes": {
+        "label": "스텐",
+        "x": -365.01917,
+        "y": 1625.4625,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.2084942084942085,
+        "harmonicclosnesscentrality": 0.2415343915343915,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "실리콘",
+      "attributes": {
+        "label": "실리콘",
+        "x": -212.07451,
+        "y": 1804.3889,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.21011673151750973,
+        "harmonicclosnesscentrality": 0.24616402116402114,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "아니다",
+      "attributes": {
+        "label": "아니다",
+        "x": -129.86441,
+        "y": 1406.8298,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2583732057416268,
+        "harmonicclosnesscentrality": 0.30401234567901236,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "안보",
+      "attributes": {
+        "label": "안보",
+        "x": -541.1765,
+        "y": -19.338404,
+        "size": 4.666667,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.2660098522167488,
+        "harmonicclosnesscentrality": 0.36599059376837145,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "야합",
+      "attributes": {
+        "label": "야합",
+        "x": -269.09894,
+        "y": -58.584652,
+        "size": 4.666667,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.2660098522167488,
+        "harmonicclosnesscentrality": 0.36599059376837145,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "없다",
+      "attributes": {
+        "label": "없다",
+        "x": 123.06042,
+        "y": 1538.9005,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2583732057416268,
+        "harmonicclosnesscentrality": 0.30401234567901236,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "여기",
+      "attributes": {
+        "label": "여기",
+        "x": -83.92821,
+        "y": 2292.807,
+        "size": 1.0,
+        "color": "#00c4ff",
+        "Degree": 1,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.18430034129692832,
+        "harmonicclosnesscentrality": 0.2170194003527336,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "오픈",
+      "attributes": {
+        "label": "오픈",
+        "x": -389.93298,
+        "y": 225.26137,
+        "size": 56.000004,
+        "color": "#df89ff",
+        "Degree": 16,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.3312883435582822,
+        "harmonicclosnesscentrality": 0.5171737213403879,
+        "betweenesscentrality": 77.30000000000004,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "음식",
+      "attributes": {
+        "label": "음식",
+        "x": -123.8058,
+        "y": 946.2148,
+        "size": 4.666667,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3576158940397351,
+        "harmonicclosnesscentrality": 0.39629629629629626,
+        "betweenesscentrality": 725.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "의심",
+      "attributes": {
+        "label": "의심",
+        "x": 478.8056,
+        "y": 1728.452,
+        "size": 12.0,
+        "color": "#4c463e",
+        "Degree": 4,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.2151394422310757,
+        "harmonicclosnesscentrality": 0.28011463844797174,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "이동",
+      "attributes": {
+        "label": "이동",
+        "x": -425.99008,
+        "y": -19.94673,
+        "size": 100.0,
+        "color": "#df89ff",
+        "Degree": 28,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.3576158940397351,
+        "harmonicclosnesscentrality": 0.6282848324514991,
+        "betweenesscentrality": 341.79999999999984,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "이유",
+      "attributes": {
+        "label": "이유",
+        "x": 507.32053,
+        "y": 1649.4557,
+        "size": 12.0,
+        "color": "#4c463e",
+        "Degree": 4,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.2151394422310757,
+        "harmonicclosnesscentrality": 0.28011463844797174,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "이준석",
+      "attributes": {
+        "label": "이준석",
+        "x": 25465.004,
+        "y": 1095.0552,
+        "size": 1.0,
+        "color": "#00bd94",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 3
+      }
+    },
+    {
+      "key": "장군",
+      "attributes": {
+        "label": "장군",
+        "x": 25781.25,
+        "y": -24218.75,
+        "size": 1.0,
+        "color": "#d3b3b0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 4
+      }
+    },
+    {
+      "key": "전화번호",
+      "attributes": {
+        "label": "전화번호",
+        "x": -283.67377,
+        "y": 313.36188,
+        "size": 26.666666,
+        "color": "#df89ff",
+        "Degree": 8,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.27411167512690354,
+        "harmonicclosnesscentrality": 0.42154614932392703,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "제외",
+      "attributes": {
+        "label": "제외",
+        "x": -335.33365,
+        "y": -94.35905,
+        "size": 4.666667,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.2660098522167488,
+        "harmonicclosnesscentrality": 0.36599059376837145,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "좋다",
+      "attributes": {
+        "label": "좋다",
+        "x": -81.06862,
+        "y": 1580.1454,
+        "size": 12.0,
+        "color": "#73c000",
+        "Degree": 4,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2660098522167488,
+        "harmonicclosnesscentrality": 0.3410493827160494,
+        "betweenesscentrality": 4.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "주걱",
+      "attributes": {
+        "label": "주걱",
+        "x": -0.87696457,
+        "y": 1638.1519,
+        "size": 12.0,
+        "color": "#73c000",
+        "Degree": 4,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.2647058823529412,
+        "harmonicclosnesscentrality": 0.33796296296296297,
+        "betweenesscentrality": 53.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "주방",
+      "attributes": {
+        "label": "주방",
+        "x": 512.1752,
+        "y": 1696.5579,
+        "size": 12.0,
+        "color": "#4c463e",
+        "Degree": 4,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.2151394422310757,
+        "harmonicclosnesscentrality": 0.28011463844797174,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "처음",
+      "attributes": {
+        "label": "처음",
+        "x": -107.5376,
+        "y": 205.86482,
+        "size": 63.333332,
+        "color": "#df89ff",
+        "Degree": 18,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.33540372670807456,
+        "harmonicclosnesscentrality": 0.5356922398589065,
+        "betweenesscentrality": 117.80000000000005,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "치킨",
+      "attributes": {
+        "label": "치킨",
+        "x": 22382.395,
+        "y": 25781.25,
+        "size": 1.0,
+        "color": "#ff8805",
+        "Degree": 1,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.6666666666666666,
+        "harmonicclosnesscentrality": 0.75,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "코팅",
+      "attributes": {
+        "label": "코팅",
+        "x": -24218.75,
+        "y": 25781.25,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 7
+      }
+    },
+    {
+      "key": "클로즈",
+      "attributes": {
+        "label": "클로즈",
+        "x": -375.8337,
+        "y": 347.67664,
+        "size": 56.000004,
+        "color": "#df89ff",
+        "Degree": 16,
+        "Eccentricity": 8.0,
+        "closnesscentrality": 0.3312883435582822,
+        "harmonicclosnesscentrality": 0.5171737213403879,
+        "betweenesscentrality": 77.30000000000004,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "프라스",
+      "attributes": {
+        "label": "프라스",
+        "x": 77.76693,
+        "y": 1816.8994,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 7.0,
+        "closnesscentrality": 0.21011673151750973,
+        "harmonicclosnesscentrality": 0.24616402116402114,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "플라스틱",
+      "attributes": {
+        "label": "플라스틱",
+        "x": 7.006554,
+        "y": 1475.3268,
+        "size": 41.333332,
+        "color": "#73c000",
+        "Degree": 12,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.34615384615384615,
+        "harmonicclosnesscentrality": 0.4682098765432098,
+        "betweenesscentrality": 948.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "해도",
+      "attributes": {
+        "label": "해도",
+        "x": -452.6242,
+        "y": 177.33144,
+        "size": 15.666667,
+        "color": "#df89ff",
+        "Degree": 5,
+        "Eccentricity": 9.0,
+        "closnesscentrality": 0.27,
+        "harmonicclosnesscentrality": 0.39376837154614924,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "환경호르몬",
+      "attributes": {
+        "label": "환경호르몬",
+        "x": 327.5004,
+        "y": 1609.3428,
+        "size": 15.666667,
+        "color": "#4c463e",
+        "Degree": 5,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.26865671641791045,
+        "harmonicclosnesscentrality": 0.35339506172839497,
+        "betweenesscentrality": 200.0,
+        "modularity_class": 8
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "0",
+      "source": "가면",
+      "target": "서문시장",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "1",
+      "source": "가정",
+      "target": "괜찮다",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "2",
+      "source": "가정",
+      "target": "당사자",
+      "attributes": {
+        "color": "#e06c7f",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "3",
+      "source": "가정",
+      "target": "며못",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "4",
+      "source": "가정",
+      "target": "오픈",
+      "attributes": {
+        "color": "#d22843",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "5",
+      "source": "가정",
+      "target": "이동",
+      "attributes": {
+        "color": "#e37889",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "6",
+      "source": "가정",
+      "target": "전화번호",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "7",
+      "source": "가정",
+      "target": "처음",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "8",
+      "source": "가정",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#d22843",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "9",
+      "source": "개통",
+      "target": "당사자",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "10",
+      "source": "개통",
+      "target": "이동",
+      "attributes": {
+        "color": "#cf1c39",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "11",
+      "source": "경비실",
+      "target": "당사자",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "12",
+      "source": "경비실",
+      "target": "이동",
+      "attributes": {
+        "color": "#cf1c39",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "13",
+      "source": "괜찮다",
+      "target": "당사자",
+      "attributes": {
+        "color": "#e06c7f",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "14",
+      "source": "괜찮다",
+      "target": "며못",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "15",
+      "source": "괜찮다",
+      "target": "오픈",
+      "attributes": {
+        "color": "#d22843",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "16",
+      "source": "괜찮다",
+      "target": "이동",
+      "attributes": {
+        "color": "#e37889",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "17",
+      "source": "괜찮다",
+      "target": "전화번호",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "18",
+      "source": "괜찮다",
+      "target": "처음",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "19",
+      "source": "괜찮다",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#d22843",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "20",
+      "source": "국자",
+      "target": "스텐",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "21",
+      "source": "국자",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "22",
+      "source": "국자",
+      "target": "플라스틱",
+      "attributes": {
+        "color": "#919191",
+        "weight": 80.0
+      }
+    },
+    {
+      "key": "23",
+      "source": "기름",
+      "target": "빵가루",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "24",
+      "source": "기름",
+      "target": "치킨",
+      "attributes": {
+        "color": "#cf1c39",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "25",
+      "source": "나무",
+      "target": "실리콘",
+      "attributes": {
+        "color": "#cb0525",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "26",
+      "source": "나무",
+      "target": "좋다",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "27",
+      "source": "나무",
+      "target": "주걱",
+      "attributes": {
+        "color": "#f1bdc5",
+        "weight": 43.0
+      }
+    },
+    {
+      "key": "28",
+      "source": "나무",
+      "target": "플라스틱",
+      "attributes": {
+        "color": "#ce1634",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "29",
+      "source": "냄비",
+      "target": "코팅",
+      "attributes": {
+        "color": "#cf1c39",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "30",
+      "source": "당사자",
+      "target": "댓글",
+      "attributes": {
+        "color": "#d32d48",
+        "weight": 18.0
+      }
+    },
+    {
+      "key": "31",
+      "source": "당사자",
+      "target": "동안",
+      "attributes": {
+        "color": "#d32d48",
+        "weight": 18.0
+      }
+    },
+    {
+      "key": "32",
+      "source": "당사자",
+      "target": "동전",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "33",
+      "source": "당사자",
+      "target": "동한",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "34",
+      "source": "당사자",
+      "target": "듣기",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "35",
+      "source": "당사자",
+      "target": "라며",
+      "attributes": {
+        "color": "#d73f57",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "36",
+      "source": "당사자",
+      "target": "매장",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "37",
+      "source": "당사자",
+      "target": "며못",
+      "attributes": {
+        "color": "#e06c7f",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "38",
+      "source": "당사자",
+      "target": "면서",
+      "attributes": {
+        "color": "#d73f57",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "39",
+      "source": "당사자",
+      "target": "모집",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "40",
+      "source": "당사자",
+      "target": "미리",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "41",
+      "source": "당사자",
+      "target": "배달",
+      "attributes": {
+        "color": "#e37889",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "42",
+      "source": "당사자",
+      "target": "백화점",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "43",
+      "source": "당사자",
+      "target": "소리",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "44",
+      "source": "당사자",
+      "target": "안보",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "45",
+      "source": "당사자",
+      "target": "야합",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "46",
+      "source": "당사자",
+      "target": "오픈",
+      "attributes": {
+        "color": "#f9e5e8",
+        "weight": 50.0
+      }
+    },
+    {
+      "key": "47",
+      "source": "당사자",
+      "target": "이동",
+      "attributes": {
+        "color": "#404040",
+        "weight": 99.0
+      }
+    },
+    {
+      "key": "48",
+      "source": "당사자",
+      "target": "전화번호",
+      "attributes": {
+        "color": "#e06c7f",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "49",
+      "source": "당사자",
+      "target": "제외",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "50",
+      "source": "당사자",
+      "target": "처음",
+      "attributes": {
+        "color": "#f4ced4",
+        "weight": 46.0
+      }
+    },
+    {
+      "key": "51",
+      "source": "당사자",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#f9e5e8",
+        "weight": 50.0
+      }
+    },
+    {
+      "key": "52",
+      "source": "당사자",
+      "target": "해도",
+      "attributes": {
+        "color": "#d73f57",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "53",
+      "source": "대구",
+      "target": "맛집",
+      "attributes": {
+        "color": "#cb0525",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "54",
+      "source": "대구",
+      "target": "서문시장",
+      "attributes": {
+        "color": "#db556b",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "55",
+      "source": "대표",
+      "target": "이준석",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "56",
+      "source": "댓글",
+      "target": "이동",
+      "attributes": {
+        "color": "#d8445c",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "57",
+      "source": "댓글",
+      "target": "처음",
+      "attributes": {
+        "color": "#ce1634",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "58",
+      "source": "동안",
+      "target": "이동",
+      "attributes": {
+        "color": "#d8445c",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "59",
+      "source": "동안",
+      "target": "처음",
+      "attributes": {
+        "color": "#ce1634",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "60",
+      "source": "동전",
+      "target": "이동",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "61",
+      "source": "동전",
+      "target": "처음",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "62",
+      "source": "동한",
+      "target": "오픈",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "63",
+      "source": "동한",
+      "target": "이동",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "64",
+      "source": "동한",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "65",
+      "source": "듣기",
+      "target": "이동",
+      "attributes": {
+        "color": "#ce1634",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "66",
+      "source": "듣기",
+      "target": "처음",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "67",
+      "source": "떡볶이",
+      "target": "맛있다",
+      "attributes": {
+        "color": "#d4334dfe",
+        "weight": 19.0
+      }
+    },
+    {
+      "key": "68",
+      "source": "떡볶이",
+      "target": "플라스틱",
+      "attributes": {
+        "color": "#d53952",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "69",
+      "source": "뜨겁다",
+      "target": "플라스틱",
+      "attributes": {
+        "color": "#d4334dfe",
+        "weight": 19.0
+      }
+    },
+    {
+      "key": "70",
+      "source": "라며",
+      "target": "오픈",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "71",
+      "source": "라며",
+      "target": "이동",
+      "attributes": {
+        "color": "#db556b",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "72",
+      "source": "라며",
+      "target": "처음",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "73",
+      "source": "라며",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "74",
+      "source": "많다",
+      "target": "플라스틱",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "75",
+      "source": "맛있다",
+      "target": "서문시장",
+      "attributes": {
+        "color": "#d53952",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "76",
+      "source": "맛있다",
+      "target": "여기",
+      "attributes": {
+        "color": "#cb0525",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "77",
+      "source": "매장",
+      "target": "오픈",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "78",
+      "source": "매장",
+      "target": "이동",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "79",
+      "source": "매장",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "80",
+      "source": "멜라민",
+      "target": "의심",
+      "attributes": {
+        "color": "#e06c7f",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "81",
+      "source": "멜라민",
+      "target": "이유",
+      "attributes": {
+        "color": "#de6175",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "82",
+      "source": "멜라민",
+      "target": "주방",
+      "attributes": {
+        "color": "#e06c7f",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "83",
+      "source": "멜라민",
+      "target": "환경호르몬",
+      "attributes": {
+        "color": "#e37889",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "84",
+      "source": "며못",
+      "target": "오픈",
+      "attributes": {
+        "color": "#d22843",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "85",
+      "source": "며못",
+      "target": "이동",
+      "attributes": {
+        "color": "#e37889",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "86",
+      "source": "며못",
+      "target": "전화번호",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "87",
+      "source": "며못",
+      "target": "처음",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "88",
+      "source": "며못",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#d22843",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "89",
+      "source": "면서",
+      "target": "오픈",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "90",
+      "source": "면서",
+      "target": "이동",
+      "attributes": {
+        "color": "#d94a61",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "91",
+      "source": "면서",
+      "target": "처음",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "92",
+      "source": "면서",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "93",
+      "source": "모집",
+      "target": "이동",
+      "attributes": {
+        "color": "#ce1634",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "94",
+      "source": "모집",
+      "target": "처음",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "95",
+      "source": "물질",
+      "target": "발암",
+      "attributes": {
+        "color": "#d4334dfe",
+        "weight": 19.0
+      }
+    },
+    {
+      "key": "96",
+      "source": "미리",
+      "target": "오픈",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "97",
+      "source": "미리",
+      "target": "이동",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "98",
+      "source": "미리",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "99",
+      "source": "민경",
+      "target": "장군",
+      "attributes": {
+        "color": "#ce1634",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "100",
+      "source": "바로",
+      "target": "이동",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "101",
+      "source": "배달",
+      "target": "오픈",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "102",
+      "source": "배달",
+      "target": "음식",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "103",
+      "source": "배달",
+      "target": "이동",
+      "attributes": {
+        "color": "#ea9aa7",
+        "weight": 37.0
+      }
+    },
+    {
+      "key": "104",
+      "source": "배달",
+      "target": "처음",
+      "attributes": {
+        "color": "#d8445c",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "105",
+      "source": "배달",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "106",
+      "source": "백화점",
+      "target": "오픈",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "107",
+      "source": "백화점",
+      "target": "이동",
+      "attributes": {
+        "color": "#d1223e",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "108",
+      "source": "백화점",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "109",
+      "source": "사용",
+      "target": "플라스틱",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "110",
+      "source": "소리",
+      "target": "이동",
+      "attributes": {
+        "color": "#ce1634",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "111",
+      "source": "소리",
+      "target": "처음",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "112",
+      "source": "아니다",
+      "target": "플라스틱",
+      "attributes": {
+        "color": "#ce1634",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "113",
+      "source": "안보",
+      "target": "이동",
+      "attributes": {
+        "color": "#cf1c39",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "114",
+      "source": "야합",
+      "target": "이동",
+      "attributes": {
+        "color": "#cf1c39",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "115",
+      "source": "없다",
+      "target": "플라스틱",
+      "attributes": {
+        "color": "#d22843",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "116",
+      "source": "오픈",
+      "target": "이동",
+      "attributes": {
+        "color": "#fefcfc",
+        "weight": 54.0
+      }
+    },
+    {
+      "key": "117",
+      "source": "오픈",
+      "target": "전화번호",
+      "attributes": {
+        "color": "#d22843",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "118",
+      "source": "오픈",
+      "target": "처음",
+      "attributes": {
+        "color": "#d8445c",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "119",
+      "source": "오픈",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#e06c7f",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "120",
+      "source": "오픈",
+      "target": "해도",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "121",
+      "source": "음식",
+      "target": "플라스틱",
+      "attributes": {
+        "color": "#d22843",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "122",
+      "source": "의심",
+      "target": "이유",
+      "attributes": {
+        "color": "#dd5b70",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "123",
+      "source": "의심",
+      "target": "주방",
+      "attributes": {
+        "color": "#df677a",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "124",
+      "source": "의심",
+      "target": "환경호르몬",
+      "attributes": {
+        "color": "#de6175",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "125",
+      "source": "이동",
+      "target": "전화번호",
+      "attributes": {
+        "color": "#e37889",
+        "weight": 31.0
+      }
+    },
+    {
+      "key": "126",
+      "source": "이동",
+      "target": "제외",
+      "attributes": {
+        "color": "#cf1c39",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "127",
+      "source": "이동",
+      "target": "처음",
+      "attributes": {
+        "color": "#efefef",
+        "weight": 58.0
+      }
+    },
+    {
+      "key": "128",
+      "source": "이동",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#fefcfc",
+        "weight": 54.0
+      }
+    },
+    {
+      "key": "129",
+      "source": "이동",
+      "target": "해도",
+      "attributes": {
+        "color": "#d94a61",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "130",
+      "source": "이유",
+      "target": "주방",
+      "attributes": {
+        "color": "#de6175",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "131",
+      "source": "이유",
+      "target": "환경호르몬",
+      "attributes": {
+        "color": "#de6175",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "132",
+      "source": "전화번호",
+      "target": "처음",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "133",
+      "source": "전화번호",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#d22843",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "134",
+      "source": "좋다",
+      "target": "주걱",
+      "attributes": {
+        "color": "#cd112f",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "135",
+      "source": "좋다",
+      "target": "플라스틱",
+      "attributes": {
+        "color": "#cb0525",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "136",
+      "source": "주걱",
+      "target": "프라스",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "137",
+      "source": "주걱",
+      "target": "플라스틱",
+      "attributes": {
+        "color": "#e68998",
+        "weight": 34.0
+      }
+    },
+    {
+      "key": "138",
+      "source": "주방",
+      "target": "환경호르몬",
+      "attributes": {
+        "color": "#de6175",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "139",
+      "source": "처음",
+      "target": "클로즈",
+      "attributes": {
+        "color": "#d8445c",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "140",
+      "source": "처음",
+      "target": "해도",
+      "attributes": {
+        "color": "#ca0020",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "141",
+      "source": "클로즈",
+      "target": "해도",
+      "attributes": {
+        "color": "#cc0b2a",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "142",
+      "source": "플라스틱",
+      "target": "환경호르몬",
+      "attributes": {
+        "color": "#d32d48",
+        "weight": 18.0
+      }
+    }
+  ]
+}

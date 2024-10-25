@@ -1,0 +1,2353 @@
+{
+  "attributes": {
+    "creator": "Gephi 0.10.1"
+  },
+  "options": {
+    "multi": false,
+    "allowSelfLoops": true,
+    "type": "undirected"
+  },
+  "nodes": [
+    {
+      "key": "0507",
+      "attributes": {
+        "label": "0507",
+        "x": 126.9034,
+        "y": -1684.8431,
+        "size": 7.6000004,
+        "color": "#73c000",
+        "Degree": 3,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.38620689655172413,
+        "harmonicclosnesscentrality": 0.4300595238095238,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "2023",
+      "attributes": {
+        "label": "2023",
+        "x": -95.056175,
+        "y": -1362.6633,
+        "size": 100.0,
+        "color": "#df89ff",
+        "Degree": 31,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.6666666666666666,
+        "harmonicclosnesscentrality": 0.769345238095238,
+        "betweenesscentrality": 731.4642857142859,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "3일",
+      "attributes": {
+        "label": "3일",
+        "x": -497.78574,
+        "y": -1705.1759,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3128491620111732,
+        "harmonicclosnesscentrality": 0.3354166666666667,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "40",
+      "attributes": {
+        "label": "40",
+        "x": -7875.902,
+        "y": -24218.75,
+        "size": 1.0,
+        "color": "#d3b3b0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "50",
+      "attributes": {
+        "label": "50",
+        "x": 75.28527,
+        "y": -1391.8113,
+        "size": 57.1,
+        "color": "#73c000",
+        "Degree": 18,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.5490196078431373,
+        "harmonicclosnesscentrality": 0.638392857142857,
+        "betweenesscentrality": 288.1654761904762,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "5일",
+      "attributes": {
+        "label": "5일",
+        "x": -423.28854,
+        "y": -1598.3015,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3393939393939394,
+        "harmonicclosnesscentrality": 0.37113095238095234,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "60",
+      "attributes": {
+        "label": "60",
+        "x": -7875.875,
+        "y": -24218.75,
+        "size": 1.0,
+        "color": "#d3b3b0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 1
+      }
+    },
+    {
+      "key": "70",
+      "attributes": {
+        "label": "70",
+        "x": 298.88947,
+        "y": -1370.4725,
+        "size": 4.3,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.358974358974359,
+        "harmonicclosnesscentrality": 0.3934523809523808,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "8월",
+      "attributes": {
+        "label": "8월",
+        "x": -145.73598,
+        "y": -1151.0242,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4028776978417266,
+        "harmonicclosnesscentrality": 0.43065476190476165,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "9월",
+      "attributes": {
+        "label": "9월",
+        "x": -283.6177,
+        "y": -1571.9614,
+        "size": 17.5,
+        "color": "#df89ff",
+        "Degree": 6,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.45161290322580644,
+        "harmonicclosnesscentrality": 0.5050595238095237,
+        "betweenesscentrality": 55.80000000000001,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "가격",
+      "attributes": {
+        "label": "가격",
+        "x": 39.282875,
+        "y": -1262.4221,
+        "size": 4.3,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.417910447761194,
+        "harmonicclosnesscentrality": 0.451488095238095,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "경제",
+      "attributes": {
+        "label": "경제",
+        "x": 4210.588,
+        "y": 25781.25,
+        "size": 4.3,
+        "color": "#ff8805",
+        "Degree": 2,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 1.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "공원",
+      "attributes": {
+        "label": "공원",
+        "x": -242.20943,
+        "y": -1415.9852,
+        "size": 37.3,
+        "color": "#df89ff",
+        "Degree": 12,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.49122807017543857,
+        "harmonicclosnesscentrality": 0.570535714285714,
+        "betweenesscentrality": 81.24285714285713,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "관광",
+      "attributes": {
+        "label": "관광",
+        "x": -231.35532,
+        "y": -1642.5215,
+        "size": 17.5,
+        "color": "#4c463e",
+        "Degree": 6,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4444444444444444,
+        "harmonicclosnesscentrality": 0.4991071428571427,
+        "betweenesscentrality": 55.0,
+        "modularity_class": 10
+      }
+    },
+    {
+      "key": "광장",
+      "attributes": {
+        "label": "광장",
+        "x": -278.52444,
+        "y": -1273.6211,
+        "size": 17.5,
+        "color": "#ff5584",
+        "Degree": 6,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.42748091603053434,
+        "harmonicclosnesscentrality": 0.48422619047619025,
+        "betweenesscentrality": 57.5,
+        "modularity_class": 4
+      }
+    },
+    {
+      "key": "광장시장",
+      "attributes": {
+        "label": "광장시장",
+        "x": 907.4446,
+        "y": -1869.8754,
+        "size": 1.0,
+        "color": "#00bd94",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.20363636363636364,
+        "harmonicclosnesscentrality": 0.22202380952380932,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "기간",
+      "attributes": {
+        "label": "기간",
+        "x": -334.69412,
+        "y": -1331.2738,
+        "size": 4.3,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.40875912408759124,
+        "harmonicclosnesscentrality": 0.4425595238095235,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "김기현",
+      "attributes": {
+        "label": "김기현",
+        "x": 63.82019,
+        "y": -822.63965,
+        "size": 1.0,
+        "color": "#00c4ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3128491620111732,
+        "harmonicclosnesscentrality": 0.3369047619047619,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 3
+      }
+    },
+    {
+      "key": "김밥",
+      "attributes": {
+        "label": "김밥",
+        "x": 146.03636,
+        "y": -1383.4363,
+        "size": 7.6000004,
+        "color": "#73c000",
+        "Degree": 3,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.43410852713178294,
+        "harmonicclosnesscentrality": 0.4687499999999997,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "대구",
+      "attributes": {
+        "label": "대구",
+        "x": -64.31345,
+        "y": -1610.2104,
+        "size": 70.299995,
+        "color": "#df89ff",
+        "Degree": 22,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.5656565656565656,
+        "harmonicclosnesscentrality": 0.6711309523809524,
+        "betweenesscentrality": 335.58690476190475,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "대한민국",
+      "attributes": {
+        "label": "대한민국",
+        "x": -373.16946,
+        "y": -1404.39,
+        "size": 4.3,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.40875912408759124,
+        "harmonicclosnesscentrality": 0.4425595238095235,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "대회",
+      "attributes": {
+        "label": "대회",
+        "x": -214.51682,
+        "y": -1165.4994,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4028776978417266,
+        "harmonicclosnesscentrality": 0.43065476190476165,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "동행",
+      "attributes": {
+        "label": "동행",
+        "x": -560.7473,
+        "y": -1513.3042,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3146067415730337,
+        "harmonicclosnesscentrality": 0.3398809523809524,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "맛있다",
+      "attributes": {
+        "label": "맛있다",
+        "x": 109.504005,
+        "y": -1459.7753,
+        "size": 7.6000004,
+        "color": "#73c000",
+        "Degree": 3,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.4307692307692308,
+        "harmonicclosnesscentrality": 0.4657738095238093,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "맛집",
+      "attributes": {
+        "label": "맛집",
+        "x": 63.215755,
+        "y": -1578.3444,
+        "size": 34.0,
+        "color": "#73c000",
+        "Degree": 11,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.4827586206896552,
+        "harmonicclosnesscentrality": 0.5550595238095236,
+        "betweenesscentrality": 62.43928571428573,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "맥주",
+      "attributes": {
+        "label": "맥주",
+        "x": -69.07666,
+        "y": -1163.5594,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4028776978417266,
+        "harmonicclosnesscentrality": 0.43065476190476165,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "민원",
+      "attributes": {
+        "label": "민원",
+        "x": 4208.8022,
+        "y": 25781.25,
+        "size": 1.0,
+        "color": "#ff8805",
+        "Degree": 1,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.6666666666666666,
+        "harmonicclosnesscentrality": 0.75,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "바로가기",
+      "attributes": {
+        "label": "바로가기",
+        "x": 284.52875,
+        "y": -1308.3611,
+        "size": 4.3,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.358974358974359,
+        "harmonicclosnesscentrality": 0.3934523809523808,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "복자",
+      "attributes": {
+        "label": "복자",
+        "x": -450.00916,
+        "y": -1314.2797,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.33136094674556216,
+        "harmonicclosnesscentrality": 0.3592261904761905,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "사전예약",
+      "attributes": {
+        "label": "사전예약",
+        "x": -215.8043,
+        "y": -1337.7112,
+        "size": 10.900001,
+        "color": "#df89ff",
+        "Degree": 4,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.417910447761194,
+        "harmonicclosnesscentrality": 0.4633928571428569,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "서문시장",
+      "attributes": {
+        "label": "서문시장",
+        "x": 157.76753,
+        "y": -1537.1599,
+        "size": 27.400002,
+        "color": "#73c000",
+        "Degree": 9,
+        "Eccentricity": 3.0,
+        "closnesscentrality": 0.4827586206896552,
+        "harmonicclosnesscentrality": 0.5416666666666665,
+        "betweenesscentrality": 173.82142857142856,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "서울",
+      "attributes": {
+        "label": "서울",
+        "x": 105.788445,
+        "y": -1045.693,
+        "size": 20.800001,
+        "color": "#00c4ff",
+        "Degree": 7,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.45161290322580644,
+        "harmonicclosnesscentrality": 0.5110119047619046,
+        "betweenesscentrality": 265.0,
+        "modularity_class": 3
+      }
+    },
+    {
+      "key": "센터",
+      "attributes": {
+        "label": "센터",
+        "x": -160.89226,
+        "y": -1608.1633,
+        "size": 14.200001,
+        "color": "#4c463e",
+        "Degree": 5,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4409448818897638,
+        "harmonicclosnesscentrality": 0.4901785714285713,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 10
+      }
+    },
+    {
+      "key": "순환로",
+      "attributes": {
+        "label": "순환로",
+        "x": -46.531075,
+        "y": -1254.637,
+        "size": 7.6000004,
+        "color": "#df89ff",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.42424242424242425,
+        "harmonicclosnesscentrality": 0.4633928571428569,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "시간",
+      "attributes": {
+        "label": "시간",
+        "x": 70.42132,
+        "y": -1514.7734,
+        "size": 24.1,
+        "color": "#73c000",
+        "Degree": 8,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.47058823529411764,
+        "harmonicclosnesscentrality": 0.5282738095238094,
+        "betweenesscentrality": 25.82023809523809,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "시민",
+      "attributes": {
+        "label": "시민",
+        "x": -275.30762,
+        "y": -1221.4093,
+        "size": 4.3,
+        "color": "#ff5584",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.40875912408759124,
+        "harmonicclosnesscentrality": 0.44255952380952357,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 4
+      }
+    },
+    {
+      "key": "시장",
+      "attributes": {
+        "label": "시장",
+        "x": -168.65157,
+        "y": -1722.1139,
+        "size": 7.6000004,
+        "color": "#c0c0c0",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4307692307692308,
+        "harmonicclosnesscentrality": 0.4693452380952379,
+        "betweenesscentrality": 55.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "식품",
+      "attributes": {
+        "label": "식품",
+        "x": 30.56363,
+        "y": -1853.6564,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.36363636363636365,
+        "harmonicclosnesscentrality": 0.3949404761904761,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "안전",
+      "attributes": {
+        "label": "안전",
+        "x": -24218.75,
+        "y": -16583.328,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "야외",
+      "attributes": {
+        "label": "야외",
+        "x": 25781.25,
+        "y": -1867.4177,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 7
+      }
+    },
+    {
+      "key": "여름",
+      "attributes": {
+        "label": "여름",
+        "x": -302.52676,
+        "y": -1410.9498,
+        "size": 4.3,
+        "color": "#df89ff",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.40875912408759124,
+        "harmonicclosnesscentrality": 0.4425595238095235,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "연휴",
+      "attributes": {
+        "label": "연휴",
+        "x": 731.6012,
+        "y": -1791.0278,
+        "size": 4.3,
+        "color": "#00bd94",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.2545454545454545,
+        "harmonicclosnesscentrality": 0.2824404761904761,
+        "betweenesscentrality": 55.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "영업",
+      "attributes": {
+        "label": "영업",
+        "x": 125.837425,
+        "y": -1585.7256,
+        "size": 14.200001,
+        "color": "#73c000",
+        "Degree": 5,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4148148148148148,
+        "harmonicclosnesscentrality": 0.4678571428571428,
+        "betweenesscentrality": 7.759523809523808,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "예약",
+      "attributes": {
+        "label": "예약",
+        "x": -21.444714,
+        "y": -1487.0875,
+        "size": 17.5,
+        "color": "#df89ff",
+        "Degree": 6,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.45528455284552843,
+        "harmonicclosnesscentrality": 0.5080357142857141,
+        "betweenesscentrality": 1.05,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "온누리상품권",
+      "attributes": {
+        "label": "온누리상품권",
+        "x": 248.82405,
+        "y": -857.7418,
+        "size": 1.0,
+        "color": "#00c4ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3128491620111732,
+        "harmonicclosnesscentrality": 0.3369047619047619,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 3
+      }
+    },
+    {
+      "key": "음악당",
+      "attributes": {
+        "label": "음악당",
+        "x": 25781.25,
+        "y": -1779.9869,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 7
+      }
+    },
+    {
+      "key": "이웃",
+      "attributes": {
+        "label": "이웃",
+        "x": -24218.75,
+        "y": 643.59,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 11
+      }
+    },
+    {
+      "key": "인스타그램",
+      "attributes": {
+        "label": "인스타그램",
+        "x": -119.39453,
+        "y": -1851.2113,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.36363636363636365,
+        "harmonicclosnesscentrality": 0.3949404761904761,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "잔디",
+      "attributes": {
+        "label": "잔디",
+        "x": -483.34116,
+        "y": -1161.1389,
+        "size": 1.0,
+        "color": "#ff5584",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3010752688172043,
+        "harmonicclosnesscentrality": 0.3250000000000001,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 4
+      }
+    },
+    {
+      "key": "전통",
+      "attributes": {
+        "label": "전통",
+        "x": -243.0377,
+        "y": -1961.6259,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3027027027027027,
+        "harmonicclosnesscentrality": 0.32202380952380955,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 8
+      }
+    },
+    {
+      "key": "전화번호",
+      "attributes": {
+        "label": "전화번호",
+        "x": 221.8546,
+        "y": -1628.6973,
+        "size": 7.6000004,
+        "color": "#73c000",
+        "Degree": 3,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.3333333333333333,
+        "harmonicclosnesscentrality": 0.3741071428571428,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "점검",
+      "attributes": {
+        "label": "점검",
+        "x": -24218.75,
+        "y": -16583.367,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 9
+      }
+    },
+    {
+      "key": "정보",
+      "attributes": {
+        "label": "정보",
+        "x": -155.56116,
+        "y": -1566.3645,
+        "size": 20.800001,
+        "color": "#4c463e",
+        "Degree": 7,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.448,
+        "harmonicclosnesscentrality": 0.5080357142857141,
+        "betweenesscentrality": 1.6666666666666665,
+        "modularity_class": 10
+      }
+    },
+    {
+      "key": "정부",
+      "attributes": {
+        "label": "정부",
+        "x": 291.41534,
+        "y": -919.241,
+        "size": 1.0,
+        "color": "#00c4ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3128491620111732,
+        "harmonicclosnesscentrality": 0.3369047619047619,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 3
+      }
+    },
+    {
+      "key": "주차장",
+      "attributes": {
+        "label": "주차장",
+        "x": -81.96981,
+        "y": -1506.7996,
+        "size": 17.5,
+        "color": "#df89ff",
+        "Degree": 6,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.45528455284552843,
+        "harmonicclosnesscentrality": 0.5080357142857141,
+        "betweenesscentrality": 1.2000000000000002,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "지역",
+      "attributes": {
+        "label": "지역",
+        "x": 4215.3574,
+        "y": 25781.25,
+        "size": 1.0,
+        "color": "#ff8805",
+        "Degree": 1,
+        "Eccentricity": 2.0,
+        "closnesscentrality": 0.6666666666666666,
+        "harmonicclosnesscentrality": 0.75,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 2
+      }
+    },
+    {
+      "key": "청사",
+      "attributes": {
+        "label": "청사",
+        "x": 134.70815,
+        "y": -804.63696,
+        "size": 1.0,
+        "color": "#00c4ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3128491620111732,
+        "harmonicclosnesscentrality": 0.3369047619047619,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 3
+      }
+    },
+    {
+      "key": "추가",
+      "attributes": {
+        "label": "추가",
+        "x": -24218.75,
+        "y": 643.6148,
+        "size": 1.0,
+        "color": "#c0c0c0",
+        "Degree": 1,
+        "Eccentricity": 1.0,
+        "closnesscentrality": 1.0,
+        "harmonicclosnesscentrality": 1.0,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 11
+      }
+    },
+    {
+      "key": "추석",
+      "attributes": {
+        "label": "추석",
+        "x": 482.76358,
+        "y": -1678.5659,
+        "size": 4.3,
+        "color": "#00bd94",
+        "Degree": 2,
+        "Eccentricity": 4.0,
+        "closnesscentrality": 0.33532934131736525,
+        "harmonicclosnesscentrality": 0.36607142857142844,
+        "betweenesscentrality": 108.0,
+        "modularity_class": 5
+      }
+    },
+    {
+      "key": "추천",
+      "attributes": {
+        "label": "추천",
+        "x": 70.09806,
+        "y": -1749.0334,
+        "size": 4.3,
+        "color": "#73c000",
+        "Degree": 2,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.37333333333333335,
+        "harmonicclosnesscentrality": 0.4127976190476191,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "축제",
+      "attributes": {
+        "label": "축제",
+        "x": -303.28424,
+        "y": -1482.0797,
+        "size": 24.1,
+        "color": "#df89ff",
+        "Degree": 8,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.45528455284552843,
+        "harmonicclosnesscentrality": 0.519940476190476,
+        "betweenesscentrality": 66.46666666666667,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "치맥",
+      "attributes": {
+        "label": "치맥",
+        "x": -138.59073,
+        "y": -1503.5614,
+        "size": 34.0,
+        "color": "#df89ff",
+        "Degree": 11,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.4827586206896552,
+        "harmonicclosnesscentrality": 0.5586309523809522,
+        "betweenesscentrality": 23.51666666666667,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "치킨",
+      "attributes": {
+        "label": "치킨",
+        "x": -54.340927,
+        "y": -1521.4259,
+        "size": 10.900001,
+        "color": "#df89ff",
+        "Degree": 4,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.42748091603053434,
+        "harmonicclosnesscentrality": 0.4723214285714284,
+        "betweenesscentrality": 1.05,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "페스티벌",
+      "attributes": {
+        "label": "페스티벌",
+        "x": -230.19925,
+        "y": -1519.5017,
+        "size": 50.5,
+        "color": "#df89ff",
+        "Degree": 16,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.509090909090909,
+        "harmonicclosnesscentrality": 0.60625,
+        "betweenesscentrality": 109.44999999999999,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "평화시장",
+      "attributes": {
+        "label": "평화시장",
+        "x": -44.081547,
+        "y": -1861.5581,
+        "size": 1.0,
+        "color": "#df89ff",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.36363636363636365,
+        "harmonicclosnesscentrality": 0.3949404761904761,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 0
+      }
+    },
+    {
+      "key": "한국",
+      "attributes": {
+        "label": "한국",
+        "x": -386.1284,
+        "y": -1840.4271,
+        "size": 1.0,
+        "color": "#4c463e",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.30939226519337015,
+        "harmonicclosnesscentrality": 0.3324404761904762,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 10
+      }
+    },
+    {
+      "key": "할인",
+      "attributes": {
+        "label": "할인",
+        "x": 236.99751,
+        "y": -1236.9966,
+        "size": 1.0,
+        "color": "#73c000",
+        "Degree": 1,
+        "Eccentricity": 5.0,
+        "closnesscentrality": 0.35668789808917195,
+        "harmonicclosnesscentrality": 0.3845238095238094,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 6
+      }
+    },
+    {
+      "key": "후쿠시마",
+      "attributes": {
+        "label": "후쿠시마",
+        "x": 185.5684,
+        "y": -846.02734,
+        "size": 1.0,
+        "color": "#00c4ff",
+        "Degree": 1,
+        "Eccentricity": 6.0,
+        "closnesscentrality": 0.3128491620111732,
+        "harmonicclosnesscentrality": 0.3369047619047619,
+        "betweenesscentrality": 0.0,
+        "modularity_class": 3
+      }
+    }
+  ],
+  "edges": [
+    {
+      "key": "0",
+      "source": "0507",
+      "target": "대구",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "1",
+      "source": "0507",
+      "target": "맛집",
+      "attributes": {
+        "color": "#e7f5f7",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "2",
+      "source": "0507",
+      "target": "서문시장",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "3",
+      "source": "2023",
+      "target": "50",
+      "attributes": {
+        "color": "#5bb997",
+        "weight": 98.0
+      }
+    },
+    {
+      "key": "4",
+      "source": "2023",
+      "target": "8월",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "5",
+      "source": "2023",
+      "target": "9월",
+      "attributes": {
+        "color": "#e7f5f7",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "6",
+      "source": "2023",
+      "target": "가격",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "7",
+      "source": "2023",
+      "target": "공원",
+      "attributes": {
+        "color": "#b5e1d7",
+        "weight": 43.0
+      }
+    },
+    {
+      "key": "8",
+      "source": "2023",
+      "target": "관광",
+      "attributes": {
+        "color": "#d3edea",
+        "weight": 25.0
+      }
+    },
+    {
+      "key": "9",
+      "source": "2023",
+      "target": "광장",
+      "attributes": {
+        "color": "#e4f4f5",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "10",
+      "source": "2023",
+      "target": "기간",
+      "attributes": {
+        "color": "#e6f5f6",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "11",
+      "source": "2023",
+      "target": "김밥",
+      "attributes": {
+        "color": "#e2f3f4",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "12",
+      "source": "2023",
+      "target": "대구",
+      "attributes": {
+        "color": "#5ab896",
+        "weight": 99.0
+      }
+    },
+    {
+      "key": "13",
+      "source": "2023",
+      "target": "대한민국",
+      "attributes": {
+        "color": "#e4f4f5",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "14",
+      "source": "2023",
+      "target": "대회",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "15",
+      "source": "2023",
+      "target": "맛있다",
+      "attributes": {
+        "color": "#e1f3f3",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "16",
+      "source": "2023",
+      "target": "맛집",
+      "attributes": {
+        "color": "#b1e0d4",
+        "weight": 45.0
+      }
+    },
+    {
+      "key": "17",
+      "source": "2023",
+      "target": "맥주",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "18",
+      "source": "2023",
+      "target": "사전예약",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "19",
+      "source": "2023",
+      "target": "서문시장",
+      "attributes": {
+        "color": "#9ad6c5",
+        "weight": 59.0
+      }
+    },
+    {
+      "key": "20",
+      "source": "2023",
+      "target": "서울",
+      "attributes": {
+        "color": "#e6f5f6",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "21",
+      "source": "2023",
+      "target": "센터",
+      "attributes": {
+        "color": "#dff2f2",
+        "weight": 18.0
+      }
+    },
+    {
+      "key": "22",
+      "source": "2023",
+      "target": "순환로",
+      "attributes": {
+        "color": "#e7f5f7",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "23",
+      "source": "2023",
+      "target": "시간",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "24",
+      "source": "2023",
+      "target": "시민",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "25",
+      "source": "2023",
+      "target": "시장",
+      "attributes": {
+        "color": "#e6f5f6",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "26",
+      "source": "2023",
+      "target": "여름",
+      "attributes": {
+        "color": "#e7f5f7",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "27",
+      "source": "2023",
+      "target": "예약",
+      "attributes": {
+        "color": "#e4f4f5",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "28",
+      "source": "2023",
+      "target": "정보",
+      "attributes": {
+        "color": "#e1f3f3",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "29",
+      "source": "2023",
+      "target": "주차장",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "30",
+      "source": "2023",
+      "target": "축제",
+      "attributes": {
+        "color": "#c6e8e1",
+        "weight": 33.0
+      }
+    },
+    {
+      "key": "31",
+      "source": "2023",
+      "target": "치맥",
+      "attributes": {
+        "color": "#5ab896",
+        "weight": 99.0
+      }
+    },
+    {
+      "key": "32",
+      "source": "2023",
+      "target": "치킨",
+      "attributes": {
+        "color": "#ddf1f1",
+        "weight": 19.0
+      }
+    },
+    {
+      "key": "33",
+      "source": "2023",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#309565",
+        "weight": 132.0
+      }
+    },
+    {
+      "key": "34",
+      "source": "3일",
+      "target": "9월",
+      "attributes": {
+        "color": "#e1f3f3",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "35",
+      "source": "40",
+      "target": "60",
+      "attributes": {
+        "color": "#ddf1f1",
+        "weight": 19.0
+      }
+    },
+    {
+      "key": "36",
+      "source": "50",
+      "target": "70",
+      "attributes": {
+        "color": "#daf0ef",
+        "weight": 21.0
+      }
+    },
+    {
+      "key": "37",
+      "source": "50",
+      "target": "가격",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "38",
+      "source": "50",
+      "target": "공원",
+      "attributes": {
+        "color": "#d7efec",
+        "weight": 23.0
+      }
+    },
+    {
+      "key": "39",
+      "source": "50",
+      "target": "김밥",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "40",
+      "source": "50",
+      "target": "대구",
+      "attributes": {
+        "color": "#a4dacc",
+        "weight": 53.0
+      }
+    },
+    {
+      "key": "41",
+      "source": "50",
+      "target": "맛집",
+      "attributes": {
+        "color": "#b1e0d4",
+        "weight": 45.0
+      }
+    },
+    {
+      "key": "42",
+      "source": "50",
+      "target": "바로가기",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "43",
+      "source": "50",
+      "target": "서문시장",
+      "attributes": {
+        "color": "#82cdb6",
+        "weight": 73.0
+      }
+    },
+    {
+      "key": "44",
+      "source": "50",
+      "target": "서울",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "45",
+      "source": "50",
+      "target": "순환로",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "46",
+      "source": "50",
+      "target": "시간",
+      "attributes": {
+        "color": "#dff2f2",
+        "weight": 18.0
+      }
+    },
+    {
+      "key": "47",
+      "source": "50",
+      "target": "영업",
+      "attributes": {
+        "color": "#e4f4f5",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "48",
+      "source": "50",
+      "target": "예약",
+      "attributes": {
+        "color": "#d5eeeb",
+        "weight": 24.0
+      }
+    },
+    {
+      "key": "49",
+      "source": "50",
+      "target": "주차장",
+      "attributes": {
+        "color": "#e7f5f7",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "50",
+      "source": "50",
+      "target": "치맥",
+      "attributes": {
+        "color": "#ceebe7",
+        "weight": 28.0
+      }
+    },
+    {
+      "key": "51",
+      "source": "50",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#bde5dc",
+        "weight": 38.0
+      }
+    },
+    {
+      "key": "52",
+      "source": "50",
+      "target": "할인",
+      "attributes": {
+        "color": "#e6f5f6",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "53",
+      "source": "5일",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#e7f5f7",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "54",
+      "source": "70",
+      "target": "바로가기",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "55",
+      "source": "9월",
+      "target": "공원",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "56",
+      "source": "9월",
+      "target": "대구",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "57",
+      "source": "9월",
+      "target": "축제",
+      "attributes": {
+        "color": "#e7f5f7",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "58",
+      "source": "9월",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "59",
+      "source": "경제",
+      "target": "민원",
+      "attributes": {
+        "color": "#e2f3f4",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "60",
+      "source": "경제",
+      "target": "지역",
+      "attributes": {
+        "color": "#e7f5f7",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "61",
+      "source": "공원",
+      "target": "광장",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "62",
+      "source": "공원",
+      "target": "대구",
+      "attributes": {
+        "color": "#d8efed",
+        "weight": 22.0
+      }
+    },
+    {
+      "key": "63",
+      "source": "공원",
+      "target": "복자",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "64",
+      "source": "공원",
+      "target": "사전예약",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "65",
+      "source": "공원",
+      "target": "순환로",
+      "attributes": {
+        "color": "#bde5dc",
+        "weight": 38.0
+      }
+    },
+    {
+      "key": "66",
+      "source": "공원",
+      "target": "주차장",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "67",
+      "source": "공원",
+      "target": "축제",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "68",
+      "source": "공원",
+      "target": "치맥",
+      "attributes": {
+        "color": "#dcf1f0",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "69",
+      "source": "공원",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#d2ede9",
+        "weight": 26.0
+      }
+    },
+    {
+      "key": "70",
+      "source": "관광",
+      "target": "대구",
+      "attributes": {
+        "color": "#e2f3f4",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "71",
+      "source": "관광",
+      "target": "센터",
+      "attributes": {
+        "color": "#ccebe6",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "72",
+      "source": "관광",
+      "target": "정보",
+      "attributes": {
+        "color": "#ccebe6",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "73",
+      "source": "관광",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "74",
+      "source": "관광",
+      "target": "한국",
+      "attributes": {
+        "color": "#e7f5f7",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "75",
+      "source": "광장",
+      "target": "시민",
+      "attributes": {
+        "color": "#bfe5dd",
+        "weight": 37.0
+      }
+    },
+    {
+      "key": "76",
+      "source": "광장",
+      "target": "잔디",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "77",
+      "source": "광장",
+      "target": "치맥",
+      "attributes": {
+        "color": "#e6f5f6",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "78",
+      "source": "광장",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#e1f3f3",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "79",
+      "source": "광장시장",
+      "target": "연휴",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "80",
+      "source": "기간",
+      "target": "축제",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "81",
+      "source": "김기현",
+      "target": "서울",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "82",
+      "source": "김밥",
+      "target": "서문시장",
+      "attributes": {
+        "color": "#ddf1f1",
+        "weight": 19.0
+      }
+    },
+    {
+      "key": "83",
+      "source": "대구",
+      "target": "맛집",
+      "attributes": {
+        "color": "#8bd0bb",
+        "weight": 68.0
+      }
+    },
+    {
+      "key": "84",
+      "source": "대구",
+      "target": "서문시장",
+      "attributes": {
+        "color": "#7bcab2",
+        "weight": 77.0
+      }
+    },
+    {
+      "key": "85",
+      "source": "대구",
+      "target": "센터",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "86",
+      "source": "대구",
+      "target": "시간",
+      "attributes": {
+        "color": "#dcf1f0",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "87",
+      "source": "대구",
+      "target": "시장",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "88",
+      "source": "대구",
+      "target": "식품",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "89",
+      "source": "대구",
+      "target": "영업",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "90",
+      "source": "대구",
+      "target": "예약",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "91",
+      "source": "대구",
+      "target": "인스타그램",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "92",
+      "source": "대구",
+      "target": "정보",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "93",
+      "source": "대구",
+      "target": "주차장",
+      "attributes": {
+        "color": "#e6f5f6",
+        "weight": 14.0
+      }
+    },
+    {
+      "key": "94",
+      "source": "대구",
+      "target": "추천",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "95",
+      "source": "대구",
+      "target": "축제",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "96",
+      "source": "대구",
+      "target": "치맥",
+      "attributes": {
+        "color": "#6ec5a9",
+        "weight": 85.0
+      }
+    },
+    {
+      "key": "97",
+      "source": "대구",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#69c3a6",
+        "weight": 88.0
+      }
+    },
+    {
+      "key": "98",
+      "source": "대구",
+      "target": "평화시장",
+      "attributes": {
+        "color": "#e4f4f5",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "99",
+      "source": "대한민국",
+      "target": "축제",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "100",
+      "source": "동행",
+      "target": "축제",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "101",
+      "source": "맛있다",
+      "target": "맛집",
+      "attributes": {
+        "color": "#dff2f2",
+        "weight": 18.0
+      }
+    },
+    {
+      "key": "102",
+      "source": "맛있다",
+      "target": "서문시장",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "103",
+      "source": "맛집",
+      "target": "서문시장",
+      "attributes": {
+        "color": "#7acab1",
+        "weight": 78.0
+      }
+    },
+    {
+      "key": "104",
+      "source": "맛집",
+      "target": "시간",
+      "attributes": {
+        "color": "#e2f3f4",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "105",
+      "source": "맛집",
+      "target": "영업",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "106",
+      "source": "맛집",
+      "target": "전화번호",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "107",
+      "source": "맛집",
+      "target": "추천",
+      "attributes": {
+        "color": "#e4f4f5",
+        "weight": 15.0
+      }
+    },
+    {
+      "key": "108",
+      "source": "맛집",
+      "target": "치킨",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "109",
+      "source": "사전예약",
+      "target": "치맥",
+      "attributes": {
+        "color": "#e2f3f4",
+        "weight": 16.0
+      }
+    },
+    {
+      "key": "110",
+      "source": "사전예약",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#e1f3f3",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "111",
+      "source": "서문시장",
+      "target": "시간",
+      "attributes": {
+        "color": "#e1f3f3",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "112",
+      "source": "서문시장",
+      "target": "추석",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "113",
+      "source": "서울",
+      "target": "온누리상품권",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "114",
+      "source": "서울",
+      "target": "정부",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "115",
+      "source": "서울",
+      "target": "청사",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "116",
+      "source": "서울",
+      "target": "후쿠시마",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "117",
+      "source": "센터",
+      "target": "정보",
+      "attributes": {
+        "color": "#ccebe6",
+        "weight": 29.0
+      }
+    },
+    {
+      "key": "118",
+      "source": "센터",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "119",
+      "source": "시간",
+      "target": "영업",
+      "attributes": {
+        "color": "#98d6c4",
+        "weight": 60.0
+      }
+    },
+    {
+      "key": "120",
+      "source": "시간",
+      "target": "예약",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "121",
+      "source": "시간",
+      "target": "전화번호",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "122",
+      "source": "시장",
+      "target": "전통",
+      "attributes": {
+        "color": "#d0ece8",
+        "weight": 27.0
+      }
+    },
+    {
+      "key": "123",
+      "source": "안전",
+      "target": "점검",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "124",
+      "source": "야외",
+      "target": "음악당",
+      "attributes": {
+        "color": "#dff2f2",
+        "weight": 18.0
+      }
+    },
+    {
+      "key": "125",
+      "source": "여름",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "126",
+      "source": "연휴",
+      "target": "추석",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "127",
+      "source": "영업",
+      "target": "전화번호",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "128",
+      "source": "예약",
+      "target": "치맥",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "129",
+      "source": "예약",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#dff2f2",
+        "weight": 18.0
+      }
+    },
+    {
+      "key": "130",
+      "source": "이웃",
+      "target": "추가",
+      "attributes": {
+        "color": "#dcf1f0",
+        "weight": 20.0
+      }
+    },
+    {
+      "key": "131",
+      "source": "정보",
+      "target": "주차장",
+      "attributes": {
+        "color": "#edf8fb",
+        "weight": 10.0
+      }
+    },
+    {
+      "key": "132",
+      "source": "정보",
+      "target": "치맥",
+      "attributes": {
+        "color": "#e7f5f7",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "133",
+      "source": "정보",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#e1f3f3",
+        "weight": 17.0
+      }
+    },
+    {
+      "key": "134",
+      "source": "주차장",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#e9f6f8",
+        "weight": 12.0
+      }
+    },
+    {
+      "key": "135",
+      "source": "축제",
+      "target": "치맥",
+      "attributes": {
+        "color": "#ebf7f9",
+        "weight": 11.0
+      }
+    },
+    {
+      "key": "136",
+      "source": "치맥",
+      "target": "치킨",
+      "attributes": {
+        "color": "#e7f5f7",
+        "weight": 13.0
+      }
+    },
+    {
+      "key": "137",
+      "source": "치맥",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#006d2c",
+        "weight": 170.0
+      }
+    },
+    {
+      "key": "138",
+      "source": "치킨",
+      "target": "페스티벌",
+      "attributes": {
+        "color": "#daf0ef",
+        "weight": 21.0
+      }
+    }
+  ]
+}
